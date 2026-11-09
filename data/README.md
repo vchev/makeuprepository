@@ -40,3 +40,11 @@ Only reliable evidence can move a rating. A study counts if it is peer-reviewed 
 python3 scripts/rate.py      # validate data/ and regenerate the two generated files
 python3 tests/test_rate.py   # check the rules against a small fixture
 ```
+
+## Ingredient labels
+
+Labels are copied verbatim from each brand's official product page (never from Sephora), with the URL and capture date in `ingredient_lists.csv`. When a brand prints different lists per shade, each list is its own row. `scripts/import_labels.py` splits every label into `list_items.csv` and adds any new ingredients; colorants are keyed by their CI number.
+
+```sh
+cd scripts && python3 import_labels.py && cd .. && python3 scripts/rate.py
+```
