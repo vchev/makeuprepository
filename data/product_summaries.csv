@@ -18,7 +18,7 @@ ilia-balmy-tint,ilia-balmy-tint,,citrus-aurantium-dulcis-orange-peel-cera-wax,No
 ilia-balmy-tint,ilia-balmy-tint,,olea-europaea-olive-fruit-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-balmy-tint,ilia-balmy-tint,,persea-gratissima-avocado-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-balmy-tint,ilia-balmy-tint,,helianthus-annuus-sunflower-extract,Unclear,dermal: Unclear; oral: Unclear
-ilia-balmy-tint,ilia-balmy-tint,,vanillin,No research found,dermal: No research found; oral: No research found
+ilia-balmy-tint,ilia-balmy-tint,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 ilia-balmy-tint,ilia-balmy-tint,,caprylyl-glycol,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-balmy-tint,ilia-balmy-tint,,ethylhexylglycerin,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-balmy-tint,ilia-balmy-tint,,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -52,7 +52,7 @@ kosas-weightless-lip-color,kosas-weightless-lip-color,,theobroma-cacao-cocoa-see
 kosas-weightless-lip-color,kosas-weightless-lip-color,,vitis-vinifera-grape-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-weightless-lip-color,kosas-weightless-lip-color,,butyrospermum-parkii-shea-butter,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-weightless-lip-color,kosas-weightless-lip-color,,carthamus-tinctorius-safflower-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
-kosas-weightless-lip-color,kosas-weightless-lip-color,,citrus-aurantium-dulcis-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+kosas-weightless-lip-color,kosas-weightless-lip-color,,citrus-aurantium-dulcis-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 kosas-weightless-lip-color,kosas-weightless-lip-color,,helianthus-annuus-sunflower-extract,Unclear,dermal: Unclear; oral: Unclear
 kosas-weightless-lip-color,kosas-weightless-lip-color,,mangifera-indica-mango-seed-butter,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-weightless-lip-color,kosas-weightless-lip-color,,rosa-canina-seed-oil,No research found,dermal: No research found; oral: No research found
@@ -62,8 +62,8 @@ kosas-weightless-lip-color,kosas-weightless-lip-color,,tocopherol,No concerns fo
 kosas-weightless-lip-color,kosas-weightless-lip-color,,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-weightless-lip-color,kosas-weightless-lip-color,,ethylhexylglycerin,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-weightless-lip-color,kosas-weightless-lip-color,,caprylyl-glycol,No concerns found,dermal: No concerns found; oral: No concerns found
-kosas-weightless-lip-color,kosas-weightless-lip-color,,vanillin,No research found,dermal: No research found; oral: No research found
-kosas-weightless-lip-color,kosas-weightless-lip-color,,limonene,No research found,dermal: No research found; oral: No research found
+kosas-weightless-lip-color,kosas-weightless-lip-color,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
+kosas-weightless-lip-color,kosas-weightless-lip-color,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 kosas-weightless-lip-color,kosas-weightless-lip-color,,linalool,No research found,dermal: No research found; oral: No research found
 kosas-weightless-lip-color,kosas-weightless-lip-color,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 kosas-weightless-lip-color,kosas-weightless-lip-color,,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -91,7 +91,7 @@ mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,methicone,N
 mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,disteardimonium-hectorite,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,propylene-carbonate,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,lecithin,No concerns found,dermal: No concerns found; oral: No concerns found
-mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,vanillin,No research found,dermal: No research found; oral: No research found
+mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,mica,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-macximal-silky-matte-lipstick,mac-macximal-silky-matte-lipstick,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
@@ -184,13 +184,13 @@ dior-addict-lip-glow,dior-addict-lip-glow,,fragrance,No research found,dermal: N
 dior-addict-lip-glow,dior-addict-lip-glow,,caprylic-capric-triglyceride,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-addict-lip-glow,dior-addict-lip-glow,,silica,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-addict-lip-glow,dior-addict-lip-glow,,butyrospermum-parkii-shea-butter-unsaponifiables,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-addict-lip-glow,dior-addict-lip-glow,,menthol,No research found,dermal: No research found; oral: No research found
+dior-addict-lip-glow,dior-addict-lip-glow,,menthol,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-addict-lip-glow,dior-addict-lip-glow,,prunus-avium-sweet-cherry-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-addict-lip-glow,dior-addict-lip-glow,,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-addict-lip-glow,dior-addict-lip-glow,,ethyl-vanillin,No research found,dermal: No research found; oral: No research found
-dior-addict-lip-glow,dior-addict-lip-glow,,vanillin,No research found,dermal: No research found; oral: No research found
+dior-addict-lip-glow,dior-addict-lip-glow,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-addict-lip-glow,dior-addict-lip-glow,,diisostearyl-malate,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-addict-lip-glow,dior-addict-lip-glow,,mentha-piperita-peppermint-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+dior-addict-lip-glow,dior-addict-lip-glow,,mentha-piperita-peppermint-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-addict-lip-glow,dior-addict-lip-glow,,trimethylolpropane-triisostearate,No research found,dermal: No research found; oral: No research found
 dior-addict-lip-glow,dior-addict-lip-glow,,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-addict-lip-glow,dior-addict-lip-glow,,undaria-pinnatifida-extract,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -238,7 +238,7 @@ glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",carthamus-t
 glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",isopropyl-alcohol,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",agave-tequilana-leaf-extract,No research found,dermal: No research found; oral: No research found
 glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
-glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",benzyl-alcohol,No concerns found,dermal: No concerns found; oral: No concerns found
+glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",benzyl-alcohol,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-generation-g-crush-like,glossier-generation-g,"Crush, Like",ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -280,7 +280,7 @@ glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zi
 glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zip",isopropyl-alcohol,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zip",agave-tequilana-leaf-extract,No research found,dermal: No research found; oral: No research found
 glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zip",tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
-glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zip",benzyl-alcohol,No concerns found,dermal: No concerns found; oral: No concerns found
+glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zip",benzyl-alcohol,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zip",titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zip",ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-generation-g-cake-jam-leo-zip,glossier-generation-g,"Cake, Jam, Leo, Zip",ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -394,7 +394,7 @@ fenty-gloss-bomb-fenty-glow,fenty-gloss-bomb,Fenty Glow,titanium-dioxide,Unclear
 fenty-gloss-bomb-fenty-glow,fenty-gloss-bomb,Fenty Glow,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fenty-glow,fenty-gloss-bomb,Fenty Glow,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fenty-glow,fenty-gloss-bomb,Fenty Glow,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-fenty-glow,fenty-gloss-bomb,Fenty Glow,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-fenty-glow,fenty-gloss-bomb,Fenty Glow,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,polybutene,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,octyldodecanol,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,bis-diglyceryl-polyacyladipate-2,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -421,7 +421,7 @@ fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,fragrance,No research found,dermal:
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,sorbitan-isostearate,No concerns found,dermal: No concerns found; oral: No concerns found
-fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,synthetic-fluorphlogopite,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,tetrahexyldecyl-ascorbate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fu-y,fenty-gloss-bomb,Fu$$Y,lactic-acid,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -460,7 +460,7 @@ fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,tocopherol,No concer
 fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,sorbitan-isostearate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,mica,No concerns found,dermal: No concerns found; oral: No concerns found
-fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,synthetic-fluorphlogopite,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-hot-chocolit,fenty-gloss-bomb,Hot Chocolit,tetrahexyldecyl-ascorbate,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -498,7 +498,7 @@ fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,fragrance,No research f
 fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,sorbitan-isostearate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
-fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,synthetic-fluorphlogopite,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,tetrahexyldecyl-ascorbate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-weet-mouth,fenty-gloss-bomb,$Weet Mouth,lactic-acid,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -525,7 +525,7 @@ fenty-gloss-bomb-glass-slipper,fenty-gloss-bomb,Glass Slipper,butyrospermum-park
 fenty-gloss-bomb-glass-slipper,fenty-gloss-bomb,Glass Slipper,butyrospermum-parkii-shea-butter-unsaponifiables,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-glass-slipper,fenty-gloss-bomb,Glass Slipper,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-glass-slipper,fenty-gloss-bomb,Glass Slipper,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-glass-slipper,fenty-gloss-bomb,Glass Slipper,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-glass-slipper,fenty-gloss-bomb,Glass Slipper,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,polybutene,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,octyldodecanol,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,bis-diglyceryl-polyacyladipate-2,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -561,7 +561,7 @@ fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,palmitoyl-tripeptide-1,No concerns f
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-riri,fenty-gloss-bomb,Riri,ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -602,7 +602,7 @@ fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,palm
 fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-hot-chocolit-fantasy,fenty-gloss-bomb,Hot Chocolit Fantasy,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -641,7 +641,7 @@ fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,calcium-aluminum
 fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,polyethylene-terephthalate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-clf-candy-soda,fenty-gloss-bomb,Clf Candy Soda,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -683,7 +683,7 @@ fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,palmitoyl-tripeptide
 fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-fuchsia-flex,fenty-gloss-bomb,Fuchsia Flex,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -723,7 +723,7 @@ fenty-gloss-bomb-champ-stamp-fantasy,fenty-gloss-bomb,Champ Stamp Fantasy,palmit
 fenty-gloss-bomb-champ-stamp-fantasy,fenty-gloss-bomb,Champ Stamp Fantasy,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-champ-stamp-fantasy,fenty-gloss-bomb,Champ Stamp Fantasy,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-champ-stamp-fantasy,fenty-gloss-bomb,Champ Stamp Fantasy,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-champ-stamp-fantasy,fenty-gloss-bomb,Champ Stamp Fantasy,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-champ-stamp-fantasy,fenty-gloss-bomb,Champ Stamp Fantasy,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-champ-stamp-fantasy,fenty-gloss-bomb,Champ Stamp Fantasy,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-champ-stamp-fantasy,fenty-gloss-bomb,Champ Stamp Fantasy,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,polybutene,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -760,7 +760,7 @@ fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,palmitoyl-tripeptide-1
 fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-mango-margz,fenty-gloss-bomb,Mango Margz,ci-19140,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -800,7 +800,7 @@ fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,palmitoyl-tripeptide-1,N
 fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-rose-amber,fenty-gloss-bomb,Rose Amber,ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -839,7 +839,7 @@ fenty-gloss-bomb-gimme-space,fenty-gloss-bomb,Gimme Space,palmitoyl-tripeptide-1
 fenty-gloss-bomb-gimme-space,fenty-gloss-bomb,Gimme Space,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-gimme-space,fenty-gloss-bomb,Gimme Space,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-gimme-space,fenty-gloss-bomb,Gimme Space,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-gimme-space,fenty-gloss-bomb,Gimme Space,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-gimme-space,fenty-gloss-bomb,Gimme Space,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-gimme-space,fenty-gloss-bomb,Gimme Space,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-gimme-space,fenty-gloss-bomb,Gimme Space,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,polybutene,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -876,7 +876,7 @@ fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,polyethylene-terepht
 fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,ci-75470,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-grape-splash,fenty-gloss-bomb,Grape Splash,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -915,7 +915,7 @@ fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,acrylates-copoly
 fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-pink-dragonfly,fenty-gloss-bomb,Pink Dragonfly,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -952,11 +952,11 @@ fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,calcium-alumin
 fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,polyethylene-terephthalate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
-fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
+fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,citrus-aurantium-peel-oil,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,limonene,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,vanillin,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,citrus-aurantium-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
+fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
+fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,ci-77510,No research found,dermal: No concerns found; oral: No research found
 fenty-gloss-bomb-caviar-crystalz,fenty-gloss-bomb,Caviar Crystalz,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -994,11 +994,11 @@ fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,calcium-aluminum-bor
 fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,polyethylene-terephthalate,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,palmitoyl-tripeptide-1,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
-fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
+fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,citrus-aurantium-peel-oil,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,limonene,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,vanillin,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,citrus-aurantium-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
+fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
+fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-diamond-milk,fenty-gloss-bomb,Diamond Milk,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,polybutene,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,octyldodecanol,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1034,7 +1034,7 @@ fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,palmitoyl-tripeptide-1
 fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,acrylates-copolymer,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,limonene,No research found,dermal: No research found; oral: No research found
+fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 fenty-gloss-bomb-cherry-amor,fenty-gloss-bomb,Cherry Amor,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1056,7 +1056,7 @@ clinique-chubby-stick,clinique-chubby-stick,,mangifera-indica-mango-seed-butter,
 clinique-chubby-stick,clinique-chubby-stick,,limnanthes-alba-meadowfoam-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 clinique-chubby-stick,clinique-chubby-stick,,helianthus-annuus-sunflower-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 clinique-chubby-stick,clinique-chubby-stick,,olea-europaea-olive-fruit-oil,No concerns found,dermal: No concerns found; oral: No concerns found
-clinique-chubby-stick,clinique-chubby-stick,,benzyl-alcohol,No concerns found,dermal: No concerns found; oral: No concerns found
+clinique-chubby-stick,clinique-chubby-stick,,benzyl-alcohol,Known allergen,dermal: Known allergen; oral: Known allergen
 clinique-chubby-stick,clinique-chubby-stick,,mica,No concerns found,dermal: No concerns found; oral: No concerns found
 clinique-chubby-stick,clinique-chubby-stick,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 clinique-chubby-stick,clinique-chubby-stick,,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1232,7 +1232,7 @@ ct-collagen-lip-bath,ct-collagen-lip-bath,,stearalkonium-hectorite,No concerns f
 ct-collagen-lip-bath,ct-collagen-lip-bath,,simmondsia-chinensis-jojoba-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,caprylic-capric-triglyceride,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,soluble-collagen,No concerns found,dermal: No concerns found; oral: No concerns found
-ct-collagen-lip-bath,ct-collagen-lip-bath,,mentha-piperita-peppermint-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+ct-collagen-lip-bath,ct-collagen-lip-bath,,mentha-piperita-peppermint-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 ct-collagen-lip-bath,ct-collagen-lip-bath,,punica-granatum-pomegranate-flower-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,sclerocarya-birrea-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,sodium-hyaluronate,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1242,7 +1242,7 @@ ct-collagen-lip-bath,ct-collagen-lip-bath,,leuconostoc-radish-root-ferment-filtr
 ct-collagen-lip-bath,ct-collagen-lip-bath,,tripeptide-1,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,palmitoyl-tripeptide-1,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,ethylhexyl-palmitate,No concerns found,dermal: No concerns found; oral: No concerns found
-ct-collagen-lip-bath,ct-collagen-lip-bath,,menthol,No research found,dermal: No research found; oral: No research found
+ct-collagen-lip-bath,ct-collagen-lip-bath,,menthol,Known allergen,dermal: Known allergen; oral: Known allergen
 ct-collagen-lip-bath,ct-collagen-lip-bath,,propylene-carbonate,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,tribehenin,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,polyglyceryl-3-diisostearate,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1256,7 +1256,7 @@ ct-collagen-lip-bath,ct-collagen-lip-bath,,xanthan-gum,No concerns found,dermal:
 ct-collagen-lip-bath,ct-collagen-lip-bath,,retinyl-palmitate,No research found,dermal: No research found; oral: No research found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,lactic-acid,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
-ct-collagen-lip-bath,ct-collagen-lip-bath,,limonene,No research found,dermal: No research found; oral: No research found
+ct-collagen-lip-bath,ct-collagen-lip-bath,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 ct-collagen-lip-bath,ct-collagen-lip-bath,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 ct-collagen-lip-bath,ct-collagen-lip-bath,,ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
 ct-collagen-lip-bath,ct-collagen-lip-bath,,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1411,7 +1411,7 @@ ilia-color-block-lipstick,ilia-color-block-lipstick,,hydroxystearic-linolenic-ol
 ilia-color-block-lipstick,ilia-color-block-lipstick,,helianthus-annuus-sunflower-seed-wax,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-color-block-lipstick,ilia-color-block-lipstick,,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-color-block-lipstick,ilia-color-block-lipstick,,helianthus-annuus-sunflower-extract,Unclear,dermal: Unclear; oral: Unclear
-ilia-color-block-lipstick,ilia-color-block-lipstick,,vanillin,No research found,dermal: No research found; oral: No research found
+ilia-color-block-lipstick,ilia-color-block-lipstick,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 ilia-color-block-lipstick,ilia-color-block-lipstick,,caprylyl-glycol,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-color-block-lipstick,ilia-color-block-lipstick,,ethylhexylglycerin,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-color-block-lipstick,ilia-color-block-lipstick,,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1489,7 +1489,7 @@ ilia-lip-wrap,ilia-lip-wrap,,stearic-acid,No concerns found,dermal: No concerns 
 ilia-lip-wrap,ilia-lip-wrap,,stevia-rebaudiana-leaf-stem-extract,No research found,dermal: No research found; oral: No research found
 ilia-lip-wrap,ilia-lip-wrap,,gardenia-taitensis-flower-extract,No research found,dermal: No research found; oral: No research found
 ilia-lip-wrap,ilia-lip-wrap,,brassica-campestris-rapeseed-sterols,No concerns found,dermal: No concerns found; oral: No concerns found
-ilia-lip-wrap,ilia-lip-wrap,,limonene,No research found,dermal: No research found; oral: No research found
+ilia-lip-wrap,ilia-lip-wrap,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 ilia-lip-wrap,ilia-lip-wrap,,linalool,No research found,dermal: No research found; oral: No research found
 ilia-overglaze,ilia-overglaze,,hydrogenated-polydecene,No concerns found,dermal: No concerns found; oral: No concerns found
 ilia-overglaze,ilia-overglaze,,polybutene,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1542,7 +1542,7 @@ kosas-lipfuel,kosas-lipfuel,,sodium-hyaluronate,No concerns found,dermal: No con
 kosas-lipfuel,kosas-lipfuel,,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-lipfuel,kosas-lipfuel,,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-lipfuel,kosas-lipfuel,,trihydroxystearin,No concerns found,dermal: No concerns found; oral: No concerns found
-kosas-lipfuel,kosas-lipfuel,,limonene,No research found,dermal: No research found; oral: No research found
+kosas-lipfuel,kosas-lipfuel,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 kosas-lipfuel,kosas-lipfuel,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 kosas-lipfuel,kosas-lipfuel,,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-lipfuel,kosas-lipfuel,,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1560,7 +1560,7 @@ kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,ethylhexyl-palmitate,No concern
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,oryza-sativa-rice-bran-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,silica-dimethyl-silylate-nano,No research found,dermal: No research found; oral: No research found
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,oenothera-biennis-evening-primrose-oil,No concerns found,dermal: No concerns found; oral: No concerns found
-kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,citrus-aurantium-dulcis-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,citrus-aurantium-dulcis-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,rosmarinus-officinalis-rosemary-leaf-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,helianthus-annuus-sunflower-extract,Unclear,dermal: Unclear; oral: Unclear
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,palmitoyl-tripeptide-1,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1574,8 +1574,8 @@ kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,trihydroxystearin,No concerns f
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,caprylyl-glycol,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,ethylhexylglycerin,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
-kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,vanillin,No research found,dermal: No research found; oral: No research found
-kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,limonene,No research found,dermal: No research found; oral: No research found
+kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
+kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,ci-77742,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-lip-oil-gloss,kosas-wet-lip-oil-gloss,,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1596,12 +1596,12 @@ kosas-wet-stick,kosas-wet-stick,,tribehenin,No concerns found,dermal: No concern
 kosas-wet-stick,kosas-wet-stick,,helianthus-annuus-sunflower-extract,Unclear,dermal: Unclear; oral: Unclear
 kosas-wet-stick,kosas-wet-stick,,ceramide-ng,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-stick,kosas-wet-stick,,palmitoyl-tripeptide-1,No concerns found,dermal: No concerns found; oral: No concerns found
-kosas-wet-stick,kosas-wet-stick,,citrus-aurantium-dulcis-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+kosas-wet-stick,kosas-wet-stick,,citrus-aurantium-dulcis-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 kosas-wet-stick,kosas-wet-stick,,rosmarinus-officinalis-rosemary-leaf-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-stick,kosas-wet-stick,,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-stick,kosas-wet-stick,,trihydroxystearin,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-stick,kosas-wet-stick,,sorbitan-isostearate,No concerns found,dermal: No concerns found; oral: No concerns found
-kosas-wet-stick,kosas-wet-stick,,vanillin,No research found,dermal: No research found; oral: No research found
+kosas-wet-stick,kosas-wet-stick,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 kosas-wet-stick,kosas-wet-stick,,ethylhexylglycerin,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-stick,kosas-wet-stick,,caprylyl-glycol,No concerns found,dermal: No concerns found; oral: No concerns found
 kosas-wet-stick,kosas-wet-stick,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
@@ -1653,7 +1653,7 @@ mac-lipglass,mac-lipglass,,alumina,No concerns found,dermal: No concerns found; 
 mac-lipglass,mac-lipglass,,propylene-carbonate,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-lipglass,mac-lipglass,,disteardimonium-hectorite,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-lipglass,mac-lipglass,,ethylhexyl-hydroxystearate,No concerns found,dermal: No concerns found; oral: No concerns found
-mac-lipglass,mac-lipglass,,vanillin,No research found,dermal: No research found; oral: No research found
+mac-lipglass,mac-lipglass,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 mac-lipglass,mac-lipglass,,phenoxyethanol,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-lipglass,mac-lipglass,,mica,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-lipglass,mac-lipglass,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
@@ -1703,7 +1703,7 @@ mac-locked-kiss-ink,mac-locked-kiss-ink,,saccharin,No research found,dermal: No 
 mac-locked-kiss-ink,mac-locked-kiss-ink,,tetrahexyldecyl-ascorbate,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-locked-kiss-ink,mac-locked-kiss-ink,,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-locked-kiss-ink,mac-locked-kiss-ink,,fragrance,No research found,dermal: No research found; oral: No research found
-mac-locked-kiss-ink,mac-locked-kiss-ink,,vanillin,No research found,dermal: No research found; oral: No research found
+mac-locked-kiss-ink,mac-locked-kiss-ink,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 mac-locked-kiss-ink,mac-locked-kiss-ink,,phenoxyethanol,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-locked-kiss-ink,mac-locked-kiss-ink,,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-locked-kiss-ink,mac-locked-kiss-ink,,ci-42090,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1755,7 +1755,7 @@ mac-lustreglass,mac-lustreglass,,synthetic-fluorphlogopite,No concerns found,der
 mac-lustreglass,mac-lustreglass,,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-lustreglass,mac-lustreglass,,peg-10-phytosterol,No research found,dermal: No research found; oral: No research found
 mac-lustreglass,mac-lustreglass,,synthetic-beeswax,No research found,dermal: No research found; oral: No research found
-mac-lustreglass,mac-lustreglass,,vanillin,No research found,dermal: No research found; oral: No research found
+mac-lustreglass,mac-lustreglass,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 mac-lustreglass,mac-lustreglass,,tetrahexyldecyl-ascorbate,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-lustreglass,mac-lustreglass,,mica,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-lustreglass,mac-lustreglass,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
@@ -1790,7 +1790,7 @@ mac-macximal-sleek-satin,mac-macximal-sleek-satin,,polyglyceryl-3-diisostearate,
 mac-macximal-sleek-satin,mac-macximal-sleek-satin,,squalane,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-macximal-sleek-satin,mac-macximal-sleek-satin,,silica,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-macximal-sleek-satin,mac-macximal-sleek-satin,,disteardimonium-hectorite,No concerns found,dermal: No concerns found; oral: No concerns found
-mac-macximal-sleek-satin,mac-macximal-sleek-satin,,vanillin,No research found,dermal: No research found; oral: No research found
+mac-macximal-sleek-satin,mac-macximal-sleek-satin,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 mac-macximal-sleek-satin,mac-macximal-sleek-satin,,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-macximal-sleek-satin,mac-macximal-sleek-satin,,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 mac-macximal-sleek-satin,mac-macximal-sleek-satin,,mica,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1832,13 +1832,13 @@ maybelline-baby-lips,maybelline-baby-lips,,flavor,No research found,dermal: No r
 maybelline-baby-lips,maybelline-baby-lips,,silica,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-baby-lips,maybelline-baby-lips,,isopropyl-palmitate,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-baby-lips,maybelline-baby-lips,,pentaerythrityl-tetraisostearate,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-baby-lips,maybelline-baby-lips,,limonene,No research found,dermal: No research found; oral: No research found
+maybelline-baby-lips,maybelline-baby-lips,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 maybelline-baby-lips,maybelline-baby-lips,,synthetic-fluorphlogopite,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-baby-lips,maybelline-baby-lips,,calcium-sodium-borosilicate,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-baby-lips,maybelline-baby-lips,,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
 maybelline-baby-lips,maybelline-baby-lips,,centella-asiatica-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-baby-lips,maybelline-baby-lips,,aluminum-hydroxide,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-baby-lips,maybelline-baby-lips,,citral,No research found,dermal: No research found; oral: No research found
+maybelline-baby-lips,maybelline-baby-lips,,citral,Known allergen,dermal: Known allergen; oral: Known allergen
 maybelline-baby-lips,maybelline-baby-lips,,linalool,No research found,dermal: No research found; oral: No research found
 maybelline-baby-lips,maybelline-baby-lips,,hexyl-cinnamal,No research found,dermal: No research found; oral: No research found
 maybelline-baby-lips,maybelline-baby-lips,,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1919,7 +1919,7 @@ maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,hydrogenated-st
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,alumina,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,synthetic-fluorphlogopite,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,calcium-aluminum-borosilicate,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,limonene,No research found,dermal: No research found; oral: No research found
+maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,calcium-sodium-borosilicate,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,aluminum-hydroxide,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,polybutylene-terephthalate,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1931,8 +1931,8 @@ maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,acrylates-copol
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,benzyl-alcohol,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,citronellol,No research found,dermal: No research found; oral: No research found
+maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,benzyl-alcohol,Known allergen,dermal: Known allergen; oral: Known allergen
+maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,citronellol,Known allergen,dermal: Known allergen; oral: Known allergen
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,linalool,No research found,dermal: No research found; oral: No research found
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,geraniol,No research found,dermal: No research found; oral: No research found
 maybelline-superstay-ink-crayon,maybelline-superstay-ink-crayon,,disodium-stearoyl-glutamate,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -1968,13 +1968,13 @@ maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,alumina,No concer
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,ethylhexylglycerin,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,triethoxycaprylylsilane,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,limonene,No research found,dermal: No research found; oral: No research found
+maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,isopropyl-palmitate,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,isopropyl-myristate,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,silica,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,benzyl-alcohol,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,citronellol,No research found,dermal: No research found; oral: No research found
+maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,benzyl-alcohol,Known allergen,dermal: Known allergen; oral: Known allergen
+maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,citronellol,Known allergen,dermal: Known allergen; oral: Known allergen
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,linalool,No research found,dermal: No research found; oral: No research found
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,aloe-barbadensis-leaf-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-vinyl-ink,maybelline-superstay-vinyl-ink,,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2049,7 +2049,7 @@ rhode-peptide-lip-tint,rhode-peptide-lip-tint,,synthetic-fluorphlogopite,No conc
 rhode-peptide-lip-tint,rhode-peptide-lip-tint,,disteardimonium-hectorite,No concerns found,dermal: No concerns found; oral: No concerns found
 rhode-peptide-lip-tint,rhode-peptide-lip-tint,,o-cymen-5-ol,No concerns found,dermal: No concerns found; oral: No concerns found
 rhode-peptide-lip-tint,rhode-peptide-lip-tint,,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-rhode-peptide-lip-tint,rhode-peptide-lip-tint,,vanillin,No research found,dermal: No research found; oral: No research found
+rhode-peptide-lip-tint,rhode-peptide-lip-tint,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 rhode-peptide-lip-tint,rhode-peptide-lip-tint,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rhode-peptide-lip-tint,rhode-peptide-lip-tint,,ci-45410,No concerns found,dermal: No concerns found; oral: No concerns found
 rhode-peptide-lip-tint,rhode-peptide-lip-tint,,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2209,12 +2209,12 @@ maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,silica-silylate,N
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,disodium-stearoyl-glutamate,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,phenoxyethanol,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,caprylyl-glycol,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,limonene,No research found,dermal: No research found; oral: No research found
+maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,aluminum-hydroxide,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,paraffin,No research found,dermal: No research found; oral: No research found
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,benzyl-alcohol,No concerns found,dermal: No concerns found; oral: No concerns found
-maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,citronellol,No research found,dermal: No research found; oral: No research found
+maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,benzyl-alcohol,Known allergen,dermal: Known allergen; oral: Known allergen
+maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,citronellol,Known allergen,dermal: Known allergen; oral: Known allergen
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,fragrance,No research found,dermal: No research found; oral: No research found
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,ci-45410,No concerns found,dermal: No concerns found; oral: No concerns found
 maybelline-superstay-matte-ink,maybelline-superstay-matte-ink,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
@@ -2389,10 +2389,10 @@ rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,sorbitan-isost
 rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,fragrance,No research found,dermal: No research found; oral: No research found
 rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,linalool,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
-rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,geranyl-acetate,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,limonene,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,citrus-aurantium-amara-bitter-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,geranyl-acetate,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,citrus-aurantium-amara-bitter-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-positive-light-gloss-dazzle,rare-positive-light-gloss,Dazzle,ci-42090,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,hydrogenated-polyisobutene,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2406,11 +2406,11 @@ rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,1-2-hexanediol,No 
 rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,sorbitan-isostearate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,fragrance,No research found,dermal: No research found; oral: No research found
 rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,limonene,No research found,dermal: No research found; oral: No research found
+rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,linalool,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
-rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,geranyl-acetate,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,citrus-aurantium-amara-bitter-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,geranyl-acetate,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,citrus-aurantium-amara-bitter-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,ci-19140,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-beam,rare-positive-light-gloss,Beam,ci-15985,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2426,11 +2426,11 @@ rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,1-2-hexanedi
 rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,sorbitan-isostearate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,fragrance,No research found,dermal: No research found; oral: No research found
 rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,limonene,No research found,dermal: No research found; oral: No research found
+rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,linalool,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
-rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,geranyl-acetate,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,citrus-aurantium-amara-bitter-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,geranyl-acetate,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,citrus-aurantium-amara-bitter-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,ci-15985,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-flicker,rare-positive-light-gloss,Flicker,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2446,11 +2446,11 @@ rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,sorbitan-iso
 rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,calcium-aluminum-borosilicate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,fragrance,No research found,dermal: No research found; oral: No research found
 rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,limonene,No research found,dermal: No research found; oral: No research found
+rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,linalool,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
-rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,geranyl-acetate,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,citrus-aurantium-amara-bitter-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,geranyl-acetate,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,citrus-aurantium-amara-bitter-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,ci-15985,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-glimmer,rare-positive-light-gloss,Glimmer,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2466,11 +2466,11 @@ rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,1-2-hexanediol,N
 rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,sorbitan-isostearate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,fragrance,No research found,dermal: No research found; oral: No research found
 rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,limonene,No research found,dermal: No research found; oral: No research found
+rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,linalool,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
-rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,geranyl-acetate,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,citrus-aurantium-amara-bitter-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,geranyl-acetate,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,citrus-aurantium-amara-bitter-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-spark,rare-positive-light-gloss,Spark,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2487,11 +2487,11 @@ rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,1-2-hexanediol,N
 rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,sorbitan-isostearate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,fragrance,No research found,dermal: No research found; oral: No research found
 rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,limonene,No research found,dermal: No research found; oral: No research found
+rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,linalool,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
-rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,geranyl-acetate,No research found,dermal: No research found; oral: No research found
-rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,citrus-aurantium-amara-bitter-orange-peel-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,geranyl-acetate,Known allergen,dermal: Known allergen; oral: Known allergen
+rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,citrus-aurantium-amara-bitter-orange-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-positive-light-gloss-blaze,rare-positive-light-gloss,Blaze,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
@@ -2770,7 +2770,7 @@ rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,gardenia-florida-fruit-e
 rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,nelumbo-nucifera-flower-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,linalool,No research found,dermal: No research found; oral: No research found
-rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,vanillin,No research found,dermal: No research found; oral: No research found
+rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-sweet,rare-kind-words-liner,Sweet,ci-19140,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2798,7 +2798,7 @@ rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,gardenia-florida-fruit
 rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,nelumbo-nucifera-flower-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,linalool,No research found,dermal: No research found; oral: No research found
-rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,vanillin,No research found,dermal: No research found; oral: No research found
+rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-lovely,rare-kind-words-liner,Lovely,ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2827,7 +2827,7 @@ rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,gardenia-florida
 rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,nelumbo-nucifera-flower-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,linalool,No research found,dermal: No research found; oral: No research found
-rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,vanillin,No research found,dermal: No research found; oral: No research found
+rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-intuitive,rare-kind-words-liner,Intuitive,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2855,7 +2855,7 @@ rare-kind-words-liner-proud,rare-kind-words-liner,Proud,gardenia-florida-fruit-e
 rare-kind-words-liner-proud,rare-kind-words-liner,Proud,nelumbo-nucifera-flower-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-proud,rare-kind-words-liner,Proud,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-kind-words-liner-proud,rare-kind-words-liner,Proud,linalool,No research found,dermal: No research found; oral: No research found
-rare-kind-words-liner-proud,rare-kind-words-liner,Proud,vanillin,No research found,dermal: No research found; oral: No research found
+rare-kind-words-liner-proud,rare-kind-words-liner,Proud,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-kind-words-liner-proud,rare-kind-words-liner,Proud,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-kind-words-liner-proud,rare-kind-words-liner,Proud,ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-proud,rare-kind-words-liner,Proud,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2884,7 +2884,7 @@ rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,gardenia-florida-f
 rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,nelumbo-nucifera-flower-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,linalool,No research found,dermal: No research found; oral: No research found
-rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,vanillin,No research found,dermal: No research found; oral: No research found
+rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-kind-words-liner-alluring,rare-kind-words-liner,Alluring,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2916,7 +2916,7 @@ rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,gardenia-flori
 rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,nelumbo-nucifera-flower-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,benzyl-salicylate,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,limonene,No research found,dermal: No research found; oral: No research found
+rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,eugenol,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-soft-pinch-lip-oil-serenity,rare-soft-pinch-lip-oil,Serenity,ci-15985,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2954,7 +2954,7 @@ rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,nelumbo-nuci
 rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,benzyl-salicylate,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,limonene,No research found,dermal: No research found; oral: No research found
+rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,eugenol,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-soft-pinch-lip-oil-affection,rare-soft-pinch-lip-oil,Affection,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -2994,7 +2994,7 @@ rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,nelumbo-nucifera-flo
 rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,benzyl-salicylate,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,limonene,No research found,dermal: No research found; oral: No research found
+rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,eugenol,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-soft-pinch-lip-oil-happy,rare-soft-pinch-lip-oil,Happy,ci-15985,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3030,7 +3030,7 @@ rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,nelumbo-nucifera-flower-
 rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,benzyl-salicylate,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,limonene,No research found,dermal: No research found; oral: No research found
+rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,eugenol,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-soft-pinch-lip-oil-joy,rare-soft-pinch-lip-oil,Joy,ci-15985,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3067,7 +3067,7 @@ rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,nelumbo-nucifera
 rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,benzyl-salicylate,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,limonene,No research found,dermal: No research found; oral: No research found
+rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,eugenol,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-soft-pinch-lip-oil-delight,rare-soft-pinch-lip-oil,Delight,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3106,7 +3106,7 @@ rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,nelumbo-nucifera-flowe
 rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,benzyl-salicylate,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,limonene,No research found,dermal: No research found; oral: No research found
+rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,eugenol,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-soft-pinch-lip-oil-hope,rare-soft-pinch-lip-oil,Hope,ci-15985,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3145,7 +3145,7 @@ rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,nelumbo-nucifera-f
 rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,benzyl-salicylate,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,limonene,No research found,dermal: No research found; oral: No research found
+rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,eugenol,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-soft-pinch-lip-oil-wonder,rare-soft-pinch-lip-oil,Wonder,ci-17200,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3184,7 +3184,7 @@ rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,nelumbo-nucifera
 rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,nymphaea-odorata-root-extract,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
 rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,benzyl-salicylate,No concerns found,dermal: No concerns found; oral: No concerns found
-rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,limonene,No research found,dermal: No research found; oral: No research found
+rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,eugenol,No research found,dermal: No research found; oral: No research found
 rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 rare-soft-pinch-lip-oil-honesty,rare-soft-pinch-lip-oil,Honesty,ci-19140,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3214,9 +3214,9 @@ dior-rouge-dior,dior-rouge-dior,,camelina-sativa-seed-oil,No concerns found,derm
 dior-rouge-dior,dior-rouge-dior,,polyglyceryl-3-diisostearate,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-rouge-dior,dior-rouge-dior,,punica-granatum-pomegranate-flower-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-rouge-dior,dior-rouge-dior,,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-rouge-dior,dior-rouge-dior,,vanillin,No research found,dermal: No research found; oral: No research found
+dior-rouge-dior,dior-rouge-dior,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-rouge-dior,dior-rouge-dior,,propyl-gallate,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-rouge-dior,dior-rouge-dior,,linalyl-acetate,No research found,dermal: No research found; oral: No research found
+dior-rouge-dior,dior-rouge-dior,,linalyl-acetate,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-rouge-dior,dior-rouge-dior,,paeonia-officinalis-flower-extract,No research found,dermal: No research found; oral: No research found
 dior-rouge-dior,dior-rouge-dior,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 dior-rouge-dior,dior-rouge-dior,,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3237,16 +3237,16 @@ dior-lip-maximizer,dior-lip-maximizer,,menthoxypropanediol,No research found,der
 dior-lip-maximizer,dior-lip-maximizer,,fragrance,No research found,dermal: No research found; oral: No research found
 dior-lip-maximizer,dior-lip-maximizer,,trimethylolpropane-triisostearate,No research found,dermal: No research found; oral: No research found
 dior-lip-maximizer,dior-lip-maximizer,,prunus-avium-sweet-cherry-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-lip-maximizer,dior-lip-maximizer,,menthol,No research found,dermal: No research found; oral: No research found
+dior-lip-maximizer,dior-lip-maximizer,,menthol,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-lip-maximizer,dior-lip-maximizer,,ethyl-vanillin,No research found,dermal: No research found; oral: No research found
 dior-lip-maximizer,dior-lip-maximizer,,trihydroxystearin,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-maximizer,dior-lip-maximizer,,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-lip-maximizer,dior-lip-maximizer,,mentha-piperita-peppermint-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+dior-lip-maximizer,dior-lip-maximizer,,mentha-piperita-peppermint-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-lip-maximizer,dior-lip-maximizer,,aluminum-hydroxide,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-maximizer,dior-lip-maximizer,,capsicum-frutescens-fruit-extract,No research found,dermal: No concerns found; oral: No research found
-dior-lip-maximizer,dior-lip-maximizer,,vanillin,No research found,dermal: No research found; oral: No research found
+dior-lip-maximizer,dior-lip-maximizer,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-lip-maximizer,dior-lip-maximizer,,sodium-hyaluronate,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-lip-maximizer,dior-lip-maximizer,,anethole,No research found,dermal: No research found; oral: No research found
+dior-lip-maximizer,dior-lip-maximizer,,anethole,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-lip-maximizer,dior-lip-maximizer,,propyl-gallate,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-maximizer,dior-lip-maximizer,,glucomannan,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-maximizer,dior-lip-maximizer,,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
@@ -3263,13 +3263,13 @@ dior-lip-glow-oil,dior-lip-glow-oil,,fragrance,No research found,dermal: No rese
 dior-lip-glow-oil,dior-lip-glow-oil,,caprylic-capric-triglyceride,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-glow-oil,dior-lip-glow-oil,,silica,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-glow-oil,dior-lip-glow-oil,,prunus-avium-sweet-cherry-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-lip-glow-oil,dior-lip-glow-oil,,menthol,No research found,dermal: No research found; oral: No research found
+dior-lip-glow-oil,dior-lip-glow-oil,,menthol,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-lip-glow-oil,dior-lip-glow-oil,,stearic-acid,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-glow-oil,dior-lip-glow-oil,,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-lip-glow-oil,dior-lip-glow-oil,,vanillin,No research found,dermal: No research found; oral: No research found
+dior-lip-glow-oil,dior-lip-glow-oil,,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-lip-glow-oil,dior-lip-glow-oil,,synthetic-fluorphlogopite,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-glow-oil,dior-lip-glow-oil,,diisostearyl-malate,No concerns found,dermal: No concerns found; oral: No concerns found
-dior-lip-glow-oil,dior-lip-glow-oil,,mentha-piperita-peppermint-oil,No concerns found,dermal: No concerns found; oral: No concerns found
+dior-lip-glow-oil,dior-lip-glow-oil,,mentha-piperita-peppermint-oil,Known allergen,dermal: Known allergen; oral: Known allergen
 dior-lip-glow-oil,dior-lip-glow-oil,,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-glow-oil,dior-lip-glow-oil,,undaria-pinnatifida-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 dior-lip-glow-oil,dior-lip-glow-oil,,propyl-gallate,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3304,7 +3304,7 @@ glossier-balm-dotcom-birthday,glossier-balm-dotcom,Birthday,synthetic-fluorphlog
 glossier-balm-dotcom-birthday,glossier-balm-dotcom,Birthday,sodium-saccharin,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-birthday,glossier-balm-dotcom,Birthday,tin-oxide,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-birthday,glossier-balm-dotcom,Birthday,bht,No concerns found,dermal: No concerns found; oral: No concerns found
-glossier-balm-dotcom-birthday,glossier-balm-dotcom,Birthday,limonene,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-birthday,glossier-balm-dotcom,Birthday,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-birthday,glossier-balm-dotcom,Birthday,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
 glossier-balm-dotcom-coconut,glossier-balm-dotcom,Coconut,petrolatum,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-coconut,glossier-balm-dotcom,Coconut,ricinus-communis-castor-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3351,7 +3351,7 @@ glossier-balm-dotcom-mango,glossier-balm-dotcom,Mango,tocopheryl-acetate,No conc
 glossier-balm-dotcom-mango,glossier-balm-dotcom,Mango,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-mango,glossier-balm-dotcom,Mango,isopropyl-titanium-triisostearate,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-mango,glossier-balm-dotcom,Mango,bht,No concerns found,dermal: No concerns found; oral: No concerns found
-glossier-balm-dotcom-mango,glossier-balm-dotcom,Mango,limonene,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-mango,glossier-balm-dotcom,Mango,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-mango,glossier-balm-dotcom,Mango,ci-15850,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-mango,glossier-balm-dotcom,Mango,ci-19140,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,petrolatum,No research found,dermal: No research found; oral: No research found
@@ -3366,7 +3366,7 @@ glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,helianthus-annuus-sunflower-
 glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,rosmarinus-officinalis-rosemary-leaf-extract,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
-glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,menthol,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,menthol,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,sodium-saccharin,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-mint,glossier-balm-dotcom,Mint,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,petrolatum,No research found,dermal: No research found; oral: No research found
@@ -3381,7 +3381,7 @@ glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,rosmarinus-officinalis-rosem
 glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,tocopheryl-acetate,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,bht,No concerns found,dermal: No concerns found; oral: No concerns found
-glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,citronellol,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,citronellol,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,cinnamal,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,linalool,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-rose,glossier-balm-dotcom,Rose,geraniol,No research found,dermal: No research found; oral: No research found
@@ -3435,7 +3435,7 @@ glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,tocopheryl-acetate,N
 glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,stevia-rebaudiana-leaf-stem-extract,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,vanillin,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,ci-77492,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-espresso,glossier-balm-dotcom,Espresso,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3453,9 +3453,9 @@ glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,tocopherol,N
 glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,bht,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,stevia-rebaudiana-leaf-stem-extract,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,limonene,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,citral,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,citronellol,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
+glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,citral,Known allergen,dermal: Known allergen; oral: Known allergen
+glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,citronellol,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,linalool,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,ci-77491,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-black-cherry,glossier-balm-dotcom,Black Cherry,ci-77499,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3476,14 +3476,14 @@ glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,tocopheryl-acetate
 glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,tocopherol,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,sodium-saccharin,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,bht,No concerns found,dermal: No concerns found; oral: No concerns found
-glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,limonene,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,citrus-aurantium-peel-oil,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,citronellol,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
+glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,citrus-aurantium-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
+glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,citronellol,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,benzyl-benzoate,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,benzaldehyde,No research found,dermal: No concerns found; oral: No research found
+glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,benzaldehyde,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,eugenol,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,pinene,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,vanillin,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,pinene,Known allergen,dermal: Known allergen; oral: Known allergen
+glossier-balm-dotcom-i-love-ny,glossier-balm-dotcom,I Love Ny,vanillin,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-just-baked,glossier-balm-dotcom,Just Baked,petrolatum,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-just-baked,glossier-balm-dotcom,Just Baked,ricinus-communis-castor-seed-oil,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-just-baked,glossier-balm-dotcom,Just Baked,beeswax,No concerns found,dermal: No concerns found; oral: No concerns found
@@ -3521,7 +3521,7 @@ glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,mica,No concer
 glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,silica,No concerns found,dermal: No concerns found; oral: No concerns found
 glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,sodium-saccharin,No research found,dermal: No research found; oral: No research found
 glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,bht,No concerns found,dermal: No concerns found; oral: No concerns found
-glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,limonene,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,citrus-aurantium-peel-oil,No research found,dermal: No research found; oral: No research found
-glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,pinene,No research found,dermal: No research found; oral: No research found
+glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,limonene,Known allergen,dermal: Known allergen; oral: Known allergen
+glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,citrus-aurantium-peel-oil,Known allergen,dermal: Known allergen; oral: Known allergen
+glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,pinene,Known allergen,dermal: Known allergen; oral: Known allergen
 glossier-balm-dotcom-toasty-nuts,glossier-balm-dotcom,Toasty Nuts,titanium-dioxide,Unclear,dermal: No concerns found; oral: Unclear
