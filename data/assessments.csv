@@ -1,0 +1,5 @@
+ingredient_id,route,rating,reason,source_ids,rated_on
+titanium-dioxide,oral,Unclear,"Harm reported only in limited, high-dose or inconclusive evidence",sccs-1661-23,2026-11-09
+titanium-dioxide,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+titanium-dioxide,inhalation,Evidence of harm,Restricted for safety in EU,eu-2021-850,2026-11-09
+titanium-dioxide,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09

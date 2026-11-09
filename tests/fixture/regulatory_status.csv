@@ -1,0 +1,3 @@
+ingredient_id,jurisdiction,status,reason,route,limit_text,source_id,effective_date
+titanium-dioxide,EU,restricted,safety,inhalation,"Powder form with >=1% particles <=10 um: only loose face powder (max 25%) and hair aerosol spray (max 1.4%)",eu-2021-850,2021
+linalool,EU,allergen_listed,,all,Label above threshold,fake-allergen-list,2023

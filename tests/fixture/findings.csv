@@ -1,0 +1,4 @@
+finding_id,ingredient_id,source_id,endpoint,route,study_type,result,dose_relevance,what_was_read,peer_reviewed,reliability,summary,quote,added_on
+tio2-iarc-inhal,titanium-dioxide,iarc-vol93,cancer,inhalation,animal,harm,far_above_cosmetic,classification_only,no,authoritative,IARC classified TiO2 as possibly carcinogenic to humans (Group 2B) based on lung tumours in rats exposed by inhalation; evidence in humans inadequate.,,2026-11-09
+tio2-sccs-oral,titanium-dioxide,sccs-1661-23,genotoxicity,oral,regulatory_assessment,inconclusive,not_stated,summary_only,no,authoritative,"The SCCS could not rule out genotoxicity for most TiO2 grades in products that may be swallowed, and did not recommend safe limits for oral exposure.",the SCCS cannot recommend any safe limits,2026-11-09
+castor-weak,castor-oil,fake-study,cancer,oral,cell,harm,far_above_cosmetic,abstract_only,no,3,Fixture: unreliable study that the quality gate must ignore.,,2026-11-09

@@ -1,0 +1,6 @@
+source_id,source_type,citation,year,doi_or_pmid,url,iarc_group,accessed_on
+iarc-vol93,iarc_monograph,"IARC Monographs Volume 93: Carbon Black, Titanium Dioxide, and Talc",2010,,https://monographs.iarc.who.int/list-of-classifications/,2B,2026-11-09
+sccs-1661-23,regulatory_opinion,"SCCS, Scientific Advice on Titanium dioxide (TiO2), SCCS/1661/23",2024,,https://health.ec.europa.eu/publications/scientific-advice-titanium-dioxide-tio2-casec-numbers-13463-67-7236-675-5-1317-70-0215-280-1-1317-80_en,,2026-11-09
+eu-2021-850,regulation,"Commission Regulation (EU) 2021/850 amending Annexes II-VI to Regulation (EC) No 1223/2009",2021,,https://eur-lex.europa.eu/eli/reg/2021/850/oj/eng,,2026-11-09
+fake-study,peer_reviewed_study,Fixture study,2020,,,,2026-11-09
+fake-allergen-list,regulation,Fixture allergen list,2023,,,,2026-11-09
