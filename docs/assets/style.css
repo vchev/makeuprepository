@@ -25,6 +25,11 @@ main{display:flex;flex-direction:column;gap:40px;padding-top:16px;padding-bottom
 .search{width:100%;max-width:640px;display:flex;flex-direction:column;gap:8px;text-align:left}
 .search label{font-size:14px;font-weight:600}
 .search input{font:inherit;font-size:18px;padding:14px 22px;border:1px solid #CDBFB6;border-radius:999px;background:#fff;color:var(--ink);width:100%}
+.rank-list{list-style:none;padding:0;margin:0;display:grid;gap:14px}
+.rank-row{display:flex;gap:14px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px}
+.rank{font-family:Fraunces,serif;font-size:28px;font-weight:700;min-width:2ch;line-height:1}
+.rank-body{display:flex;flex-direction:column;gap:6px;flex:1;min-width:0;text-decoration:none;color:inherit}
+.count{font-size:.7em;font-weight:400}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr));gap:20px}
 .card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:20px;overflow:hidden;text-decoration:none;color:inherit}
 .card:hover{border-color:var(--accent);color:inherit}

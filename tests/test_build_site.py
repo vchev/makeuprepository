@@ -26,6 +26,11 @@ with tempfile.TemporaryDirectory() as tmp:
     # No product-level verdicts.
     for word in ("non-toxic", "this product is safe", "this lipstick is safe", "is toxic"):
         assert word not in mac.lower(), word
+    top = (out / "top-lists" / "index.html").read_text()
+    assert "Best-researched formulas" in top and "not safety rankings" in top
+    assert top.count('class="rank"') == build_site.TOP_N
+    for word in ("safest", "non-toxic", "cleanest", "is toxic"):
+        assert word not in top.lower(), word
     # Refuses to wipe a folder it did not create.
     other = Path(tmp) / "other"
     other.mkdir()
