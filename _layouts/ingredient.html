@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="ingredient">
+  <p class="eyebrow">Ingredient{% if page.ci %} · {{ page.ci }}{% endif %}</p>
+  <h1>{{ page.title }}</h1>
+  <div class="verdict verdict-{{ page.risk_level | default: 'low' }}">
+    <p class="verdict-label">Bottom line</p>
+    <p>{{ page.verdict }}</p>
+  </div>
+  <dl class="facts">
+    {% if page.found_in %}<div><dt>Found in</dt><dd>{{ page.found_in }}</dd></div>{% endif %}
+    {% if page.hazard %}<div><dt>Hazard on record</dt><dd>{{ page.hazard }}</dd></div>{% endif %}
+    {% if page.route %}<div><dt>Route that matters</dt><dd>{{ page.route }}</dd></div>{% endif %}
+    <div><dt>Last reviewed</dt><dd>{{ page.reviewed | date: "%-d %B %Y" }}</dd></div>
+  </dl>
+  {{ content }}
+</article>

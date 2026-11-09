@@ -1,0 +1,38 @@
+title: Makeup Ingredient Facts
+description: What the research actually says about "toxic" and "non-toxic" makeup ingredients, with sources.
+baseurl: "/makeuprepository"
+url: "https://vchev.github.io"
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+collections:
+  ingredients:
+    output: true
+    permalink: /ingredients/:name/
+defaults:
+  - scope:
+      path: ""
+      type: ingredients
+    values:
+      layout: ingredient
+  - scope:
+      path: ""
+    values:
+      layout: default
+nav:
+  - title: Start here
+    url: /start-here/
+  - title: Ingredients
+    url: /ingredients/
+  - title: Myth checks
+    url: /myth-checks/
+  - title: Brands
+    url: /brands/
+  - title: How we work
+    url: /methodology/
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
