@@ -16,7 +16,9 @@
       "foundation",
       "loose_powder",
       "pressed_powder",
-      "blush"
+      "blush",
+      "lip_balm_spf",
+      "lip_gloss_spf"
     ],
     "list_items.may_contain": [
       "yes",
@@ -123,6 +125,10 @@
       "3",
       "4",
       "authoritative"
+    ],
+    "list_items.active": [
+      "yes",
+      "no"
     ]
   },
   "references": {

@@ -7,7 +7,7 @@ Existing rows in ingredients.csv are kept as they are; new ingredients are appen
 import csv
 import re
 from pathlib import Path
-from parse_label import items_from_label, normalize
+from parse_label import items_from_label, label_sections, normalize, strip_strength
 
 data = Path(__file__).resolve().parent.parent / "data"
 lists = list(csv.DictReader(open(data / "ingredient_lists.csv", encoding="utf-8")))
@@ -33,8 +33,10 @@ rows = []
 for lst in lists:
     pos = 0
     seen = set()
-    for printed, may in items_from_label(lst["label_text"]):
-        for iid, inci, common in normalize(printed):
+    items = [(printed, may, active) for text, active in label_sections(lst["label_text"])
+             for printed, may in items_from_label(text)]
+    for printed, may, active in items:
+        for iid, inci, common in normalize(strip_strength(printed) if active else printed):
             iid = alias_ids.get(iid, iid)
             if iid not in known and not iid.startswith("ci-"):
                 iid = by_plain.get(plain_key(inci), iid)
@@ -43,7 +45,8 @@ for lst in lists:
             seen.add(iid)
             pos += 1
             rows.append({"list_id": lst["list_id"], "position": pos, "ingredient_id": iid,
-                         "name_as_printed": printed, "may_contain": may})
+                         "name_as_printed": printed, "may_contain": may,
+                         "active": "yes" if active else "no"})
             if iid not in known:
                 known.add(iid)
                 by_plain.setdefault(plain_key(inci), iid)
@@ -52,7 +55,7 @@ for lst in lists:
                                     "ci_number": f"CI {ci}" if ci else "", "functions": "", "synonyms": "", "cosing_url": ""})
 
 with open(data / "list_items.csv", "w", newline="", encoding="utf-8") as f:
-    w = csv.DictWriter(f, fieldnames=["list_id", "position", "ingredient_id", "name_as_printed", "may_contain"])
+    w = csv.DictWriter(f, fieldnames=["list_id", "position", "ingredient_id", "name_as_printed", "may_contain", "active"])
     w.writeheader(); w.writerows(rows)
 with open(ing_path, "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=fields)

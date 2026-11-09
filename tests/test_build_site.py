@@ -31,6 +31,15 @@ with tempfile.TemporaryDirectory() as tmp:
     assert top.count('class="rank"') == build_site.TOP_N
     for word in ("safest", "non-toxic", "cleanest", "is toxic"):
         assert word not in top.lower(), word
+    # SPF lip products: own section on the home page, actives marked on the product page.
+    home = (out / "index.html").read_text()
+    assert 'id="spf"' in home and "supergoop-play-lip-balm" in home
+    play = (out / "lipsticks" / "supergoop-play-lip-balm" / "index.html").read_text()
+    assert "Active ingredients:</strong> Avobenzone (3%)" in play and 'class="act"' in play
+    for word in ("non-toxic", "this product is safe", "is toxic", "stop using sunscreen"):
+        assert word not in play.lower(), word
+    how = (out / "how-we-rate" / "index.html").read_text()
+    assert 'id="spf"' in how and "does not represent a conclusion" in how
     # Refuses to wipe a folder it did not create.
     other = Path(tmp) / "other"
     other.mkdir()

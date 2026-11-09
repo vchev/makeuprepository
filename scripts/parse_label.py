@@ -32,6 +32,12 @@ COLORANTS = {
     "77000": ("ci-77000", "ALUMINUM POWDER", "Aluminum powder"),
     "77019": ("ci-77019", "MICA", "Mica"),
 }
+# US color additive names printed without a CI number ("Red 7 Lake", "D&C Red No. 28").
+US_COLORS = {("red", "6"): "15850", ("red", "7"): "15850", ("red", "21"): "45380", ("red", "22"): "45380",
+             ("red", "27"): "45410", ("red", "28"): "45410", ("red", "30"): "73360", ("red", "33"): "17200",
+             ("red", "40"): "16035", ("yellow", "5"): "19140", ("yellow", "6"): "15985", ("blue", "1"): "42090",
+             ("orange", "5"): "45370"}
+US_COLOR = re.compile(r"(?i)^((fd&c|d&c)\s+)?(red|yellow|blue|orange)\s+(no\.?\s*)?(\d+)(\s+(aluminum\s+|calcium\s+|barium\s+)?lake)?$")
 # Printed names that differ only by translation or synonym -> one INCI name.
 ALIASES = {
     "cera alba": "BEESWAX", "beeswax": "BEESWAX",
@@ -53,6 +59,16 @@ SYNONYMS = {
     "ACACIA DECURRENS FLOWER CERA": "ACACIA DECURRENS FLOWER CERA/WAX",
     "VEGETABLE OIL OLUS OIL": "VEGETABLE OIL",
     "EUPHORBIA CERIFERA (CANDELILLA) CERA": "EUPHORBIA CERIFERA (CANDELILLA) WAX",
+    # Aquaphor's site prints the sunflower oil without its genus.
+    "ANNUUS (SUNFLOWER) SEED OIL": "HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL",
+    "ACACIA DECURRENS FLOWER WAX": "ACACIA DECURRENS FLOWER CERA/WAX",
+    # ChapStick prints the common misspelling of tocopheryl acetate.
+    "TOCOPHEROL ACETATE": "TOCOPHERYL ACETATE",
+}
+# Two ingredients printed without the comma between them.
+JOINED = {
+    "butyloctyl salicylate calcium sodium borosilicate": ["Butyloctyl Salicylate", "Calcium Sodium Borosilicate"],
+    "butyloctylsalicylate": ["Butyloctyl Salicylate"],
 }
 # Brands print the same wax or carrier in English, Latin and French, in varying order.
 KEYWORDS = [
@@ -68,6 +84,10 @@ MAY_CONTAIN = re.compile(
     r"(\[?\s*\+/\s*-\s*(\(may contain\)|may contain(\s*/\s*peut contenir)?)?\s*:?"
     r"|may contain\s*/\s*peut contenir\s*:?\s*(\(±\)|\(\+/-\))?\s*:?"
     r"|may contain\s*(\+/-)?\s*:?)", re.I)
+# Drug facts panels on sunscreens: "Active Ingredients: Avobenzone 3%, ... Inactive Ingredients: ...".
+SECTION = re.compile(r"\b(in)?active ingredients?\s*(\(sunscreens?\))?\s*:?\s*", re.I)
+# "Avobenzone 3%", "Homosalate (10%)", "22% Transparent Zinc Oxide", "Zinc Oxide 10% (Sunscreen)".
+PERCENT = re.compile(r"\s*\(?\b\d+(\.\d+)?\s*%\)?\s*|\s*\(sunscreens?\)\s*", re.I)
 # Footnote markers such as "Orbignya Oleifera Seed Oil*" or "**Sodium Hyaluronate".
 STARS = re.compile(r"^\*+|\*+$")
 # French or Latin translations printed after the English name without a slash.
@@ -96,6 +116,8 @@ def split_top(text, seps):
 def items_from_label(label):
     """Return a list of (name_as_printed, may_contain) in label order."""
     label = re.sub(r"^\s*ingredients\s*:\s*", "", label.strip(), flags=re.I)
+    # "Synthetic Wax,Flavor": a comma with no space before a name (never "2,6-Naphthalate").
+    label = re.sub(r",(?=[A-Za-z])", ", ", label)
     seps = [" • "] if "•" in label else [", "]
     m = MAY_CONTAIN.search(label)
     main, extra = (label[:m.start()], label[m.end():]) if m else (label, "")
@@ -106,8 +128,32 @@ def items_from_label(label):
         for x in split_top(part, seps + ([", "] if may == "yes" else [])):
             x = STARS.sub("", x.strip(" ●•,")).strip(" .;:,")
             if x and not x.startswith("*"):
-                out.append((x, may))
+                out.extend((y, may) for y in JOINED.get(x.lower(), [x]))
     return out
+
+
+def label_sections(label):
+    """Split a label into (text, active) parts.
+
+    Sunscreens are regulated as drugs in the US, so their labels list "Active Ingredients"
+    (the UV filters, with their strength) before "Inactive Ingredients". A label without
+    those headings is one inactive part, as before.
+    """
+    marks = list(SECTION.finditer(label))
+    if not marks:
+        return [(label, False)]
+    parts = []
+    for k, m in enumerate(marks):
+        end = marks[k + 1].start() if k + 1 < len(marks) else len(label)
+        text = label[m.end():end].strip(" .;")
+        if text:
+            parts.append((text, not m.group(1)))
+    return parts
+
+
+def strip_strength(name):
+    """"Avobenzone 3%" -> "Avobenzone"; the strength stays in name_as_printed."""
+    return re.sub(r"\s+", " ", PERCENT.sub(" ", name)).strip(" ,.")
 
 
 def normalize(name):
@@ -119,10 +165,19 @@ def normalize(name):
         # "CI 77491/77492/77499" and "(ci 77491, 77492, 77499)" list several CI numbers.
         cis = re.findall(r"(?<!\d)(\d{5})(?!\d)", name)
         return [COLORANTS.get(c, (f"ci-{c}", f"CI {c}", f"CI {c}")) for c in dict.fromkeys(cis)]
+    m = US_COLOR.match(name.strip())
+    if m and (m.group(3).lower(), m.group(5)) in US_COLORS:
+        return [COLORANTS[US_COLORS[(m.group(3).lower(), m.group(5))]]]
+    if re.fullmatch(r"(?i)(transparent )?zinc oxide", name.strip()):
+        return [COLORANTS["77947"]]
+    if re.fullmatch(r"(?i)(white )?petrolatum", name.strip()):
+        return [("petrolatum", "PETROLATUM", "Petrolatum")]
     if re.fullmatch(r"(?i)titanium dioxide", name.strip()):
         return [COLORANTS["77891"]]
     if re.fullmatch(r"(?i)iron oxides?", name.strip()):
         return [("iron-oxides-unspecified", "IRON OXIDES", "Iron oxides")]
+    # Certification notes such as "Cocos Nucifera (Coconut) Oil (ORGANIC)".
+    name = re.sub(r"\s*\((certified )?organic\)", "", name, flags=re.I)
     name = FR_TAIL.sub("", name) if not re.match(r"(?i)(extrait|huile|cire|eau)\b", name) else name
     low = name.lower()
     for pattern, inci in KEYWORDS:

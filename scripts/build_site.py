@@ -25,7 +25,11 @@ TONE = {"Evidence of harm": "h", "Known allergen": "a", "Unclear": "u",
 ROUTE_NAME = {"dermal": "On skin and lips", "oral": "Swallowed", "inhalation": "Breathed in", "eye": "Near the eyes"}
 ROUTE_SHORT = {"dermal": "Skin", "oral": "Swallowed", "inhalation": "Breathed in", "eye": "Eyes"}
 CATEGORY = {"lipstick": "Lipstick", "liquid_lipstick": "Liquid lipstick", "lip_gloss": "Lip gloss",
-            "lip_liner": "Lip liner", "lip_balm": "Tinted lip balm"}
+            "lip_liner": "Lip liner", "lip_balm": "Tinted lip balm",
+            "lip_balm_spf": "SPF lip balm", "lip_gloss_spf": "SPF lip gloss"}
+# Lip products with sunscreen. In the US these are over-the-counter drugs, so their labels
+# list "active ingredients" (the UV filters and skin protectants) separately.
+SPF = {"lip_balm_spf", "lip_gloss_spf"}
 JURIS = {"US_FDA": "US FDA", "EU": "EU", "California": "California", "Canada": "Canada"}
 STATUS = {"allowed": "Allowed", "restricted": "Restricted", "banned": "Banned", "allergen_listed": "Listed as an allergen"}
 RESULT = {"harm": "Found harm", "no_harm": "Found no harm", "inconclusive": "Could not decide"}
@@ -159,6 +163,7 @@ def page(title, root, body, description=""):
   <a class="brand" href="{root}">{SITE}</a>
   <nav aria-label="Main">
     <a href="{root}">Lipsticks</a>
+    <a href="{root}#spf">SPF lip</a>
     <a href="{root}ingredients/">Ingredients</a>
     <a href="{root}top-lists/">Top lists</a>
     <a href="{root}how-we-rate/">How we rate</a>
@@ -182,12 +187,12 @@ def page(title, root, body, description=""):
 def illustration(pid, category, size="card"):
     h = int(hashlib.sha1(pid.encode()).hexdigest(), 16)
     tint, bg = TINTS[h % len(TINTS)]
-    if category == "lip_gloss":
+    if category in ("lip_gloss", "lip_gloss_spf"):
         art = (f'<rect x="27" y="4" width="26" height="54" rx="5" fill="#2A1A22"/>'
                f'<rect x="31" y="8" width="4" height="46" rx="2" fill="#FFFFFF" opacity="0.2"/>'
                f'<rect x="22" y="58" width="36" height="98" rx="8" fill="{tint}" opacity="0.9"/>'
                f'<rect x="27" y="64" width="6" height="84" rx="3" fill="#FFFFFF" opacity="0.35"/>')
-    elif category == "lip_balm":
+    elif category in ("lip_balm", "lip_balm_spf"):
         art = (f'<path d="M28 40 Q28 30 40 28 Q52 30 52 40 L52 70 L28 70 Z" fill="{tint}"/>'
                f'<rect x="22" y="70" width="36" height="16" rx="2" fill="#C9A86A"/>'
                f'<rect x="18" y="86" width="44" height="70" rx="6" fill="#F4F0EC" stroke="#2A1A22" stroke-width="1.5"/>'
@@ -241,7 +246,7 @@ def counted_reasons(site, iid, route):
 # ---------------------------------------------------------------- pages
 
 def home(site):
-    cards = []
+    cards, spf_cards = [], []
     index = []
     for pid, p in site.products.items():
         if not site.lists[pid]:
@@ -253,12 +258,12 @@ def home(site):
         names = [ing_name(site.ings[i]) for i in ids]
         shades = len(site.lists[pid])
         sub = f'{c["n"]} ingredients' + (f' across {shades} shade labels' if shades > 1 else "")
-        cards.append(f'''<a class="card" href="lipsticks/{pid}/" data-search="{e((brand + " " + p["name"] + " " + " ".join(names)).lower())}">
+        (spf_cards if p["category"] in SPF else cards).append(f'''<a class="card" href="lipsticks/{pid}/" data-search="{e((brand + " " + p["name"] + " " + " ".join(names)).lower())}">
   <span class="art" style="background:{bg}">{art}</span>
   <span class="card-body">
     <span class="eyebrow">{e(brand)} · {e(CATEGORY.get(p["category"], p["category"]))}</span>
     <span class="card-title">{e(p["name"])}</span>
-    <span class="muted">{sub}</span>
+    <span class="muted">{sub}{spf_line(site, pid)}</span>
     {bar(c)}
     {legend(c)}
     <span class="hit muted" hidden></span>
@@ -268,10 +273,10 @@ def home(site):
     hero = f'''<section class="hero">
   <span class="kicker">Research, not rumors</span>
   <h1>What's really in your lipstick?</h1>
-  <p class="lede">We read the full safety reports and regulations behind each ingredient. Search a lipstick or an ingredient to see what the evidence says, and where it is still missing.</p>
+  <p class="lede">We read the full safety reports and regulations behind each ingredient. Search a lipstick, an SPF lip balm or an ingredient to see what the evidence says, and where it is still missing.</p>
   <form class="search" role="search" onsubmit="return false">
     <label for="q">Search lipsticks or ingredients</label>
-    <input id="q" type="search" placeholder="Glossier, Gloss Bomb, mica..." autocomplete="off">
+    <input id="q" type="search" placeholder="Glossier, Gloss Bomb, mica, SPF..." autocomplete="off">
   </form>
 </section>'''
     body = f'''{hero}
@@ -280,6 +285,13 @@ def home(site):
   <p id="none" class="muted" hidden>Nothing matches yet. Try an ingredient name, or <a href="ingredients/">browse all ingredients</a>.</p>
   <div class="grid">
 {chr(10).join(cards)}
+  </div>
+</section>
+<section class="stack" id="spf">
+  <h2>SPF lip balms and glosses</h2>
+  <p class="muted">Lip products with sunscreen are sold as over-the-counter drugs in the US, so their labels list the sunscreen "active ingredients" first. We rate those the same way as every other ingredient. A rating is about the ingredient, never a reason to skip sun protection.</p>
+  <div class="grid">
+{chr(10).join(spf_cards)}
   </div>
 </section>
 <section class="key">
@@ -343,8 +355,11 @@ def product_page(site, pid):
             printed = li["name_as_printed"]
             label_note = f'<p class="muted">On the label as: {e(printed)}</p>' if printed and printed.lower() != name.lower() else ""
             mc = '<p class="muted">Listed under "may contain", so it is only in some shades.</p>' if li["may_contain"] == "yes" else ""
+            if li.get("active") == "yes":
+                mc += ('<p class="muted">An active ingredient on the US Drug Facts label (as printed: '
+                       f'{e(printed)}). Sunscreen and skin protectant actives are regulated by the FDA as drugs.</p>')
             rows.append(f'''<details class="irow" data-grp="{"look" if r in LOOK else ("none" if r == "No research found" else "clear")}">
-  <summary><span class="pos">{e(li["position"])}</span><span class="dot d-{TONE[r]}"></span><span class="iname">{e(name)}</span><span class="ilabel">{e(r)}</span></summary>
+  <summary><span class="pos">{e(li["position"])}</span><span class="dot d-{TONE[r]}"></span><span class="iname">{e(name)}{' <span class="act">Active</span>' if li.get("active") == "yes" else ""}</span><span class="ilabel">{e(r)}</span></summary>
   <div class="idetail">
     <p class="muted">{per}</p>
     {"".join(reasons)}{label_note}{mc}
@@ -401,12 +416,33 @@ def product_page(site, pid):
     <span class="eyebrow">{e(brand["name"])} · {e(CATEGORY.get(p["category"], p["category"]))}</span>
     <h1>{e(p["name"])}</h1>
     <span class="muted">{len(site.product_ingredients(pid))} ingredients · {shade_note}</span>
+    {spf_hero(site, pid)}
     {picker}
   </div>
 </section>
 {"".join(sections)}'''
     return page(f'{brand["name"]} {p["name"]}: ingredients | {SITE}', root, body,
                 f'What the research says about each ingredient in {brand["name"]} {p["name"]}.')
+
+
+def actives(site, pid):
+    """Active ingredients as printed on the first label, e.g. ["Avobenzone 3%", ...]."""
+    lists = site.lists[pid]
+    return [li["name_as_printed"] for li in site.items[lists[0]["list_id"]] if li.get("active") == "yes"] if lists else []
+
+
+def spf_line(site, pid):
+    acts = actives(site, pid)
+    return f' · Actives: {e(", ".join(acts))}' if acts else ""
+
+
+def spf_hero(site, pid):
+    acts = actives(site, pid)
+    if not acts:
+        return ""
+    return (f'<p class="spf-note"><strong>Active ingredients:</strong> {e(", ".join(acts))}. '
+            'These are listed first below. Ratings cover the ingredients only; they never suggest skipping sun protection. '
+            f'<a href="{"../../"}how-we-rate/#spf">How we rate sunscreen ingredients</a></p>')
 
 
 def evidence_item(site, f, counted):
@@ -535,6 +571,15 @@ def how_page():
 <li><strong>Expert panel reports.</strong> Many ratings come from the Cosmetic Ingredient Review (CIR) Expert Panel, which reads the published research on an ingredient in full. The panel is funded by the cosmetics industry, and we note this wherever we cite it. We record a CIR conclusion only when the report names the ingredient in its conclusion.</li>
 <li><strong>Swallowing.</strong> A CIR conclusion counts for swallowing when the full report includes lip-product uses, where small amounts are swallowed.</li>
 </ul>
+<h2 id="spf">Sunscreen ingredients</h2>
+<p>SPF lip products are over-the-counter drugs in the US, so their labels list "active ingredients" (the UV filters, and skin protectants such as petrolatum) before the other ingredients. We rate each active ingredient with the same rules as everything else.</p>
+<ul>
+<li><strong>US FDA.</strong> The FDA's sunscreen monograph lists the active ingredients a sunscreen may use. In its 2021 proposal to update that list, the FDA found enough safety data only for zinc oxide and titanium dioxide. For 12 others, including avobenzone, homosalate, octinoxate, octisalate, octocrylene and oxybenzone, it asked for more data and said this "does not represent a conclusion" that they are unsafe. We record that as <em>Unclear</em>.</li>
+<li><strong>Absorption is not harm.</strong> An FDA clinical trial found that common chemical UV filters reach the blood. That tells us more safety data are needed. It does not show harm, and the authors said people should keep using sunscreen.</li>
+<li><strong>EU limits.</strong> The EU has lowered the allowed amounts of some UV filters. We will add those rules once we have read the official texts in full.</li>
+<li><strong>Swallowing.</strong> The FDA's sunscreen review is about skin. Unless another full report covers swallowing, a UV filter shows <em>No research found</em> for that route.</li>
+</ul>
+<p>Using sunscreen lowers the risk of sunburn and skin cancer. Nothing on this site is advice to stop using it. Ask a dermatologist which product suits you.</p>
 <h2>What we do not use</h2>
 <p>We do not use rating apps, scores from advocacy groups, social media, or brand marketing as evidence. Those can point us to a question, but the answer has to come from the primary research or a regulator.</p>
 <h2>Limits</h2>
@@ -551,7 +596,7 @@ def how_page():
 def about_page():
     body = f'''<article class="prose">
 <h1>About and disclaimer</h1>
-<p class="lede">{SITE} cuts through rumors about "toxic" makeup by showing what full safety reports and regulators actually say about each ingredient in popular lipsticks.</p>
+<p class="lede">{SITE} cuts through rumors about "toxic" makeup by showing what full safety reports and regulators actually say about each ingredient in popular lipsticks and SPF lip products.</p>
 <h2>For information only</h2>
 <p>Everything on this site is general information. It is not medical, safety or legal advice, and it is not a substitute for advice from a qualified professional.</p>
 <ul>
@@ -666,6 +711,8 @@ main{display:flex;flex-direction:column;gap:40px;padding-top:16px;padding-bottom
 .howto{flex:1 1 280px;min-width:0;background:#F3ECE6;border-radius:20px;padding:22px;display:flex;flex-direction:column;gap:10px}
 .howto p{margin:0;font-size:14px}
 .ihero{display:flex;flex-direction:column;gap:14px}
+.act{display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;font-size:11px;font-weight:600;letter-spacing:.02em;background:#E7EEF8;color:#1F4E89;vertical-align:middle}
+.spf-note{margin:6px 0 0;padding:10px 12px;border-radius:12px;background:#F4EFE9;font-size:14px}
 .lip-verdict{display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-weight:600}
 .lip-verdict .tag{font-size:15px;padding:6px 14px}
 .facts{display:flex;flex-wrap:wrap;gap:8px 28px;margin:0;font-size:14px}

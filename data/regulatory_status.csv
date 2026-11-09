@@ -81,3 +81,15 @@ citrus-aurantium-peel-oil,EU,allergen_listed,safety,dermal,Fragrance allergen in
 citrus-aurantium-dulcis-orange-peel-oil,EU,allergen_listed,safety,dermal,Fragrance allergen in Annex III: must be named on the ingredient list above 0.001% in leave-on and 0.01% in rinse-off products (labelled as Citrus Aurantium Peel Oil),eu-2023-1545,2023
 citrus-aurantium-amara-bitter-orange-peel-oil,EU,allergen_listed,safety,dermal,Fragrance allergen in Annex III: must be named on the ingredient list above 0.001% in leave-on and 0.01% in rinse-off products,eu-2023-1545,2023
 mentha-piperita-peppermint-oil,EU,allergen_listed,safety,dermal,Fragrance allergen in Annex III: must be named on the ingredient list above 0.001% in leave-on and 0.01% in rinse-off products,eu-2023-1545,2023
+avobenzone,US_FDA,allowed,,dermal,Permitted sunscreen active ingredient under OTC Monograph M020 (the 2020 deemed final order),fda-sunscreen-qa-2026,2020
+homosalate,US_FDA,allowed,,dermal,Permitted sunscreen active ingredient under OTC Monograph M020 (the 2020 deemed final order),fda-sunscreen-qa-2026,2020
+octinoxate,US_FDA,allowed,,dermal,Permitted sunscreen active ingredient under OTC Monograph M020 (the 2020 deemed final order),fda-sunscreen-qa-2026,2020
+octisalate,US_FDA,allowed,,dermal,Permitted sunscreen active ingredient under OTC Monograph M020 (the 2020 deemed final order),fda-sunscreen-qa-2026,2020
+octocrylene,US_FDA,allowed,,dermal,Permitted sunscreen active ingredient under OTC Monograph M020 (the 2020 deemed final order),fda-sunscreen-qa-2026,2020
+oxybenzone,US_FDA,allowed,,dermal,Permitted sunscreen active ingredient under OTC Monograph M020 (the 2020 deemed final order),fda-sunscreen-qa-2026,2020
+ci-77947,US_FDA,allowed,,dermal,Permitted sunscreen active ingredient under OTC Monograph M020 (the 2020 deemed final order),fda-sunscreen-qa-2026,2020
+titanium-dioxide,US_FDA,allowed,,dermal,Permitted sunscreen active ingredient under OTC Monograph M020 (the 2020 deemed final order),fda-sunscreen-qa-2026,2020
+petrolatum,US_FDA,allowed,,dermal,"Skin protectant active ingredient at 30 to 100 percent (21 CFR 347.10(m), (r)); the monograph covers lip protectants (""lip balm"")",cfr-347,
+petrolatum,US_FDA,allowed,,oral,"Skin protectant active ingredient at 30 to 100 percent (21 CFR 347.10(m), (r)); the monograph covers lip protectants (""lip balm"")",cfr-347,
+mineral-oil,US_FDA,allowed,,dermal,"Skin protectant active ingredient at 50 to 100 percent (21 CFR 347.10(l)); the monograph covers lip protectants (""lip balm"")",cfr-347,
+mineral-oil,US_FDA,allowed,,oral,"Skin protectant active ingredient at 50 to 100 percent (21 CFR 347.10(l)); the monograph covers lip protectants (""lip balm"")",cfr-347,
