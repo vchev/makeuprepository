@@ -163,9 +163,11 @@ haus-labs-phd-hybrid-lip-glaze-guava,31,ethylhexylglycerin,Ethylhexylglycerin,no
 haus-labs-phd-hybrid-lip-glaze-guava,32,sodium-sulfate,Sodium Sulfate,no
 haus-labs-phd-hybrid-lip-glaze-guava,33,phenoxyethanol,Phenoxyethanol,no
 haus-labs-phd-hybrid-lip-glaze-guava,34,ci-77491,CI 77491/77492/77499 (Iron Oxides),no
-haus-labs-phd-hybrid-lip-glaze-guava,35,titanium-dioxide,CI 77891 (Titanium Dioxide),no
-haus-labs-phd-hybrid-lip-glaze-guava,36,ci-15850,CI 15850 (Red 7 Lake),no
-haus-labs-phd-hybrid-lip-glaze-guava,37,ci-19140,CI 19140 (Yellow 5 Lake),no
+haus-labs-phd-hybrid-lip-glaze-guava,35,ci-77492,CI 77491/77492/77499 (Iron Oxides),no
+haus-labs-phd-hybrid-lip-glaze-guava,36,ci-77499,CI 77491/77492/77499 (Iron Oxides),no
+haus-labs-phd-hybrid-lip-glaze-guava,37,titanium-dioxide,CI 77891 (Titanium Dioxide),no
+haus-labs-phd-hybrid-lip-glaze-guava,38,ci-15850,CI 15850 (Red 7 Lake),no
+haus-labs-phd-hybrid-lip-glaze-guava,39,ci-19140,CI 19140 (Yellow 5 Lake),no
 dior-addict-lip-glow,1,polyglyceryl-2-triisostearate,POLYGLYCERYL-2 TRIISOSTEARATE,no
 dior-addict-lip-glow,2,helianthus-annuus-sunflower-seed-oil,HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL,no
 dior-addict-lip-glow,3,hydrogenated-castor-oil-dimer-dilinoleate,HYDROGENATED CASTOR OIL DIMER DILINOLEATE,no
@@ -1038,3 +1040,2488 @@ fenty-gloss-bomb-cherry-amor,37,ci-77491,"IRON OXIDES (CI 77491, CI 77499)",no
 fenty-gloss-bomb-cherry-amor,38,ci-77499,"IRON OXIDES (CI 77491, CI 77499)",no
 fenty-gloss-bomb-cherry-amor,39,ci-17200,RED 33 LAKE (CI 17200),no
 fenty-gloss-bomb-cherry-amor,40,ci-15850,RED 7 LAKE (CI 15850),no
+clinique-chubby-stick,1,ricinus-communis-castor-seed-oil,Ricinus Communis (castor) Seed Oil,no
+clinique-chubby-stick,2,caprylic-capric-triglyceride,Caprylic/capric Triglyceride,no
+clinique-chubby-stick,3,vegetable-oil,Vegetable Oil Olus Oil Huile Végétale,no
+clinique-chubby-stick,4,euphorbia-cerifera-candelilla-wax,Euphorbia Cerifera (candelilla) Wax Candelilla Cera Cire De Candelilla,no
+clinique-chubby-stick,5,beeswax,Beeswax Cera Alba Cire D'abeille,no
+clinique-chubby-stick,6,ozokerite,Ozokerite,no
+clinique-chubby-stick,7,hydrogenated-vegetable-oil,Hydrogenated Vegetable Oil,no
+clinique-chubby-stick,8,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (shea) Butter,no
+clinique-chubby-stick,9,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (jojoba) Seed Oil,no
+clinique-chubby-stick,10,barium-sulfate,Barium Sulfate,no
+clinique-chubby-stick,11,tocopherol,Tocopherol,no
+clinique-chubby-stick,12,butyrospermum-parkii-shea-butter-extract,Butyrospermum Parkii (shea) Butter Extract,no
+clinique-chubby-stick,13,mangifera-indica-mango-seed-butter,Mangifera Indica (mango) Seed Butter,no
+clinique-chubby-stick,14,limnanthes-alba-meadowfoam-seed-oil,Limnanthes Alba (meadowfoam) Seed Oil,no
+clinique-chubby-stick,15,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (sunflower) Seed Oil,no
+clinique-chubby-stick,16,olea-europaea-olive-fruit-oil,Olea Europaea (olive) Fruit Oil,no
+clinique-chubby-stick,17,benzyl-alcohol,Benzyl Alcohol,no
+clinique-chubby-stick,18,mica,Mica,yes
+clinique-chubby-stick,19,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+clinique-chubby-stick,20,ci-77491,Iron Oxides (ci 77491),yes
+clinique-chubby-stick,21,ci-77492,Iron Oxides (ci 77492),yes
+clinique-chubby-stick,22,ci-77499,Iron Oxides (ci 77499),yes
+clinique-chubby-stick,23,ci-77163,Bismuth Oxychloride (ci 77163),yes
+clinique-chubby-stick,24,ci-77400,Bronze Powder (ci 77400),yes
+clinique-chubby-stick,25,ci-77742,Manganese Violet (ci 77742),yes
+clinique-chubby-stick,26,ci-45370,Orange 5 (ci 45370),yes
+clinique-chubby-stick,27,ci-15850,Red 6 (ci 15850),yes
+clinique-chubby-stick,28,ci-45380,Red 21 (ci 45380),yes
+clinique-chubby-stick,29,ci-45410,Red 27 (ci 45410),yes
+clinique-chubby-stick,30,ci-73360,Red 30 (ci 73360),yes
+clinique-chubby-stick,31,ci-42090,Blue 1 Lake (ci 42090),yes
+clinique-chubby-stick,32,ci-17200,Red 33 Lake (ci 17200),yes
+clinique-chubby-stick,33,ci-19140,Yellow 5 Lake (ci 19140),yes
+clinique-chubby-stick,34,ci-15985,Yellow 6 Lake (ci 15985),yes
+clinique-pop-longwear-lipstick,1,ricinus-communis-castor-seed-oil,Ricinus Communis (castor) Seed Oil,no
+clinique-pop-longwear-lipstick,2,diisostearyl-malate,Diisostearyl Malate,no
+clinique-pop-longwear-lipstick,3,trioctyldodecyl-citrate,Trioctyldodecyl Citrate,no
+clinique-pop-longwear-lipstick,4,lanolin-oil,Lanolin Oil,no
+clinique-pop-longwear-lipstick,5,caprylic-capric-triglyceride,Caprylic/capric Triglyceride,no
+clinique-pop-longwear-lipstick,6,euphorbia-cerifera-candelilla-wax,Euphorbia Cerifera (candelilla) Wax Candelilla Cera Cire De Candelilla,no
+clinique-pop-longwear-lipstick,7,castor-isostearate-succinate,Castor Isostearate Succinate,no
+clinique-pop-longwear-lipstick,8,silica,Silica,no
+clinique-pop-longwear-lipstick,9,octyldodecanol,Octyldodecanol,no
+clinique-pop-longwear-lipstick,10,ozokerite,Ozokerite,no
+clinique-pop-longwear-lipstick,11,synthetic-wax,Synthetic Wax,no
+clinique-pop-longwear-lipstick,12,bis-diglyceryl-polyacyladipate-2,Bis-diglyceryl Polyacyladipate-2,no
+clinique-pop-longwear-lipstick,13,hydrogenated-polydecene,Hydrogenated Polydecene,no
+clinique-pop-longwear-lipstick,14,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+clinique-pop-longwear-lipstick,15,triticum-vulgare-wheat-germ-extract,Triticum Vulgare (wheat) Germ Extract,no
+clinique-pop-longwear-lipstick,16,olea-europaea-olive-fruit-extract,Olea Europaea (olive) Fruit Extract,no
+clinique-pop-longwear-lipstick,17,triticum-vulgare-wheat-bran-extract,Triticum Vulgare (wheat) Bran Extract,no
+clinique-pop-longwear-lipstick,18,microcrystalline-wax,Microcrystalline Wax Cera Microcristallina Cire Microcristalline,no
+clinique-pop-longwear-lipstick,19,astrocaryum-murumuru-seed-butter,Astrocaryum Murumuru Seed Butter,no
+clinique-pop-longwear-lipstick,20,prunus-armeniaca-apricot-kernel-oil,Prunus Armeniaca (apricot) Kernel Oil,no
+clinique-pop-longwear-lipstick,21,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (shea) Butter,no
+clinique-pop-longwear-lipstick,22,cholesterol,Cholesterol,no
+clinique-pop-longwear-lipstick,23,hordeum-distichon-barley-extract,Hordeum Distichon (barley) Extract Extrait D'orge À Deux Rangs,no
+clinique-pop-longwear-lipstick,24,ceramide-ng,Ceramide Ng,no
+clinique-pop-longwear-lipstick,25,palmitic-acid,Palmitic Acid,no
+clinique-pop-longwear-lipstick,26,squalane,Squalane,no
+clinique-pop-longwear-lipstick,27,lauryl-pca,Lauryl Pca,no
+clinique-pop-longwear-lipstick,28,lauryl-methacrylate-glycol-dimethacrylate-crosspolymer,Lauryl Methacrylate/glycol Dimethacrylate Crosspolymer,no
+clinique-pop-longwear-lipstick,29,linoleic-acid,Linoleic Acid,no
+clinique-pop-longwear-lipstick,30,tocopheryl-acetate,Tocopheryl Acetate,no
+clinique-pop-longwear-lipstick,31,glyceryl-stearate,Glyceryl Stearate,no
+clinique-pop-longwear-lipstick,32,oleic-acid,Oleic Acid,no
+clinique-pop-longwear-lipstick,33,butylene-glycol,Butylene Glycol,no
+clinique-pop-longwear-lipstick,34,tetrahexyldecyl-ascorbate,Tetrahexyldecyl Ascorbate,no
+clinique-pop-longwear-lipstick,35,sodium-hyaluronate,Sodium Hyaluronate,no
+clinique-pop-longwear-lipstick,36,potassium-sulfate,Potassium Sulfate,no
+clinique-pop-longwear-lipstick,37,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+clinique-pop-longwear-lipstick,38,barium-sulfate,Barium Sulfate,no
+clinique-pop-longwear-lipstick,39,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+clinique-pop-longwear-lipstick,40,aluminum-hydroxide,Aluminum Hydroxide,no
+clinique-pop-longwear-lipstick,41,phenoxyethanol,Phenoxyethanol,no
+clinique-pop-longwear-lipstick,42,caprylyl-glycol,Caprylyl Glycol,no
+clinique-pop-longwear-lipstick,43,hexylene-glycol,Hexylene Glycol,no
+clinique-pop-longwear-lipstick,44,mica,Mica,yes
+clinique-pop-longwear-lipstick,45,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+clinique-pop-longwear-lipstick,46,ci-77491,Iron Oxides (ci 77491),yes
+clinique-pop-longwear-lipstick,47,ci-77492,Iron Oxides (ci 77492),yes
+clinique-pop-longwear-lipstick,48,ci-77499,Iron Oxides (ci 77499),yes
+clinique-pop-longwear-lipstick,49,ci-77163,Bismuth Oxychloride (ci 77163),yes
+clinique-pop-longwear-lipstick,50,ci-42090,Blue 1 Lake (ci 42090),yes
+clinique-pop-longwear-lipstick,51,ci-75470,Carmine (ci 75470),yes
+clinique-pop-longwear-lipstick,52,ci-45380,Red 22 Lake (ci 45380),yes
+clinique-pop-longwear-lipstick,53,ci-45410,Red 28 Lake (ci 45410),yes
+clinique-pop-longwear-lipstick,54,ci-73360,Red 30 Lake (ci 73360),yes
+clinique-pop-longwear-lipstick,55,ci-17200,Red 33 Lake (ci 17200),yes
+clinique-pop-longwear-lipstick,56,ci-15850,Red 6 (ci 15850),yes
+clinique-pop-longwear-lipstick,57,ci-19140,Yellow 5 Lake (ci 19140),yes
+clinique-pop-longwear-lipstick,58,ci-15985,Yellow 6 Lake (ci 15985),yes
+clinique-pop-plush-gloss,1,triisostearyl-citrate,Triisostearyl Citrate,no
+clinique-pop-plush-gloss,2,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+clinique-pop-plush-gloss,3,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (shea) Butter,no
+clinique-pop-plush-gloss,4,microcrystalline-wax,Microcrystalline Wax Cera Microcristallina Cire Microcristalline,no
+clinique-pop-plush-gloss,5,punica-granatum-pomegranate-sterols,Punica Granatum (pomegranate) Sterols,no
+clinique-pop-plush-gloss,6,octyldodecanol,Octyldodecanol,no
+clinique-pop-plush-gloss,7,polyethylene,Polyethylene,no
+clinique-pop-plush-gloss,8,disteardimonium-hectorite,Disteardimonium Hectorite,no
+clinique-pop-plush-gloss,9,ricinus-communis-castor-seed-oil,Ricinus Communis (castor) Seed Oil,no
+clinique-pop-plush-gloss,10,cocos-nucifera-coconut-oil,Cocos Nucifera (coconut) Oil,no
+clinique-pop-plush-gloss,11,aloe-barbadensis-leaf-extract,Aloe Barbadensis Leaf Extract,no
+clinique-pop-plush-gloss,12,persea-gratissima-avocado-oil,Persea Gratissima (avocado) Oil,no
+clinique-pop-plush-gloss,13,phytosterols,Phytosterols,no
+clinique-pop-plush-gloss,14,linolenic-acid,Linolenic Acid,no
+clinique-pop-plush-gloss,15,linoleic-acid,Linoleic Acid,no
+clinique-pop-plush-gloss,16,hydrogenated-castor-oil,Hydrogenated Castor Oil,no
+clinique-pop-plush-gloss,17,lauryl-pca,Lauryl Pca,no
+clinique-pop-plush-gloss,18,sodium-hyaluronate,Sodium Hyaluronate,no
+clinique-pop-plush-gloss,19,caprylyl-glycol,Caprylyl Glycol,no
+clinique-pop-plush-gloss,20,oleic-acid,Oleic Acid,no
+clinique-pop-plush-gloss,21,lecithin,Lecithin,no
+clinique-pop-plush-gloss,22,hexylene-glycol,Hexylene Glycol,no
+clinique-pop-plush-gloss,23,phenoxyethanol,Phenoxyethanol,no
+clinique-pop-plush-gloss,24,tetrahexyldecyl-ascorbate,Tetrahexyldecyl Ascorbate,no
+clinique-pop-plush-gloss,25,tocopheryl-acetate,Tocopheryl Acetate,no
+clinique-pop-plush-gloss,26,mica,Mica,yes
+clinique-pop-plush-gloss,27,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+clinique-pop-plush-gloss,28,ci-77491,Iron Oxides (ci 77491),yes
+clinique-pop-plush-gloss,29,ci-77492,Iron Oxides (ci 77492),yes
+clinique-pop-plush-gloss,30,ci-77499,Iron Oxides (ci 77499),yes
+clinique-pop-plush-gloss,31,ci-77163,Bismuth Oxychloride (ci 77163),yes
+clinique-pop-plush-gloss,32,ci-42090,Blue 1 Lake (ci 42090),yes
+clinique-pop-plush-gloss,33,ci-75470,Carmine (ci 75470),yes
+clinique-pop-plush-gloss,34,ci-15850,Red 6 (ci 15850),yes
+clinique-pop-plush-gloss,35,ci-45380,Red 22 Lake (ci 45380),yes
+clinique-pop-plush-gloss,36,ci-45410,Red 28 Lake (ci 45410),yes
+clinique-pop-plush-gloss,37,ci-73360,Red 30 Lake (ci 73360),yes
+clinique-pop-plush-gloss,38,ci-17200,Red 33 Lake (ci 17200),yes
+clinique-pop-plush-gloss,39,ci-19140,Yellow 5 Lake (ci 19140),yes
+clinique-pop-plush-gloss,40,ci-15985,Yellow 6 Lake (ci 15985),yes
+clinique-quickliner-lips,1,isododecane,Isododecane,no
+clinique-quickliner-lips,2,synthetic-wax,Synthetic Wax,no
+clinique-quickliner-lips,3,polybutene,Polybutene,no
+clinique-quickliner-lips,4,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+clinique-quickliner-lips,5,polyglyceryl-10-pentaisostearate,Polyglyceryl-10 Pentaisostearate,no
+clinique-quickliner-lips,6,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+clinique-quickliner-lips,7,hydrogenated-polydecene,Hydrogenated Polydecene,no
+clinique-quickliner-lips,8,hydrogenated-poly-c6-14-olefin,Hydrogenated Poly(c6-14 Olefin),no
+clinique-quickliner-lips,9,cetearyl-behenate,Cetearyl Behenate,no
+clinique-quickliner-lips,10,disteardimonium-hectorite,Disteardimonium Hectorite,no
+clinique-quickliner-lips,11,propylene-carbonate,Propylene Carbonate,no
+clinique-quickliner-lips,12,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+clinique-quickliner-lips,13,mica,Mica,yes
+clinique-quickliner-lips,14,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+clinique-quickliner-lips,15,ci-77491,Iron Oxides (ci 77491),yes
+clinique-quickliner-lips,16,ci-77492,Iron Oxides (ci 77492),yes
+clinique-quickliner-lips,17,ci-77499,Iron Oxides (ci 77499),yes
+clinique-quickliner-lips,18,ci-77163,Bismuth Oxychloride (ci 77163),yes
+clinique-quickliner-lips,19,ci-77400,Bronze Powder (ci 77400),yes
+clinique-quickliner-lips,20,ci-77742,Manganese Violet (ci 77742),yes
+clinique-quickliner-lips,21,ci-15850,Red 6 (ci 15850),yes
+clinique-quickliner-lips,22,ci-45410,Red 27 (ci 45410),yes
+clinique-quickliner-lips,23,ci-73360,Red 30 (ci 73360),yes
+clinique-quickliner-lips,24,ci-42090,Blue 1 Lake (ci 42090),yes
+clinique-quickliner-lips,25,ci-17200,Red 33 Lake (ci 17200),yes
+clinique-quickliner-lips,26,ci-19140,Yellow 5 Lake (ci 19140),yes
+ct-airbrush-flawless-lip-blur,1,dimethicone,DIMETHICONE,no
+ct-airbrush-flawless-lip-blur,2,polyglyceryl-2-triisostearate,POLYGLYCERYL-2 TRIISOSTEARATE,no
+ct-airbrush-flawless-lip-blur,3,dimethicone-crosspolymer,DIMETHICONE CROSSPOLYMER,no
+ct-airbrush-flawless-lip-blur,4,trimethylsiloxysilicate,TRIMETHYLSILOXYSILICATE,no
+ct-airbrush-flawless-lip-blur,5,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+ct-airbrush-flawless-lip-blur,6,benzyl-benzoate,BENZYL BENZOATE,no
+ct-airbrush-flawless-lip-blur,7,tocopherol,TOCOPHEROL,no
+ct-airbrush-flawless-lip-blur,8,isopropyl-titanium-triisostearate,ISOPROPYL TITANIUM TRIISOSTEARATE,no
+ct-airbrush-flawless-lip-blur,9,helianthus-annuus-sunflower-seed-oil,HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL,no
+ct-airbrush-flawless-lip-blur,10,flavor,AROMA (FLAVOR),no
+ct-airbrush-flawless-lip-blur,11,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+ct-airbrush-flawless-lip-blur,12,butylene-glycol,BUTYLENE GLYCOL,no
+ct-airbrush-flawless-lip-blur,13,caprylyl-glycol,CAPRYLYL GLYCOL,no
+ct-airbrush-flawless-lip-blur,14,phenoxyethanol,PHENOXYETHANOL,no
+ct-airbrush-flawless-lip-blur,15,sodium-hyaluronate,SODIUM HYALURONATE,no
+ct-airbrush-flawless-lip-blur,16,hexylene-glycol,HEXYLENE GLYCOL,no
+ct-airbrush-flawless-lip-blur,17,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),yes
+ct-airbrush-flawless-lip-blur,18,ci-77491,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",yes
+ct-airbrush-flawless-lip-blur,19,ci-77492,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",yes
+ct-airbrush-flawless-lip-blur,20,ci-77499,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",yes
+ct-airbrush-flawless-lip-blur,21,ci-15850,RED 6 LAKE (CI 15850),yes
+ct-collagen-lip-bath,1,polybutene,POLYBUTENE,no
+ct-collagen-lip-bath,2,octyldodecanol,OCTYLDODECANOL,no
+ct-collagen-lip-bath,3,dicaprylyl-carbonate,DICAPRYLYL CARBONATE,no
+ct-collagen-lip-bath,4,diisostearyl-malate,DIISOSTEARYL MALATE,no
+ct-collagen-lip-bath,5,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+ct-collagen-lip-bath,6,pentaerythrityl-tetraisostearate,PENTAERYTHRITYL TETRAISOSTEARATE,no
+ct-collagen-lip-bath,7,c18-36-acid-triglyceride,C18-36 ACID TRIGLYCERIDE,no
+ct-collagen-lip-bath,8,isohexadecane,ISOHEXADECANE,no
+ct-collagen-lip-bath,9,peg-30-dipolyhydroxystearate,PEG-30 DIPOLYHYDROXYSTEARATE,no
+ct-collagen-lip-bath,10,stearalkonium-hectorite,STEARALKONIUM HECTORITE,no
+ct-collagen-lip-bath,11,simmondsia-chinensis-jojoba-seed-oil,SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL,no
+ct-collagen-lip-bath,12,caprylic-capric-triglyceride,CAPRYLIC/CAPRIC TRIGLYCERIDE,no
+ct-collagen-lip-bath,13,soluble-collagen,SOLUBLE COLLAGEN,no
+ct-collagen-lip-bath,14,mentha-piperita-peppermint-oil,MENTHA PIPERITA (PEPPERMINT) OIL,no
+ct-collagen-lip-bath,15,punica-granatum-pomegranate-flower-extract,PUNICA GRANATUM (POMEGRANATE) FLOWER EXTRACT,no
+ct-collagen-lip-bath,16,sclerocarya-birrea-seed-oil,SCLEROCARYA BIRREA SEED OIL,no
+ct-collagen-lip-bath,17,sodium-hyaluronate,SODIUM HYALURONATE,no
+ct-collagen-lip-bath,18,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+ct-collagen-lip-bath,19,tocopherol,TOCOPHEROL,no
+ct-collagen-lip-bath,20,leuconostoc-radish-root-ferment-filtrate,LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE,no
+ct-collagen-lip-bath,21,tripeptide-1,TRIPEPTIDE-1,no
+ct-collagen-lip-bath,22,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+ct-collagen-lip-bath,23,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+ct-collagen-lip-bath,24,menthol,MENTHOL,no
+ct-collagen-lip-bath,25,propylene-carbonate,PROPYLENE CARBONATE,no
+ct-collagen-lip-bath,26,tribehenin,TRIBEHENIN,no
+ct-collagen-lip-bath,27,polyglyceryl-3-diisostearate,POLYGLYCERYL-3 DIISOSTEARATE,no
+ct-collagen-lip-bath,28,ethylene-propylene-styrene-copolymer,ETHYLENE/PROPYLENE/STYRENE COPOLYMER,no
+ct-collagen-lip-bath,29,butylene-ethylene-styrene-copolymer,BUTYLENE/ETHYLENE/STYRENE COPOLYMER,no
+ct-collagen-lip-bath,30,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+ct-collagen-lip-bath,31,triethoxycaprylylsilane,TRIETHOXYCAPRYLYLSILANE,no
+ct-collagen-lip-bath,32,aluminum-hydroxide,ALUMINUM HYDROXIDE,no
+ct-collagen-lip-bath,33,phenoxyethanol,PHENOXYETHANOL,no
+ct-collagen-lip-bath,34,xanthan-gum,XANTHAN GUM,no
+ct-collagen-lip-bath,35,retinyl-palmitate,RETINYL PALMITATE,no
+ct-collagen-lip-bath,36,lactic-acid,LACTIC ACID,no
+ct-collagen-lip-bath,37,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+ct-collagen-lip-bath,38,limonene,LIMONENE,no
+ct-collagen-lip-bath,39,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),yes
+ct-collagen-lip-bath,40,ci-77492,"IRON OXIDES (CI 77492, CI 77499)",yes
+ct-collagen-lip-bath,41,ci-77499,"IRON OXIDES (CI 77492, CI 77499)",yes
+ct-collagen-lip-bath,42,ci-15850,RED 6 LAKE (CI 15850),yes
+ct-hyaluronic-happikiss,1,diisostearyl-malate,DIISOSTEARYL MALATE,no
+ct-hyaluronic-happikiss,2,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,BIS-BEHENYL/ISOSTEARYL/PHYTOSTERYL DIMER DILINOLEYL DIMER DILINOLEATE,no
+ct-hyaluronic-happikiss,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+ct-hyaluronic-happikiss,4,hydrogenated-polyisobutene,HYDROGENATED POLYISOBUTENE,no
+ct-hyaluronic-happikiss,5,ceresin,CERESIN,no
+ct-hyaluronic-happikiss,6,octyldodecanol,OCTYLDODECANOL,no
+ct-hyaluronic-happikiss,7,synthetic-wax,SYNTHETIC WAX,no
+ct-hyaluronic-happikiss,8,pentaerythrityl-tetraisostearate,PENTAERYTHRITYL TETRAISOSTEARATE,no
+ct-hyaluronic-happikiss,9,1-2-hexanediol,"1,2-HEXANEDIOL",no
+ct-hyaluronic-happikiss,10,disteardimonium-hectorite,DISTEARDIMONIUM HECTORITE,no
+ct-hyaluronic-happikiss,11,sodium-hyaluronate,SODIUM HYALURONATE,no
+ct-hyaluronic-happikiss,12,passiflora-edulis-passion-fruit-seed-oil,PASSIFLORA EDULIS (PASSION FRUIT) SEED OIL,no
+ct-hyaluronic-happikiss,13,theobroma-grandiflorum-cupuacu-seed-butter,THEOBROMA GRANDIFLORUM (CUPUACU) SEED BUTTER,no
+ct-hyaluronic-happikiss,14,palmitoyl-hexapeptide-12,PALMITOYL HEXAPEPTIDE-12,no
+ct-hyaluronic-happikiss,15,fragrance,PARFUM (FRAGRANCE),no
+ct-hyaluronic-happikiss,16,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+ct-hyaluronic-happikiss,17,propylene-carbonate,PROPYLENE CARBONATE,no
+ct-hyaluronic-happikiss,18,caprylic-capric-triglyceride,CAPRYLIC/CAPRIC TRIGLYCERIDE,no
+ct-hyaluronic-happikiss,19,c10-18-triglycerides,C10-18 TRIGLYCERIDES,no
+ct-hyaluronic-happikiss,20,triolein,TRIOLEIN,no
+ct-hyaluronic-happikiss,21,stearalkonium-hectorite,STEARALKONIUM HECTORITE,no
+ct-hyaluronic-happikiss,22,glyceryl-dioleate,GLYCERYL DIOLEATE,no
+ct-hyaluronic-happikiss,23,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),yes
+ct-hyaluronic-happikiss,24,ci-77491,"IRON OXIDES (CI 77491, CI 77499)",yes
+ct-hyaluronic-happikiss,25,ci-77499,"IRON OXIDES (CI 77491, CI 77499)",yes
+ct-hyaluronic-happikiss,26,ci-15850,RED 7 LAKE (CI 15850),yes
+ct-kissing-lipstick,1,octyldodecanol,OCTYLDODECANOL,no
+ct-kissing-lipstick,2,polybutene,POLYBUTENE,no
+ct-kissing-lipstick,3,pentaerythrityl-tetraisostearate,PENTAERYTHRITYL TETRAISOSTEARATE,no
+ct-kissing-lipstick,4,polyethylene,POLYETHYLENE,no
+ct-kissing-lipstick,5,caprylic-capric-triglyceride,CAPRYLIC/CAPRIC TRIGLYCERIDE,no
+ct-kissing-lipstick,6,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+ct-kissing-lipstick,7,mica,MICA,no
+ct-kissing-lipstick,8,dicalcium-phosphate,DICALCIUM PHOSPHATE,no
+ct-kissing-lipstick,9,diisostearyl-malate,DIISOSTEARYL MALATE,no
+ct-kissing-lipstick,10,silica,SILICA,no
+ct-kissing-lipstick,11,hydrogenated-styrene-methylstyrene-indene-copolymer,HYDROGENATED STYRENE/METHYLSTYRENE/INDENE COPOLYMER,no
+ct-kissing-lipstick,12,ozokerite,OZOKERITE,no
+ct-kissing-lipstick,13,stearalkonium-bentonite,STEARALKONIUM BENTONITE,no
+ct-kissing-lipstick,14,polypropylene,POLYPROPYLENE,no
+ct-kissing-lipstick,15,propylene-carbonate,PROPYLENE CARBONATE,no
+ct-kissing-lipstick,16,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+ct-kissing-lipstick,17,crambe-abyssinica-seed-oil,CRAMBE ABYSSINICA SEED OIL,no
+ct-kissing-lipstick,18,ethyl-vanillin,ETHYL VANILLIN,no
+ct-kissing-lipstick,19,bixa-orellana-seed-extract,BIXA ORELLANA SEED EXTRACT,no
+ct-kissing-lipstick,20,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+ct-kissing-lipstick,21,calcium-titanium-borosilicate,CALCIUM TITANIUM BOROSILICATE,no
+ct-kissing-lipstick,22,alumina,ALUMINA,no
+ct-kissing-lipstick,23,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+ct-kissing-lipstick,24,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+ct-kissing-lipstick,25,tin-oxide,TIN OXIDE,no
+ct-kissing-lipstick,26,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),yes
+ct-kissing-lipstick,27,ci-77491,"IRON OXIDES (CI 77491, CI 77492)",yes
+ct-kissing-lipstick,28,ci-77492,"IRON OXIDES (CI 77491, CI 77492)",yes
+ct-kissing-lipstick,29,ci-42090,BLUE 1 LAKE (CI 42090),yes
+ct-kissing-lipstick,30,ci-15850,RED 7 LAKE (CI 15850),yes
+ct-kissing-lipstick,31,ci-19140,YELLOW 5 LAKE (CI 19140),yes
+ct-pillow-talk-love-effect-lipstick,1,neopentyl-glycol-dicaprylate-dicaprate,NEOPENTYL GLYCOL DICAPRYLATE/DICAPRATE,no
+ct-pillow-talk-love-effect-lipstick,2,trimethylolpropane-triisostearate,TRIMETHYLOLPROPANE TRIISOSTEARATE,no
+ct-pillow-talk-love-effect-lipstick,3,dimethicone,DIMETHICONE,no
+ct-pillow-talk-love-effect-lipstick,4,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+ct-pillow-talk-love-effect-lipstick,5,polyethylene,POLYETHYLENE,no
+ct-pillow-talk-love-effect-lipstick,6,polybutene,POLYBUTENE,no
+ct-pillow-talk-love-effect-lipstick,7,silica,SILICA,no
+ct-pillow-talk-love-effect-lipstick,8,dimethicone-crosspolymer,DIMETHICONE CROSSPOLYMER,no
+ct-pillow-talk-love-effect-lipstick,9,mica,MICA,no
+ct-pillow-talk-love-effect-lipstick,10,dicalcium-phosphate,DICALCIUM PHOSPHATE,no
+ct-pillow-talk-love-effect-lipstick,11,ethyl-vanillin,ETHYL VANILLIN,no
+ct-pillow-talk-love-effect-lipstick,12,caprylic-capric-triglyceride,CAPRYLIC/CAPRIC TRIGLYCERIDE,no
+ct-pillow-talk-love-effect-lipstick,13,tocopherol,TOCOPHEROL,no
+ct-pillow-talk-love-effect-lipstick,14,carthamus-tinctorius-safflower-seed-oil,CARTHAMUS TINCTORIUS (SAFFLOWER) SEED OIL,no
+ct-pillow-talk-love-effect-lipstick,15,carica-papaya-papaya-fruit-extract,CARICA PAPAYA (PAPAYA) FRUIT EXTRACT,no
+ct-pillow-talk-love-effect-lipstick,16,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+ct-pillow-talk-love-effect-lipstick,17,bixa-orellana-seed-extract,BIXA ORELLANA SEED EXTRACT,no
+ct-pillow-talk-love-effect-lipstick,18,bht,BHT,no
+ct-pillow-talk-love-effect-lipstick,19,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+ct-pillow-talk-love-effect-lipstick,20,tin-oxide,TIN OXIDE,no
+ct-pillow-talk-love-effect-lipstick,21,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),yes
+ct-pillow-talk-love-effect-lipstick,22,ci-77491,"IRON OXIDES (CI 77491, CI 77492)",yes
+ct-pillow-talk-love-effect-lipstick,23,ci-77492,"IRON OXIDES (CI 77491, CI 77492)",yes
+ct-pillow-talk-love-effect-lipstick,24,ci-42090,BLUE 1 LAKE (CI 42090),yes
+ct-pillow-talk-love-effect-lipstick,25,ci-15850,RED 7 LAKE (CI 15850),yes
+ct-pillow-talk-love-effect-lipstick,26,ci-45410,RED 28 LAKE (CI 45410),yes
+ct-pillow-talk-love-effect-lipstick,27,ci-19140,YELLOW 5 LAKE (CI 19140),yes
+haus-labs-atomic-shake,1,isododecane,Isododecane,no
+haus-labs-atomic-shake,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+haus-labs-atomic-shake,3,trioctyldodecyl-citrate,Trioctyldodecyl Citrate,no
+haus-labs-atomic-shake,4,polyurethane-1,Polyurethane-1,no
+haus-labs-atomic-shake,5,disiloxane,Disiloxane,no
+haus-labs-atomic-shake,6,di-c12-13-alkyl-tartrate,Di-C12-13 Alkyl Tartrate,no
+haus-labs-atomic-shake,7,bis-hydroxyethoxypropyl-dimethicone-ipdi-copolymer-ethylcarbamate,Bis-Hydroxyethoxypropyl Dimethicone/IPDI Copolymer Ethylcarbamate,no
+haus-labs-atomic-shake,8,alcohol,Alcohol,no
+haus-labs-atomic-shake,9,dipentaerythrityl-pentaisononanoate,Dipentaerythrityl Pentaisononanoate,no
+haus-labs-atomic-shake,10,sodium-hyaluronate,Sodium Hyaluronate,no
+haus-labs-atomic-shake,11,undaria-pinnatifida-extract,Undaria Pinnatifida Extract,no
+haus-labs-atomic-shake,12,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+haus-labs-atomic-shake,13,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+haus-labs-atomic-shake,14,glucomannan,Glucomannan,no
+haus-labs-atomic-shake,15,trihydroxystearin,Trihydroxystearin,no
+haus-labs-atomic-shake,16,dicalcium-phosphate,Dicalcium Phosphate,no
+haus-labs-atomic-shake,17,ci-15850,CI 15850 (Red 7 Lake),no
+haus-labs-atomic-shake,18,ci-42090,CI 42090 (Blue 1 Lake),no
+haus-labs-atomic-shake,19,ci-77491,CI 77491/77492 (Iron Oxides),no
+haus-labs-atomic-shake,20,ci-77492,CI 77491/77492 (Iron Oxides),no
+haus-labs-atomic-shake,21,ci-19140,CI 19140 (Yellow 5 Lake),no
+haus-labs-atomic-shake,22,ci-15985,CI 15985 (Yellow 6 Lake),no
+haus-labs-atomic-shake,23,titanium-dioxide,CI 77891 (Titanium Dioxide),no
+haus-labs-le-monster-lip-crayon,1,isododecane,Isododecane,no
+haus-labs-le-monster-lip-crayon,2,caprylyl-methicone,Caprylyl Methicone,no
+haus-labs-le-monster-lip-crayon,3,synthetic-wax,Synthetic Wax,no
+haus-labs-le-monster-lip-crayon,4,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+haus-labs-le-monster-lip-crayon,5,diisostearyl-malate,Diisostearyl Malate,no
+haus-labs-le-monster-lip-crayon,6,polybutene,Polybutene,no
+haus-labs-le-monster-lip-crayon,7,cetearyl-behenate,Cetearyl Behenate,no
+haus-labs-le-monster-lip-crayon,8,silica,Silica,no
+haus-labs-le-monster-lip-crayon,9,ceramide-np,Ceramide NP,no
+haus-labs-le-monster-lip-crayon,10,palmitoyl-tripeptide-1,Palmitoyl Tripeptide-1,no
+haus-labs-le-monster-lip-crayon,11,sodium-hyaluronate,Sodium Hyaluronate,no
+haus-labs-le-monster-lip-crayon,12,tocopheryl-acetate,Tocopheryl Acetate,no
+haus-labs-le-monster-lip-crayon,13,mangifera-indica-mango-seed-oil,Mangifera Indica (Mango) Seed Oil,no
+haus-labs-le-monster-lip-crayon,14,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+haus-labs-le-monster-lip-crayon,15,sorbitan-isostearate,Sorbitan Isostearate,no
+haus-labs-le-monster-lip-crayon,16,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+haus-labs-le-monster-lip-crayon,17,butylene-glycol,Butylene Glycol,no
+haus-labs-le-monster-lip-crayon,18,lactic-acid,Lactic Acid,no
+haus-labs-le-monster-lip-crayon,19,tribehenin,Tribehenin,no
+haus-labs-le-monster-lip-crayon,20,caprylyl-glycol,Caprylyl Glycol,no
+haus-labs-le-monster-lip-crayon,21,hexylene-glycol,Hexylene Glycol,no
+haus-labs-le-monster-lip-crayon,22,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,no
+haus-labs-le-monster-lip-crayon,23,phenoxyethanol,Phenoxyethanol,no
+haus-labs-le-monster-lip-crayon,24,mica,Mica,no
+haus-labs-le-monster-lip-crayon,25,titanium-dioxide,CI 77891 (Titanium Dioxide),yes
+haus-labs-le-monster-lip-crayon,26,ci-15850,CI 15850 (Red 7),yes
+haus-labs-le-monster-lip-crayon,27,ci-42090,CI 42090 (Blue 1 Lake),yes
+haus-labs-le-monster-lip-crayon,28,ci-77491,CI 77491/77492/77499 (Iron Oxides),yes
+haus-labs-le-monster-lip-crayon,29,ci-77492,CI 77491/77492/77499 (Iron Oxides),yes
+haus-labs-le-monster-lip-crayon,30,ci-77499,CI 77491/77492/77499 (Iron Oxides),yes
+ilia-color-block-lipstick,1,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+ilia-color-block-lipstick,2,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+ilia-color-block-lipstick,3,euphorbia-cerifera-candelilla-wax,Candelilla Cera/Euphorbia Cerifera (Candelilla) Wax/Cire de Candelilla,no
+ilia-color-block-lipstick,4,copernicia-cerifera-carnauba-wax,Cera Carnauba/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba,no
+ilia-color-block-lipstick,5,prunus-armeniaca-apricot-kernel-oil,Prunus Armeniaca (Apricot) Kernel Oil,no
+ilia-color-block-lipstick,6,oleic-linoleic-linolenic-polyglycerides,Oleic/Linoleic/Linolenic Polyglycerides,no
+ilia-color-block-lipstick,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+ilia-color-block-lipstick,8,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+ilia-color-block-lipstick,9,jojoba-esters,Jojoba Esters,no
+ilia-color-block-lipstick,10,hydroxystearic-linolenic-oleic-polyglycerides,Hydroxystearic/Linolenic/Oleic Polyglycerides,no
+ilia-color-block-lipstick,11,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax,no
+ilia-color-block-lipstick,12,tocopheryl-acetate,Tocopheryl Acetate,no
+ilia-color-block-lipstick,13,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+ilia-color-block-lipstick,14,vanillin,Vanillin,no
+ilia-color-block-lipstick,15,caprylyl-glycol,Caprylyl Glycol,no
+ilia-color-block-lipstick,16,ethylhexylglycerin,Ethylhexylglycerin,no
+ilia-color-block-lipstick,17,tocopherol,Tocopherol,no
+ilia-color-block-lipstick,18,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (Shea) Butter,no
+ilia-color-block-lipstick,19,camellia-oleifera-seed-oil,Camellia Oleifera Seed Oil,no
+ilia-color-block-lipstick,20,mangifera-indica-mango-seed-butter,Mangifera Indica (Mango) Seed Butter,no
+ilia-color-block-lipstick,21,rosa-canina-seed-oil,Rosa Canina Seed Oil,no
+ilia-color-block-lipstick,22,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+ilia-color-block-lipstick,23,theobroma-cacao-cocoa-seed-butter,Theobroma Cacao (Cocoa) Seed Butter,no
+ilia-color-block-lipstick,24,vitis-vinifera-grape-seed-oil,Vitis Vinifera (Grape) Seed Oil,no
+ilia-color-block-lipstick,25,rubus-idaeus-raspberry-seed-oil,Rubus Idaeus (Raspberry) Seed Oil,no
+ilia-color-block-lipstick,26,acacia-decurrens-flower-cera-wax,Acacia Decurrens Flower Cera/Wax,no
+ilia-color-block-lipstick,27,polyglycerin-3,Polyglycerin-3,no
+ilia-color-block-lipstick,28,titanium-dioxide,CI 77891 (Titanium Dioxide),yes
+ilia-color-block-lipstick,29,ci-77491,CI 77491,yes
+ilia-color-block-lipstick,30,ci-77492,CI 77492,yes
+ilia-color-block-lipstick,31,ci-77499,CI 77499 (Iron Oxides),yes
+ilia-color-block-lipstick,32,ci-15850,CI 15850 (Red 7 Lake),yes
+ilia-color-block-lipstick,33,ci-19140,CI 19140 (Yellow 5 Lake),yes
+ilia-color-block-lipstick,34,ci-45410,CI 45410 (Red 28 Lake),yes
+ilia-color-block-lipstick,35,ci-73360,CI 73360 (Red 30 Lake),yes
+ilia-color-block-lipstick,36,ci-77742,CI 77742 (Manganese Violet),yes
+ilia-color-block-lipstick,37,ci-45380,CI 45380 (Red 22 Lake),yes
+ilia-lip-sketch,1,tridecyl-trimellitate,Tridecyl Trimellitate,no
+ilia-lip-sketch,2,octyldodecanol,Octyldodecanol,no
+ilia-lip-sketch,3,dicalcium-phosphate,Dicalcium Phosphate,no
+ilia-lip-sketch,4,synthetic-wax,Synthetic Wax,no
+ilia-lip-sketch,5,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+ilia-lip-sketch,6,diisostearyl-malate,Diisostearyl Malate,no
+ilia-lip-sketch,7,synthetic-beeswax,Synthetic Beeswax,no
+ilia-lip-sketch,8,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax,no
+ilia-lip-sketch,9,rosa-canina-fruit-oil,Rosa Canina Fruit Oil,no
+ilia-lip-sketch,10,salicornia-herbacea-extract,Salicornia Herbacea Extract,no
+ilia-lip-sketch,11,undaria-pinnatifida-extract,Undaria Pinnatifida Extract,no
+ilia-lip-sketch,12,sodium-hyaluronate,Sodium Hyaluronate,no
+ilia-lip-sketch,13,rubus-idaeus-raspberry-leaf-extract,Rubus Idaeus (Raspberry) Leaf Extract,no
+ilia-lip-sketch,14,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+ilia-lip-sketch,15,disteardimonium-hectorite,Disteardimonium Hectorite,no
+ilia-lip-sketch,16,propylene-carbonate,Propylene Carbonate,no
+ilia-lip-sketch,17,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,no
+ilia-lip-sketch,18,hydrogenated-castor-oil,Hydrogenated Castor Oil,no
+ilia-lip-sketch,19,barium-sulfate,Barium Sulfate,no
+ilia-lip-sketch,20,titanium-dioxide,Ci 77891 (Titanium Dioxide),yes
+ilia-lip-sketch,21,ci-15850,Ci 15850 (Red 7 Lake),yes
+ilia-lip-sketch,22,mica,Mica,yes
+ilia-lip-sketch,23,ci-19140,Ci 19140 (Yellow 5 Lake),yes
+ilia-lip-sketch,24,ci-77491,Ci 77491,yes
+ilia-lip-sketch,25,ci-77492,Ci 77492,yes
+ilia-lip-sketch,26,ci-77499,Ci 77499 (Iron Oxides),yes
+ilia-lip-sketch,27,ci-45410,Ci 45410 (Red 28 Lake),yes
+ilia-lip-sketch,28,ci-42090,Ci 42090 (Blue 1 Lake),yes
+ilia-lip-sketch,29,ci-45380,Ci 45380 (Red 22 Lake),yes
+ilia-lip-sketch,30,ci-15985,Ci 15985 (Yellow 6 Lake),yes
+ilia-lip-wrap,1,diisostearyl-malate,Diisostearyl Malate,no
+ilia-lip-wrap,2,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+ilia-lip-wrap,3,polyamide-8,Polyamide-8,no
+ilia-lip-wrap,4,tribehenin,Tribehenin,no
+ilia-lip-wrap,5,squalane,Squalane,no
+ilia-lip-wrap,6,pentaerythrityl-tetraisostearate,Pentaerythrityl Tetraisostearate,no
+ilia-lip-wrap,7,flavor,Aroma/Flavor,no
+ilia-lip-wrap,8,opuntia-ficus-indica-seed-oil,Opuntia Ficus-Indica Seed Oil,no
+ilia-lip-wrap,9,tocopherol,Tocopherol,no
+ilia-lip-wrap,10,cocos-nucifera-coconut-oil,Cocos Nucifera (Coconut) Oil,no
+ilia-lip-wrap,11,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+ilia-lip-wrap,12,hexyldecanol,Hexyldecanol,no
+ilia-lip-wrap,13,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+ilia-lip-wrap,14,sodium-hyaluronate,Sodium Hyaluronate,no
+ilia-lip-wrap,15,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (Shea) Butter,no
+ilia-lip-wrap,16,hydrogenated-castor-oil,Hydrogenated Castor Oil,no
+ilia-lip-wrap,17,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+ilia-lip-wrap,18,salicornia-herbacea-extract,Salicornia Herbacea Extract,no
+ilia-lip-wrap,19,bisabolol,Bisabolol,no
+ilia-lip-wrap,20,cetylhydroxyproline-palmitamide,Cetylhydroxyproline Palmitamide,no
+ilia-lip-wrap,21,stearic-acid,Stearic Acid,no
+ilia-lip-wrap,22,stevia-rebaudiana-leaf-stem-extract,Stevia Rebaudiana Leaf/Stem Extract,no
+ilia-lip-wrap,23,gardenia-taitensis-flower-extract,Gardenia Taitensis Flower Extract,no
+ilia-lip-wrap,24,brassica-campestris-rapeseed-sterols,Brassica Campestris (Rapeseed) Sterols,no
+ilia-lip-wrap,25,limonene,Limonene,no
+ilia-lip-wrap,26,linalool,Linalool,no
+ilia-overglaze,1,hydrogenated-polydecene,Hydrogenated Polydecene,no
+ilia-overglaze,2,polybutene,Polybutene,no
+ilia-overglaze,3,hydrogenated-styrene-isoprene-copolymer,Hydrogenated Styrene/Isoprene Copolymer,no
+ilia-overglaze,4,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+ilia-overglaze,5,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+ilia-overglaze,6,dipentaerythrityl-tetrahydroxystearate-tetraisostearate,Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate,no
+ilia-overglaze,7,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+ilia-overglaze,8,tocopherol,Tocopherol,no
+ilia-overglaze,9,trigonella-foenum-graecum-seed-extract,Trigonella Foenum-Graecum Seed Extract,no
+ilia-overglaze,10,undaria-pinnatifida-extract,Undaria Pinnatifida Extract,no
+ilia-overglaze,11,titanium-dioxide,Titanium Dioxide (Ci 77891),yes
+ilia-overglaze,12,ci-77499,"Iron Oxides (Ci 77499, Ci 77491, Ci 77492)",yes
+ilia-overglaze,13,ci-77491,"Iron Oxides (Ci 77499, Ci 77491, Ci 77492)",yes
+ilia-overglaze,14,ci-77492,"Iron Oxides (Ci 77499, Ci 77491, Ci 77492)",yes
+ilia-overglaze,15,ci-15850,Red 7 Lake (Ci 15850),yes
+kosas-lipfuel,1,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+kosas-lipfuel,2,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+kosas-lipfuel,3,euphorbia-cerifera-candelilla-wax,Euphorbia Cerifera (Candelilla) Cera,no
+kosas-lipfuel,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+kosas-lipfuel,5,mica,Mica,no
+kosas-lipfuel,6,silica,Silica,no
+kosas-lipfuel,7,octyldodecanol,Octyldodecanol,no
+kosas-lipfuel,8,lanolin-oil,Lanolin Oil,no
+kosas-lipfuel,9,jojoba-esters,Jojoba Esters,no
+kosas-lipfuel,10,pentaerythrityl-tetraethylhexanoate,Pentaerythrityl Tetraethylhexanoate,no
+kosas-lipfuel,11,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus Seed Cera,no
+kosas-lipfuel,12,beeswax,Beeswax,no
+kosas-lipfuel,13,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax,no
+kosas-lipfuel,14,camellia-oleifera-seed-oil,Camellia Oleifera Seed Oil,no
+kosas-lipfuel,15,theobroma-cacao-cocoa-seed-butter,Theobroma Cacao (Cocoa) Seed Butter,no
+kosas-lipfuel,16,vitis-vinifera-grape-seed-oil,Vitis Vinifera (Grape) Seed Oil,no
+kosas-lipfuel,17,acacia-decurrens-flower-cera-wax,Acacia Decurrens Flower Cera,no
+kosas-lipfuel,18,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (Shea) Butter,no
+kosas-lipfuel,19,caprylyl-glycol,Caprylyl Glycol,no
+kosas-lipfuel,20,carthamus-tinctorius-safflower-seed-oil,Carthamus Tinctorius (Safflower) Seed Oil,no
+kosas-lipfuel,21,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+kosas-lipfuel,22,ethylhexylglycerin,Ethylhexylglycerin,no
+kosas-lipfuel,23,glucomannan,Glucomannan,no
+kosas-lipfuel,24,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+kosas-lipfuel,25,mangifera-indica-mango-seed-butter,Mangifera Indica (Mango) Seed Butter,no
+kosas-lipfuel,26,mentha-arvensis-leaf-oil,Mentha Arvensis Leaf Oil,no
+kosas-lipfuel,27,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+kosas-lipfuel,28,persea-gratissima-avocado-oil,Persea Gratissima (Avocado) Oil,no
+kosas-lipfuel,29,polyglycerin-3,Polyglycerin-3,no
+kosas-lipfuel,30,rosa-canina-fruit-oil,Rosa Canina Fruit Oil,no
+kosas-lipfuel,31,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+kosas-lipfuel,32,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+kosas-lipfuel,33,sodium-hyaluronate,Sodium Hyaluronate,no
+kosas-lipfuel,34,tocopherol,Tocopherol,no
+kosas-lipfuel,35,tocopheryl-acetate,Tocopheryl Acetate,no
+kosas-lipfuel,36,trihydroxystearin,Trihydroxystearin,no
+kosas-lipfuel,37,limonene,Limonene,no
+kosas-lipfuel,38,titanium-dioxide,Ci 77891,yes
+kosas-lipfuel,39,ci-15850,Ci 15850,yes
+kosas-lipfuel,40,ci-77491,CI 77491,yes
+kosas-lipfuel,41,ci-77492,CI 77492,yes
+kosas-lipfuel,42,ci-77499,CI 77499,yes
+kosas-lipfuel,43,ci-73360,CI 73360,yes
+kosas-wet-lip-oil-gloss,1,oleic-linoleic-linolenic-polyglycerides,Oleic/Linoleic/Linolenic Polyglycerides,no
+kosas-wet-lip-oil-gloss,2,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+kosas-wet-lip-oil-gloss,3,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+kosas-wet-lip-oil-gloss,4,polyhydroxystearic-acid,Polyhydroxystearic Acid,no
+kosas-wet-lip-oil-gloss,5,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+kosas-wet-lip-oil-gloss,6,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (Shea Butter),no
+kosas-wet-lip-oil-gloss,7,persea-gratissima-avocado-oil,Persea Gratissima (Avocado) Oil,no
+kosas-wet-lip-oil-gloss,8,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+kosas-wet-lip-oil-gloss,9,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+kosas-wet-lip-oil-gloss,10,silica-dimethyl-silylate-nano,Silica Dimethyl Silylate [Nano],no
+kosas-wet-lip-oil-gloss,11,oenothera-biennis-evening-primrose-oil,Oenothera Biennis (Evening Primrose) Oil,no
+kosas-wet-lip-oil-gloss,12,citrus-aurantium-dulcis-orange-peel-oil,Citrus Aurantium Dulcis (Orange) Peel Oil,no
+kosas-wet-lip-oil-gloss,13,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+kosas-wet-lip-oil-gloss,14,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+kosas-wet-lip-oil-gloss,15,palmitoyl-tripeptide-1,Palmitoyl Tripeptide-1,no
+kosas-wet-lip-oil-gloss,16,sodium-hyaluronate,Sodium Hyaluronate,no
+kosas-wet-lip-oil-gloss,17,tocopherol,Tocopherol,no
+kosas-wet-lip-oil-gloss,18,tribehenin,Tribehenin,no
+kosas-wet-lip-oil-gloss,19,glucomannan,Glucomannan,no
+kosas-wet-lip-oil-gloss,20,lactic-acid,Lactic Acid,no
+kosas-wet-lip-oil-gloss,21,sorbitan-isostearate,Sorbitan Isostearate,no
+kosas-wet-lip-oil-gloss,22,trihydroxystearin,Trihydroxystearin,no
+kosas-wet-lip-oil-gloss,23,caprylyl-glycol,Caprylyl Glycol,no
+kosas-wet-lip-oil-gloss,24,ethylhexylglycerin,Ethylhexylglycerin,no
+kosas-wet-lip-oil-gloss,25,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+kosas-wet-lip-oil-gloss,26,vanillin,Vanillin,no
+kosas-wet-lip-oil-gloss,27,limonene,Limonene,no
+kosas-wet-lip-oil-gloss,28,titanium-dioxide,CI 77891 (Titanium Dioxide),yes
+kosas-wet-lip-oil-gloss,29,ci-77742,CI 77742 (Manganese Violet),yes
+kosas-wet-lip-oil-gloss,30,ci-15850,CI 15850 (Red 7 Lake),yes
+kosas-wet-stick,1,squalane,Squalane,no
+kosas-wet-stick,2,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+kosas-wet-stick,3,octyldodecanol,Octyldodecanol,no
+kosas-wet-stick,4,diisostearoyl-polyglyceryl-3-dimer-dilinoleate,Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate,no
+kosas-wet-stick,5,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+kosas-wet-stick,6,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax,no
+kosas-wet-stick,7,polyhydroxystearic-acid,Polyhydroxystearic Acid,no
+kosas-wet-stick,8,microcrystalline-wax,Microcrystalline Wax,no
+kosas-wet-stick,9,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+kosas-wet-stick,10,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+kosas-wet-stick,11,mangifera-indica-mango-seed-butter,Mangifera Indica (Mango) Seed Butter,no
+kosas-wet-stick,12,glucomannan,Glucomannan,no
+kosas-wet-stick,13,sodium-hyaluronate,Sodium Hyaluronate,no
+kosas-wet-stick,14,tribehenin,Tribehenin,no
+kosas-wet-stick,15,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+kosas-wet-stick,16,ceramide-ng,Ceramide NG,no
+kosas-wet-stick,17,palmitoyl-tripeptide-1,Palmitoyl Tripeptide-1,no
+kosas-wet-stick,18,citrus-aurantium-dulcis-orange-peel-oil,Citrus Aurantium Dulcis (Orange) Peel Oil,no
+kosas-wet-stick,19,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+kosas-wet-stick,20,tocopherol,Tocopherol,no
+kosas-wet-stick,21,trihydroxystearin,Trihydroxystearin,no
+kosas-wet-stick,22,sorbitan-isostearate,Sorbitan Isostearate,no
+kosas-wet-stick,23,vanillin,Vanillin,no
+kosas-wet-stick,24,ethylhexylglycerin,Ethylhexylglycerin,no
+kosas-wet-stick,25,caprylyl-glycol,Caprylyl Glycol,no
+kosas-wet-stick,26,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+kosas-wet-stick,27,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+kosas-wet-stick,28,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+kosas-wet-stick,29,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+kosas-wet-stick,30,ci-15850,Red 7 Lake (CI 15850),yes
+kosas-wet-stick,31,ci-45410,Red 27 Lake (CI 45410),yes
+kosas-wet-stick,32,ci-19140,Yellow 5 Lake (CI 19140),yes
+mac-lip-pencil,1,c10-18-triglycerides,C10-18 Triglycerides,no
+mac-lip-pencil,2,talc,Talc,no
+mac-lip-pencil,3,hydrogenated-vegetable-oil,Hydrogenated Vegetable Oil,no
+mac-lip-pencil,4,caprylic-capric-triglyceride,Caprylic/capric Triglyceride,no
+mac-lip-pencil,5,synthetic-japan-wax,Synthetic Japan Wax,no
+mac-lip-pencil,6,tocopherol,Tocopherol,no
+mac-lip-pencil,7,ascorbyl-palmitate,Ascorbyl Palmitate,no
+mac-lip-pencil,8,mica,Mica,yes
+mac-lip-pencil,9,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+mac-lip-pencil,10,ci-77491,Iron Oxides (ci 77491),yes
+mac-lip-pencil,11,ci-77492,Iron Oxides (ci 77492),yes
+mac-lip-pencil,12,ci-77499,Iron Oxides (ci 77499),yes
+mac-lip-pencil,13,ci-77163,Bismuth Oxychloride (ci 77163),yes
+mac-lip-pencil,14,ci-42090,Blue 1 Lake (ci 42090),yes
+mac-lip-pencil,15,ci-77400,Bronze Powder (ci 77400),yes
+mac-lip-pencil,16,ci-75470,Carmine (ci 75470),yes
+mac-lip-pencil,17,ci-77742,Manganese Violet (ci 77742),yes
+mac-lip-pencil,18,ci-15850,Red 6 (ci 15850),yes
+mac-lip-pencil,19,ci-45380,Red 21 (ci 45380),yes
+mac-lip-pencil,20,ci-45410,Red 28 (ci 45410),yes
+mac-lip-pencil,21,ci-73360,Red 30 (ci 73360),yes
+mac-lip-pencil,22,ci-19140,Yellow 5 Lake (ci 19140),yes
+mac-lip-pencil,23,ci-15985,Yellow 6 Lake (ci 15985),yes
+mac-lip-pencil,24,ci-77947,Zinc Oxide (ci 77947),yes
+mac-lipglass,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+mac-lipglass,2,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (jojoba) Seed Oil,no
+mac-lipglass,3,octyldodecanol,Octyldodecanol,no
+mac-lipglass,4,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (carnauba) Wax Copernicia Cerifera Cera Cire De Carnauba,no
+mac-lipglass,5,tocopheryl-acetate,Tocopheryl Acetate,no
+mac-lipglass,6,cocos-nucifera-coconut-oil,Cocos Nucifera (coconut) Oil,no
+mac-lipglass,7,prunus-armeniaca-apricot-kernel-oil,Prunus Armeniaca (apricot) Kernel Oil,no
+mac-lipglass,8,calcium-sodium-borosilicate,Calcium Sodium Borosilicate,no
+mac-lipglass,9,aluminum-calcium-sodium-silicate,Aluminum Calcium Sodium Silicate,no
+mac-lipglass,10,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+mac-lipglass,11,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+mac-lipglass,12,tin-oxide,Tin Oxide,no
+mac-lipglass,13,silica,Silica,no
+mac-lipglass,14,titanium-titanium-dioxide,Titanium/titanium Dioxide,no
+mac-lipglass,15,alumina,Alumina,no
+mac-lipglass,16,propylene-carbonate,Propylene Carbonate,no
+mac-lipglass,17,disteardimonium-hectorite,Disteardimonium Hectorite,no
+mac-lipglass,18,ethylhexyl-hydroxystearate,Ethylhexyl Hydroxystearate,no
+mac-lipglass,19,vanillin,Vanillin,no
+mac-lipglass,20,phenoxyethanol,Phenoxyethanol,no
+mac-lipglass,21,mica,Mica,yes
+mac-lipglass,22,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+mac-lipglass,23,ci-77491,Iron Oxides (ci 77491),yes
+mac-lipglass,24,ci-77492,Iron Oxides (ci 77492),yes
+mac-lipglass,25,ci-77499,Iron Oxides (ci 77499),yes
+mac-lipglass,26,ci-77163,Bismuth Oxychloride (ci 77163),yes
+mac-lipglass,27,ci-42090,Blue 1 Lake (ci 42090),yes
+mac-lipglass,28,ci-77400,Bronze Powder (ci 77400),yes
+mac-lipglass,29,ci-75470,Carmine (ci 75470),yes
+mac-lipglass,30,ci-15850,Red 6 (ci 15850),yes
+mac-lipglass,31,ci-45380,Red 21 Lake (ci 45380),yes
+mac-lipglass,32,ci-45410,Red 28 Lake (ci 45410),yes
+mac-lipglass,33,ci-73360,Red 30 Lake (ci 73360),yes
+mac-lipglass,34,ci-17200,Red 33 Lake (ci 17200),yes
+mac-lipglass,35,ci-19140,Yellow 5 (ci 19140),yes
+mac-lipglass,36,ci-15985,Yellow 6 Lake (ci 15985),yes
+mac-locked-kiss-ink,1,isododecane,Isododecane,no
+mac-locked-kiss-ink,2,trimethylsiloxysilicate-dimethiconol-crosspolymer,Trimethylsiloxysilicate/dimethiconol Crosspolymer,no
+mac-locked-kiss-ink,3,ppg-51-smdi-copolymer,Ppg-51/smdi Copolymer,no
+mac-locked-kiss-ink,4,disteardimonium-hectorite,Disteardimonium Hectorite,no
+mac-locked-kiss-ink,5,dimethicone,Dimethicone,no
+mac-locked-kiss-ink,6,polymethyl-methacrylate,Polymethyl Methacrylate,no
+mac-locked-kiss-ink,7,kaolin,Kaolin,no
+mac-locked-kiss-ink,8,boron-nitride,Boron Nitride,no
+mac-locked-kiss-ink,9,silica,Silica,no
+mac-locked-kiss-ink,10,passiflora-edulis-passion-fruit-seed-oil,Passiflora Edulis Seed Oil,no
+mac-locked-kiss-ink,11,propylene-carbonate,Propylene Carbonate,no
+mac-locked-kiss-ink,12,hdi-trimethylol-hexyllactone-crosspolymer,Hdi/trimethylol Hexyllactone Crosspolymer,no
+mac-locked-kiss-ink,13,polybutene,Polybutene,no
+mac-locked-kiss-ink,14,petrolatum,Petrolatum,no
+mac-locked-kiss-ink,15,cocos-nucifera-coconut-oil,Cocos Nucifera (coconut) Oil,no
+mac-locked-kiss-ink,16,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (shea) Butter,no
+mac-locked-kiss-ink,17,caprylyl-glycol,Caprylyl Glycol,no
+mac-locked-kiss-ink,18,octyldodecanol,Octyldodecanol,no
+mac-locked-kiss-ink,19,polydecene,Polydecene,no
+mac-locked-kiss-ink,20,triethoxysilylethyl-polydimethylsiloxyethyl-dimethicone,Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone,no
+mac-locked-kiss-ink,21,methicone,Methicone,no
+mac-locked-kiss-ink,22,beeswax,Beeswax Cera Alba Cire D'abeille,no
+mac-locked-kiss-ink,23,acrylates-ethylhexyl-acrylate-dimethicone-methacrylate-copolymer,Acrylates/ethylhexyl Acrylate/dimethicone Methacrylate Copolymer,no
+mac-locked-kiss-ink,24,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (carnauba) Wax Copernicia Cerifera Cera Cire De Carnauba,no
+mac-locked-kiss-ink,25,synthetic-beeswax,Synthetic Beeswax,no
+mac-locked-kiss-ink,26,hexylene-glycol,Hexylene Glycol,no
+mac-locked-kiss-ink,27,isopropyl-titanium-triisostearate,Isopropyl Titanium Triisostearate,no
+mac-locked-kiss-ink,28,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+mac-locked-kiss-ink,29,saccharin,Saccharin,no
+mac-locked-kiss-ink,30,tetrahexyldecyl-ascorbate,Tetrahexyldecyl Ascorbate,no
+mac-locked-kiss-ink,31,tocopheryl-acetate,Tocopheryl Acetate,no
+mac-locked-kiss-ink,32,fragrance,Fragrance (parfum),no
+mac-locked-kiss-ink,33,vanillin,Vanillin,no
+mac-locked-kiss-ink,34,phenoxyethanol,Phenoxyethanol,no
+mac-locked-kiss-ink,35,ci-15850,Red 6 (ci 15850),yes
+mac-locked-kiss-ink,36,ci-42090,Blue 1 Lake (ci 42090),yes
+mac-locked-kiss-ink,37,ci-45410,Red 27 (ci 45410),yes
+mac-locked-kiss-ink,38,ci-17200,Red 33 Lake (ci 17200),yes
+mac-locked-kiss-ink,39,ci-73360,Red 30 (ci 73360),yes
+mac-locked-kiss-ink,40,mica,Mica,yes
+mac-locked-kiss-ink,41,ci-45380,Red 21 Lake (ci 45380),yes
+mac-locked-kiss-ink,42,ci-19140,Yellow 5 Lake (ci 19140),yes
+mac-locked-kiss-ink,43,ci-15985,Yellow 6 Lake (ci 15985),yes
+mac-locked-kiss-ink,44,ci-77499,Iron Oxides (ci 77499),yes
+mac-locked-kiss-ink,45,ci-77491,Iron Oxides (ci 77491),yes
+mac-locked-kiss-ink,46,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+mac-locked-kiss-ink,47,ci-77492,Iron Oxides (ci 77492),yes
+mac-lustreglass,1,diisostearyl-malate,Diisostearyl Malate,no
+mac-lustreglass,2,bis-diglyceryl-polyacyladipate-2,Bis-diglyceryl Polyacyladipate-2,no
+mac-lustreglass,3,caprylic-capric-triglyceride,Caprylic/capric Triglyceride,no
+mac-lustreglass,4,ricinus-communis-castor-seed-oil,Ricinus Communis (castor) Seed Oil,no
+mac-lustreglass,5,hydrogenated-polydecene,Hydrogenated Polydecene,no
+mac-lustreglass,6,synthetic-wax,Synthetic Wax,no
+mac-lustreglass,7,polybutene,Polybutene,no
+mac-lustreglass,8,trioctyldodecyl-citrate,Trioctyldodecyl Citrate,no
+mac-lustreglass,9,silica,Silica,no
+mac-lustreglass,10,euphorbia-cerifera-candelilla-wax,Euphorbia Cerifera (candelilla) Wax Candelilla Cera Cire De Candelilla,no
+mac-lustreglass,11,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (sunflower) Seed Wax,no
+mac-lustreglass,12,octyldodecanol,Octyldodecanol,no
+mac-lustreglass,13,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (shea) Butter,no
+mac-lustreglass,14,tocopheryl-acetate,Tocopheryl Acetate,no
+mac-lustreglass,15,squalane,Squalane,no
+mac-lustreglass,16,sodium-hyaluronate,Sodium Hyaluronate,no
+mac-lustreglass,17,cocos-nucifera-coconut-oil,Cocos Nucifera (coconut) Oil,no
+mac-lustreglass,18,olea-europaea-olive-fruit-oil,Olea Europaea (olive) Fruit Oil,no
+mac-lustreglass,19,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (jojoba) Seed Oil,no
+mac-lustreglass,20,rubus-idaeus-raspberry-seed-oil,Rubus Idaeus (raspberry) Seed Oil,no
+mac-lustreglass,21,glycine-soja-soybean-seed-extract,Glycine Soja (soybean) Seed Extract,no
+mac-lustreglass,22,hordeum-distichon-barley-extract,Hordeum Distichon (barley) Extract Extrait D'orge À Deux Rangs,no
+mac-lustreglass,23,triticum-vulgare-wheat-germ-extract,Triticum Vulgare (wheat) Germ Extract,no
+mac-lustreglass,24,c12-15-alkyl-benzoate,C12-15 Alkyl Benzoate,no
+mac-lustreglass,25,linoleic-acid,Linoleic Acid,no
+mac-lustreglass,26,tribehenin,Tribehenin,no
+mac-lustreglass,27,phytosteryl-isostearate,Phytosteryl Isostearate,no
+mac-lustreglass,28,ceramide-ng,Ceramide Ng,no
+mac-lustreglass,29,hydrogenated-castor-oil,Hydrogenated Castor Oil,no
+mac-lustreglass,30,palmitoyl-hexapeptide-12,Palmitoyl Hexapeptide-12,no
+mac-lustreglass,31,alumina,Alumina,no
+mac-lustreglass,32,calcium-sodium-borosilicate,Calcium Sodium Borosilicate,no
+mac-lustreglass,33,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+mac-lustreglass,34,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+mac-lustreglass,35,tin-oxide,Tin Oxide,no
+mac-lustreglass,36,peg-10-phytosterol,Peg-10 Phytosterol,no
+mac-lustreglass,37,synthetic-beeswax,Synthetic Beeswax,no
+mac-lustreglass,38,vanillin,Vanillin,no
+mac-lustreglass,39,tetrahexyldecyl-ascorbate,Tetrahexyldecyl Ascorbate,no
+mac-lustreglass,40,mica,Mica,yes
+mac-lustreglass,41,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+mac-lustreglass,42,ci-77491,Iron Oxides (ci 77491),yes
+mac-lustreglass,43,ci-77492,Iron Oxides (ci 77492),yes
+mac-lustreglass,44,ci-77499,Iron Oxides (ci 77499),yes
+mac-lustreglass,45,ci-77163,Bismuth Oxychloride (ci 77163),yes
+mac-lustreglass,46,ci-15850,Red 6 (ci 15850),yes
+mac-lustreglass,47,ci-45410,Red 28 (ci 45410),yes
+mac-lustreglass,48,ci-73360,Red 30 (ci 73360),yes
+mac-lustreglass,49,ci-17200,Red 33 (ci 17200),yes
+mac-lustreglass,50,ci-19140,Yellow 5 (ci 19140),yes
+mac-lustreglass,51,ci-42090,Blue 1 Lake (ci 42090),yes
+mac-lustreglass,52,ci-15985,Yellow 6 Lake (ci 15985),yes
+mac-macximal-sleek-satin,1,polybutene,Polybutene,no
+mac-macximal-sleek-satin,2,octyldodecanol,Octyldodecanol,no
+mac-macximal-sleek-satin,3,pentaerythrityl-tetraisostearate,Pentaerythrityl Tetraisostearate,no
+mac-macximal-sleek-satin,4,ricinus-communis-castor-seed-oil,Ricinus Communis (castor) Seed Oil,no
+mac-macximal-sleek-satin,5,synthetic-wax,Synthetic Wax,no
+mac-macximal-sleek-satin,6,diisostearyl-malate,Diisostearyl Malate,no
+mac-macximal-sleek-satin,7,vp-hexadecene-copolymer,Vp/hexadecene Copolymer,no
+mac-macximal-sleek-satin,8,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+mac-macximal-sleek-satin,9,hdi-trimethylol-hexyllactone-crosspolymer,Hdi/trimethylol Hexyllactone Crosspolymer,no
+mac-macximal-sleek-satin,10,microcrystalline-wax,Microcrystalline Wax Cera Microcristallina Cire Microcristalline,no
+mac-macximal-sleek-satin,11,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (jojoba) Seed Oil,no
+mac-macximal-sleek-satin,12,synthetic-beeswax,Synthetic Beeswax,no
+mac-macximal-sleek-satin,13,argania-spinosa-kernel-oil,Argania Spinosa Kernel Oil,no
+mac-macximal-sleek-satin,14,rosa-moschata-seed-oil,Rosa Moschata Seed Oil,no
+mac-macximal-sleek-satin,15,camellia-oleifera-seed-oil,Camellia Oleifera Seed Oil,no
+mac-macximal-sleek-satin,16,punica-granatum-pomegranate-flower-extract,Punica Granatum (pomegranate) Flower Extract,no
+mac-macximal-sleek-satin,17,polyglyceryl-3-diisostearate,Polyglyceryl-3 Diisostearate,no
+mac-macximal-sleek-satin,18,squalane,Squalane,no
+mac-macximal-sleek-satin,19,silica,Silica,no
+mac-macximal-sleek-satin,20,disteardimonium-hectorite,Disteardimonium Hectorite,no
+mac-macximal-sleek-satin,21,vanillin,Vanillin,no
+mac-macximal-sleek-satin,22,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+mac-macximal-sleek-satin,23,tocopherol,Tocopherol,no
+mac-macximal-sleek-satin,24,mica,Mica,yes
+mac-macximal-sleek-satin,25,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+mac-macximal-sleek-satin,26,ci-77491,Iron Oxides (ci 77491),yes
+mac-macximal-sleek-satin,27,ci-77492,Iron Oxides (ci 77492),yes
+mac-macximal-sleek-satin,28,ci-77499,Iron Oxides (ci 77499),yes
+mac-macximal-sleek-satin,29,ci-42090,Blue 1 (ci 42090),yes
+mac-macximal-sleek-satin,30,ci-77163,Bismuth Oxychloride (ci 77163),yes
+mac-macximal-sleek-satin,31,ci-77400,Bronze Powder (ci 77400),yes
+mac-macximal-sleek-satin,32,ci-77742,Manganese Violet (ci 77742),yes
+mac-macximal-sleek-satin,33,ci-15850,Red 6 (ci 15850),yes
+mac-macximal-sleek-satin,34,ci-45380,Red 21 (ci 45380),yes
+mac-macximal-sleek-satin,35,ci-45410,Red 27 (ci 45410),yes
+mac-macximal-sleek-satin,36,ci-73360,Red 30 (ci 73360),yes
+mac-macximal-sleek-satin,37,ci-17200,Red 33 (ci 17200),yes
+mac-macximal-sleek-satin,38,ci-19140,Yellow 5 (ci 19140),yes
+mac-macximal-sleek-satin,39,ci-15985,Yellow 6 (ci 15985),yes
+maybelline-baby-lips,1,polybutene,POLYBUTENE,no
+maybelline-baby-lips,2,octyldodecanol,OCTYLDODECANOL,no
+maybelline-baby-lips,3,isopropyl-myristate,ISOPROPYL MYRISTATE,no
+maybelline-baby-lips,4,petrolatum,PETROLATUM,no
+maybelline-baby-lips,5,ethylhexyl-methoxycinnamate,ETHYLHEXYL METHOXYCINNAMATE,no
+maybelline-baby-lips,6,polyethylene,POLYETHYLENE,no
+maybelline-baby-lips,7,ozokerite,OZOKERITE,no
+maybelline-baby-lips,8,ethylhexyl-salicylate,ETHYLHEXYL SALICYLATE,no
+maybelline-baby-lips,9,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII BUTTER/SHEA BUTTER,no
+maybelline-baby-lips,10,diisostearyl-malate,DIISOSTEARYL MALATE,no
+maybelline-baby-lips,11,euphorbia-cerifera-candelilla-wax,CANDELILLA CERA/CANDELILLA WAX/CIRE DE CANDELILLA,no
+maybelline-baby-lips,12,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+maybelline-baby-lips,13,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+maybelline-baby-lips,14,fragrance,PARFUM/FRAGRANCE,no
+maybelline-baby-lips,15,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+maybelline-baby-lips,16,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+maybelline-baby-lips,17,tocopherol,TOCOPHEROL,no
+maybelline-baby-lips,18,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+maybelline-baby-lips,19,alumina,ALUMINA,no
+maybelline-baby-lips,20,flavor,AROMA/FLAVOR,no
+maybelline-baby-lips,21,silica,SILICA,no
+maybelline-baby-lips,22,isopropyl-palmitate,ISOPROPYL PALMITATE,no
+maybelline-baby-lips,23,pentaerythrityl-tetraisostearate,PENTAERYTHRITYL TETRAISOSTEARATE,no
+maybelline-baby-lips,24,limonene,LIMONENE,no
+maybelline-baby-lips,25,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+maybelline-baby-lips,26,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+maybelline-baby-lips,27,benzyl-benzoate,BENZYL BENZOATE,no
+maybelline-baby-lips,28,centella-asiatica-extract,CENTELLA ASIATICA EXTRACT,no
+maybelline-baby-lips,29,aluminum-hydroxide,ALUMINUM HYDROXIDE,no
+maybelline-baby-lips,30,citral,CITRAL,no
+maybelline-baby-lips,31,linalool,LINALOOL,no
+maybelline-baby-lips,32,hexyl-cinnamal,HEXYL CINNAMAL,no
+maybelline-baby-lips,33,tin-oxide,TIN OXIDE,no
+maybelline-baby-lips,34,geraniol,GERANIOL,no
+maybelline-baby-lips,35,eugenol,EUGENOL,no
+maybelline-baby-lips,36,aloe-barbadensis-extract,ALOE BARBADENSIS EXTRACT/ALOE BARBADENSIS LEAF EXTRACT,no
+maybelline-baby-lips,37,mel-honey-miel,MEL/HONEY/MIEL,no
+maybelline-baby-lips,38,calcium-pantothenate,CALCIUM PANTOTHENATE,no
+maybelline-baby-lips,39,ascorbic-acid,ASCORBIC ACID,no
+maybelline-baby-lips,40,dimethicone,DIMETHICONE,no
+maybelline-baby-lips,41,sodium-chondroitin-sulfate,SODIUM CHONDROITIN SULFATE,no
+maybelline-baby-lips,42,atelocollagen,ATELOCOLLAGEN,no
+maybelline-baby-lips,43,titanium-dioxide,CI 77891/TITANIUM DIOXIDE,yes
+maybelline-baby-lips,44,mica,MICA,yes
+maybelline-baby-lips,45,ci-45410,CI 45410/RED 28 LAKE,yes
+maybelline-baby-lips,46,ci-77491,CI 77491,yes
+maybelline-baby-lips,47,ci-77492,CI 77492,yes
+maybelline-baby-lips,48,ci-77499,CI 77499/IRON OXIDES,yes
+maybelline-baby-lips,49,ci-15850,CI 15850/RED 7,yes
+maybelline-baby-lips,50,ci-45380,CI 45380/RED 22 LAKE,yes
+maybelline-baby-lips,51,ci-19140,CI 19140/YELLOW 5 LAKE. CI 42090/BLUE 1 LAKE,yes
+maybelline-baby-lips,52,ci-42090,CI 19140/YELLOW 5 LAKE. CI 42090/BLUE 1 LAKE,yes
+maybelline-baby-lips,53,ci-15985,CI 15985/YELLOW 6 LAKE,yes
+maybelline-baby-lips,54,ci-75470,CI 75470/CARMINE,yes
+maybelline-lifter-gloss,1,c18-36-acid-triglyceride,C18-36 Acid Triglyceride,no
+maybelline-lifter-gloss,2,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+maybelline-lifter-gloss,3,pentaerythrityl-tetraisostearate,Pentaerythrityl Tetraisostearate,no
+maybelline-lifter-gloss,4,polybutene,Polybutene,no
+maybelline-lifter-gloss,5,tridecyl-trimellitate,Tridecyl Trimellitate,no
+maybelline-lifter-gloss,6,diisostearyl-malate,Diisostearyl Malate,no
+maybelline-lifter-gloss,7,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+maybelline-lifter-gloss,8,phenoxyethanol,Phenoxyethanol,no
+maybelline-lifter-gloss,9,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+maybelline-lifter-gloss,10,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,no
+maybelline-lifter-gloss,11,ethylhexylglycerin,Ethylhexylglycerin,no
+maybelline-lifter-gloss,12,calcium-sodium-borosilicate,Calcium Sodium Borosilicate,no
+maybelline-lifter-gloss,13,sorbic-acid,Sorbic Acid,no
+maybelline-lifter-gloss,14,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+maybelline-lifter-gloss,15,tocopheryl-acetate,Tocopheryl Acetate,no
+maybelline-lifter-gloss,16,sodium-saccharin,Sodium Saccharin,no
+maybelline-lifter-gloss,17,alumina,Alumina,no
+maybelline-lifter-gloss,18,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+maybelline-lifter-gloss,19,silica,Silica,no
+maybelline-lifter-gloss,20,polybutylene-terephthalate,Polybutylene Terephthalate,no
+maybelline-lifter-gloss,21,trihydroxystearin,Trihydroxystearin,no
+maybelline-lifter-gloss,22,cocos-nucifera-coconut-oil,Cocos Nucifera Oil / Coconut Oil,no
+maybelline-lifter-gloss,23,aluminum-hydroxide,Aluminum Hydroxide,no
+maybelline-lifter-gloss,24,ethylene-va-copolymer,Ethylene/Va Copolymer,no
+maybelline-lifter-gloss,25,acrylates-copolymer,Acrylates Copolymer,no
+maybelline-lifter-gloss,26,tin-oxide,Tin Oxide,no
+maybelline-lifter-gloss,27,magnesium-silicate,Magnesium Silicate,no
+maybelline-lifter-gloss,28,sodium-hyaluronate,Sodium Hyaluronate,no
+maybelline-lifter-gloss,29,tocopherol,Tocopherol,no
+maybelline-lifter-gloss,30,glucomannan,Glucomannan,no
+maybelline-lifter-gloss,31,fragrance,Parfum / Fragrance,no
+maybelline-lifter-gloss,32,titanium-dioxide,Ci 77891 / Titanium Dioxide,yes
+maybelline-lifter-gloss,33,ci-77491,Ci 77491,yes
+maybelline-lifter-gloss,34,ci-77492,Ci 77492,yes
+maybelline-lifter-gloss,35,ci-77499,Ci 77499 / Iron Oxides,yes
+maybelline-lifter-gloss,36,mica,Mica,yes
+maybelline-lifter-gloss,37,ci-15850,Ci 15850 / Red 7,yes
+maybelline-lifter-gloss,38,ci-45410,Ci 45410 / Red 28 Lake,yes
+maybelline-lifter-gloss,39,ci-15985,Ci 15985 / Yellow 6 Lake,yes
+maybelline-lifter-gloss,40,ci-42090,Ci 42090 / Blue 1 Lake,yes
+maybelline-lifter-gloss,41,ci-17200,Ci 17200 / Red 33 Lake,yes
+maybelline-lifter-gloss,42,ci-45380,Ci 45380 / Red 22 Lake,yes
+maybelline-lifter-gloss,43,ci-19140,Ci 19140 / Yellow 5 Lake,yes
+maybelline-superstay-ink-crayon,1,isododecane,ISODODECANE,no
+maybelline-superstay-ink-crayon,2,polyethylene,POLYETHYLENE,no
+maybelline-superstay-ink-crayon,3,trimethylsiloxyphenyl-dimethicone,TRIMETHYLSILOXYPHENYL DIMETHICONE,no
+maybelline-superstay-ink-crayon,4,isohexadecane,ISOHEXADECANE,no
+maybelline-superstay-ink-crayon,5,dimethicone,DIMETHICONE,no
+maybelline-superstay-ink-crayon,6,acrylates-dimethicone-copolymer,ACRYLATES/DIMETHICONE COPOLYMER,no
+maybelline-superstay-ink-crayon,7,polypropylsilsesquioxane,POLYPROPYLSILSESQUIOXANE,no
+maybelline-superstay-ink-crayon,8,stearyl-heptanoate,STEARYL HEPTANOATE,no
+maybelline-superstay-ink-crayon,9,hydrogenated-polyisobutene,HYDROGENATED POLYISOBUTENE,no
+maybelline-superstay-ink-crayon,10,hydrogenated-styrene-methyl-styrene-indene-copolymer,HYDROGENATED STYRENE/METHYL STYRENE/INDENE COPOLYMER,no
+maybelline-superstay-ink-crayon,11,alumina,ALUMINA,no
+maybelline-superstay-ink-crayon,12,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+maybelline-superstay-ink-crayon,13,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+maybelline-superstay-ink-crayon,14,limonene,LIMONENE,no
+maybelline-superstay-ink-crayon,15,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+maybelline-superstay-ink-crayon,16,aluminum-hydroxide,ALUMINUM HYDROXIDE,no
+maybelline-superstay-ink-crayon,17,polybutylene-terephthalate,POLYBUTYLENE TEREPHTHALATE,no
+maybelline-superstay-ink-crayon,18,silica,SILICA,no
+maybelline-superstay-ink-crayon,19,magnesium-silicate,MAGNESIUM SILICATE,no
+maybelline-superstay-ink-crayon,20,silica-silylate,SILICA SILYLATE,no
+maybelline-superstay-ink-crayon,21,ethylene-va-copolymer,ETHYLENE/VA COPOLYMER,no
+maybelline-superstay-ink-crayon,22,acrylates-copolymer,ACRYLATES COPOLYMER,no
+maybelline-superstay-ink-crayon,23,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+maybelline-superstay-ink-crayon,24,benzyl-benzoate,BENZYL BENZOATE,no
+maybelline-superstay-ink-crayon,25,tin-oxide,TIN OXIDE,no
+maybelline-superstay-ink-crayon,26,benzyl-alcohol,BENZYL ALCOHOL,no
+maybelline-superstay-ink-crayon,27,citronellol,CITRONELLOL,no
+maybelline-superstay-ink-crayon,28,linalool,LINALOOL,no
+maybelline-superstay-ink-crayon,29,geraniol,GERANIOL,no
+maybelline-superstay-ink-crayon,30,disodium-stearoyl-glutamate,DISODIUM STEAROYL GLUTAMATE,no
+maybelline-superstay-ink-crayon,31,tocopherol,TOCOPHEROL,no
+maybelline-superstay-ink-crayon,32,fragrance,PARFUM / FRAGRANCE,no
+maybelline-superstay-ink-crayon,33,titanium-dioxide,CI 77891 / TITANIUM DIOXIDE,yes
+maybelline-superstay-ink-crayon,34,ci-77491,CI 77491,yes
+maybelline-superstay-ink-crayon,35,ci-77492,CI 77492,yes
+maybelline-superstay-ink-crayon,36,ci-77499,CI 77499 / IRON OXIDES,yes
+maybelline-superstay-ink-crayon,37,ci-45410,CI 45410 / RED 28 LAKE,yes
+maybelline-superstay-ink-crayon,38,ci-15850,CI 15850 / RED 7,yes
+maybelline-superstay-ink-crayon,39,ci-45380,CI 45380 / RED 22 LAKE,yes
+maybelline-superstay-ink-crayon,40,mica,MICA,yes
+maybelline-superstay-ink-crayon,41,ci-15985,CI 15985 / YELLOW 6 LAKE,yes
+maybelline-superstay-ink-crayon,42,ci-19140,CI 19140 / YELLOW 5 LAKE,yes
+maybelline-superstay-ink-crayon,43,ci-77163,CI 77163 / BISMUTH OXYCHLORIDE,yes
+maybelline-superstay-ink-crayon,44,ci-17200,CI 17200 / RED 33 LAKE,yes
+maybelline-superstay-ink-crayon,45,ci-42090,CI 42090 / BLUE 1 LAKE,yes
+maybelline-superstay-ink-crayon,46,ci-75470,CI 75470 / CARMINE,yes
+maybelline-superstay-vinyl-ink,1,isododecane,Isododecane,no
+maybelline-superstay-vinyl-ink,2,dimethicone,Dimethicone,no
+maybelline-superstay-vinyl-ink,3,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+maybelline-superstay-vinyl-ink,4,polymethylsilsesquioxane-trimethylsiloxysilicate,Polymethylsilsesquioxane/Trimethylsiloxysilicate,no
+maybelline-superstay-vinyl-ink,5,polypropylsilsesquioxane,Polypropylsilsesquioxane,no
+maybelline-superstay-vinyl-ink,6,c30-45-alkyldimethylsilyl-polypropylsilsesquioxane,C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane,no
+maybelline-superstay-vinyl-ink,7,trimethylsiloxyphenyl-dimethicone,Trimethylsiloxyphenyl Dimethicone,no
+maybelline-superstay-vinyl-ink,8,trimethyl-pentaphenyl-trisiloxane,Trimethyl Pentaphenyl Trisiloxane,no
+maybelline-superstay-vinyl-ink,9,bis-stearyl-dimethicone,Bis-Stearyl Dimethicone,no
+maybelline-superstay-vinyl-ink,10,dimethiconol,Dimethiconol,no
+maybelline-superstay-vinyl-ink,11,trihydroxystearin,Trihydroxystearin,no
+maybelline-superstay-vinyl-ink,12,phenoxyethanol,Phenoxyethanol,no
+maybelline-superstay-vinyl-ink,13,alumina,Alumina,no
+maybelline-superstay-vinyl-ink,14,ethylhexylglycerin,Ethylhexylglycerin,no
+maybelline-superstay-vinyl-ink,15,tocopheryl-acetate,Tocopheryl Acetate,no
+maybelline-superstay-vinyl-ink,16,triethoxycaprylylsilane,Triethoxycaprylylsilane,no
+maybelline-superstay-vinyl-ink,17,limonene,Limonene,no
+maybelline-superstay-vinyl-ink,18,isopropyl-palmitate,Isopropyl Palmitate,no
+maybelline-superstay-vinyl-ink,19,isopropyl-myristate,Isopropyl Myristate,no
+maybelline-superstay-vinyl-ink,20,silica,Silica,no
+maybelline-superstay-vinyl-ink,21,benzyl-benzoate,Benzyl Benzoate,no
+maybelline-superstay-vinyl-ink,22,benzyl-alcohol,Benzyl Alcohol,no
+maybelline-superstay-vinyl-ink,23,citronellol,Citronellol,no
+maybelline-superstay-vinyl-ink,24,linalool,Linalool,no
+maybelline-superstay-vinyl-ink,25,aloe-barbadensis-leaf-extract,Aloe Barbadensis Leaf Extract,no
+maybelline-superstay-vinyl-ink,26,tocopherol,Tocopherol,no
+maybelline-superstay-vinyl-ink,27,fragrance,Parfum / Fragrance,no
+maybelline-superstay-vinyl-ink,28,titanium-dioxide,Ci 77891 / Titanium Dioxide,yes
+maybelline-superstay-vinyl-ink,29,ci-15850,Ci 15850 / Red 7,yes
+maybelline-superstay-vinyl-ink,30,ci-77491,Ci 77491,yes
+maybelline-superstay-vinyl-ink,31,ci-77492,Ci 77492,yes
+maybelline-superstay-vinyl-ink,32,ci-77499,Ci 77499 / Iron Oxides,yes
+maybelline-superstay-vinyl-ink,33,ci-45410,Ci 45410 / Red 28 Lake,yes
+maybelline-superstay-vinyl-ink,34,ci-45380,Ci 45380 / Red 22 Lake,yes
+maybelline-superstay-vinyl-ink,35,ci-15985,Ci 15985 / Yellow 6 Lake,yes
+maybelline-superstay-vinyl-ink,36,ci-19140,Ci 19140 / Yellow 5 Lake,yes
+maybelline-superstay-vinyl-ink,37,ci-17200,Ci 17200 / Red 33 Lake,yes
+maybelline-superstay-vinyl-ink,38,ci-77742,Ci 77742 / Manganese Violet,yes
+maybelline-superstay-vinyl-ink,39,ci-42090,Ci 42090 / Blue 1 Lake,yes
+rhode-peptide-lip-shape,1,caprylic-capric-triglyceride,caprylic/capric triglyceride,no
+rhode-peptide-lip-shape,2,dipentaerythrityl-hexahydroxystearate-hexastearate-hexarosinate,dipentaerythrityl hexahydroxystearate/hexastearate/hexarosinate,no
+rhode-peptide-lip-shape,3,synthetic-wax,synthetic wax,no
+rhode-peptide-lip-shape,4,silica,silica,no
+rhode-peptide-lip-shape,5,trimethylolpropane-triisostearate,trimethylolpropane triisostearate,no
+rhode-peptide-lip-shape,6,boron-nitride,boron nitride,no
+rhode-peptide-lip-shape,7,cetyl-ethylhexanoate,cetyl ethylhexanoate,no
+rhode-peptide-lip-shape,8,c20-40-alcohols,c20-40 alcohols,no
+rhode-peptide-lip-shape,9,pentaerythrityl-tetraisostearate,pentaerythrityl tetraisostearate,no
+rhode-peptide-lip-shape,10,polyhydroxystearic-acid,polyhydroxystearic acid,no
+rhode-peptide-lip-shape,11,stearalkonium-hectorite,stearalkonium hectorite,no
+rhode-peptide-lip-shape,12,disteardimonium-hectorite,disteardimonium hectorite,no
+rhode-peptide-lip-shape,13,tocopheryl-acetate,tocopheryl acetate,no
+rhode-peptide-lip-shape,14,trigonella-foenum-graecum-seed-extract,trigonella foenum-graecum seed extract,no
+rhode-peptide-lip-shape,15,palmitoyl-tripeptide-1,palmitoyl tripeptide-1,no
+rhode-peptide-lip-shape,16,lactic-acid,lactic acid,no
+rhode-peptide-lip-shape,17,tribehenin,tribehenin,no
+rhode-peptide-lip-shape,18,ethylhexyl-palmitate,ethylhexyl palmitate,no
+rhode-peptide-lip-shape,19,polyethylene,polyethylene,no
+rhode-peptide-lip-shape,20,sorbitan-isostearate,sorbitan isostearate,no
+rhode-peptide-lip-shape,21,aluminum-hydroxide,aluminum hydroxide,no
+rhode-peptide-lip-shape,22,triethoxycaprylylsilane,triethoxycaprylylsilane,no
+rhode-peptide-lip-shape,23,phenoxyethanol,phenoxyethanol,no
+rhode-peptide-lip-shape,24,titanium-dioxide,titanium dioxide (ci 77891),no
+rhode-peptide-lip-shape,25,ci-77491,"iron oxides (ci 77491, 77492, 77499)",no
+rhode-peptide-lip-shape,26,ci-77492,"iron oxides (ci 77491, 77492, 77499)",no
+rhode-peptide-lip-shape,27,ci-77499,"iron oxides (ci 77491, 77492, 77499)",no
+rhode-peptide-lip-shape,28,ci-15850,red 7 (ci 15850),no
+rhode-peptide-lip-shape,29,ci-42090,blue 1 lake (ci 42090),no
+rhode-peptide-lip-tint,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rhode-peptide-lip-tint,2,diisostearyl-malate,Diisostearyl Malate,no
+rhode-peptide-lip-tint,3,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (Shea) Butter,no
+rhode-peptide-lip-tint,4,polybutene,Polybutene,no
+rhode-peptide-lip-tint,5,microcrystalline-wax,Microcrystalline Wax (Cera Microcristallina) (Cire Microcristalline),no
+rhode-peptide-lip-tint,6,synthetic-beeswax,Synthetic Beeswax,no
+rhode-peptide-lip-tint,7,synthetic-wax,Synthetic Wax,no
+rhode-peptide-lip-tint,8,octyldodecanol,Octyldodecanol,no
+rhode-peptide-lip-tint,9,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rhode-peptide-lip-tint,10,hydrogenated-poly-c6-14-olefin,Hydrogenated Poly(C6-14 Olefin),no
+rhode-peptide-lip-tint,11,dimer-dilinoleyl-dimer-dilinoleate,Dimer Dilinoleyl Dimer Dilinoleate,no
+rhode-peptide-lip-tint,12,glyceryl-behenate-eicosadioate,Glyceryl Behenate/Eicosadioate,no
+rhode-peptide-lip-tint,13,fragrance,Fragrance (Parfum),no
+rhode-peptide-lip-tint,14,triethyl-citrate,Triethyl Citrate,no
+rhode-peptide-lip-tint,15,tocopherol,Tocopherol,no
+rhode-peptide-lip-tint,16,tocopheryl-acetate,Tocopheryl Acetate,no
+rhode-peptide-lip-tint,17,tetrahexyldecyl-ascorbate,Tetrahexyldecyl Ascorbate,no
+rhode-peptide-lip-tint,18,palmitoyl-tripeptide-1,Palmitoyl Tripeptide-1,no
+rhode-peptide-lip-tint,19,orbignya-oleifera-seed-oil,Orbignya Oleifera Seed Oil,no
+rhode-peptide-lip-tint,20,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+rhode-peptide-lip-tint,21,lactic-acid,Lactic Acid,no
+rhode-peptide-lip-tint,22,tribehenin,Tribehenin,no
+rhode-peptide-lip-tint,23,stevioside,Stevioside,no
+rhode-peptide-lip-tint,24,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rhode-peptide-lip-tint,25,sorbitan-isostearate,Sorbitan Isostearate,no
+rhode-peptide-lip-tint,26,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+rhode-peptide-lip-tint,27,disteardimonium-hectorite,Disteardimonium Hectorite,no
+rhode-peptide-lip-tint,28,o-cymen-5-ol,o-Cymen-5-ol,no
+rhode-peptide-lip-tint,29,benzyl-benzoate,Benzyl Benzoate,no
+rhode-peptide-lip-tint,30,vanillin,Vanillin,no
+rhode-peptide-lip-tint,31,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rhode-peptide-lip-tint,32,ci-45410,Red 28 Lake (CI 45410),no
+rhode-peptide-lip-tint,33,ci-15850,Red 7 (CI 15850),no
+rhode-peptide-lip-tint,34,ci-19140,Yellow 5 Lake (CI 19140),no
+rhode-peptide-lip-tint,35,ci-42090,Blue 1 Lake (CI 42090),no
+rhode-peptide-lip-treatment,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rhode-peptide-lip-treatment,2,diisostearyl-malate,Diisostearyl Malate,no
+rhode-peptide-lip-treatment,3,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (Shea) Butter,no
+rhode-peptide-lip-treatment,4,polybutene,Polybutene,no
+rhode-peptide-lip-treatment,5,microcrystalline-wax,Microcrystalline Wax (Cera Microcristallina) (Cire Microcristalline),no
+rhode-peptide-lip-treatment,6,synthetic-beeswax,Synthetic Beeswax,no
+rhode-peptide-lip-treatment,7,synthetic-wax,Synthetic Wax,no
+rhode-peptide-lip-treatment,8,octyldodecanol,Octyldodecanol,no
+rhode-peptide-lip-treatment,9,hydrogenated-poly-c6-14-olefin,Hydrogenated Poly(C6-14 Olefin),no
+rhode-peptide-lip-treatment,10,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rhode-peptide-lip-treatment,11,dimer-dilinoleyl-dimer-dilinoleate,Dimer Dilinoleyl Dimer Dilinoleate,no
+rhode-peptide-lip-treatment,12,glyceryl-behenate-eicosadioate,Glyceryl Behenate/Eicosadioate,no
+rhode-peptide-lip-treatment,13,triethyl-citrate,Triethyl Citrate,no
+rhode-peptide-lip-treatment,14,tocopherol,Tocopherol,no
+rhode-peptide-lip-treatment,15,tocopheryl-acetate,Tocopheryl Acetate,no
+rhode-peptide-lip-treatment,16,tetrahexyldecyl-ascorbate,Tetrahexyldecyl Ascorbate,no
+rhode-peptide-lip-treatment,17,palmitoyl-tripeptide-1,Palmitoyl Tripeptide-1,no
+rhode-peptide-lip-treatment,18,orbignya-oleifera-seed-oil,Orbignya Oleifera Seed Oil,no
+rhode-peptide-lip-treatment,19,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+rhode-peptide-lip-treatment,20,lactic-acid,Lactic Acid,no
+rhode-peptide-lip-treatment,21,tribehenin,Tribehenin,no
+rhode-peptide-lip-treatment,22,stevioside,Stevioside,no
+rhode-peptide-lip-treatment,23,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rhode-peptide-lip-treatment,24,sorbitan-isostearate,Sorbitan Isostearate,no
+rhode-peptide-lip-treatment,25,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+rhode-peptide-lip-treatment,26,disteardimonium-hectorite,Disteardimonium Hectorite,no
+rhode-peptide-lip-treatment,27,o-cymen-5-ol,o-Cymen-5-ol,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,1,cyclopentasiloxane,CYCLOPENTASILOXANE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,2,synthetic-wax,SYNTHETIC WAX,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,3,polybutene,POLYBUTENE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,4,isododecane,ISODODECANE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,5,hydrogenated-cottonseed-oil,HYDROGENATED COTTONSEED OIL,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,6,mica,MICA,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,7,ceresin,CERESIN,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,8,ozokerite,OZOKERITE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,9,microcrystalline-wax,MICROCRYSTALLINE WAX/CERA MICROCRISTALLINA/CIRE MICROCRISTALLINE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,10,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,11,simmondsia-chinensis-jojoba-seed-oil,SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,12,tocopherol,TOCOPHEROL,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,13,ascorbyl-palmitate,ASCORBYL PALMITATE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,14,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,15,butylene-glycol,BUTYLENE GLYCOL,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,17,phenoxyethanol,PHENOXYETHANOL,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,18,sodium-hyaluronate,SODIUM HYALURONATE,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,19,hexylene-glycol,HEXYLENE GLYCOL,no
+ct-lip-cheat-lip-liner-pillow-talk-medium,20,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),yes
+ct-lip-cheat-lip-liner-pillow-talk-medium,21,ci-77491,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",yes
+ct-lip-cheat-lip-liner-pillow-talk-medium,22,ci-77492,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",yes
+ct-lip-cheat-lip-liner-pillow-talk-medium,23,ci-77499,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",yes
+ct-lip-cheat-lip-liner-pillow-talk-medium,24,ci-15850,RED 7 LAKE (CI 15850),yes
+haus-labs-edge-lip-pencil-shade-list-1,1,c9-12-alkane,C9-12 Alkane,no
+haus-labs-edge-lip-pencil-shade-list-1,2,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+haus-labs-edge-lip-pencil-shade-list-1,3,mica,Mica,no
+haus-labs-edge-lip-pencil-shade-list-1,4,sucrose-tetrastearate-triacetate,Sucrose Tetrastearate Triacetate,no
+haus-labs-edge-lip-pencil-shade-list-1,5,hydrogenated-castor-oil,Hydrogenated Castor Oil,no
+haus-labs-edge-lip-pencil-shade-list-1,6,synthetic-wax,Synthetic Wax,no
+haus-labs-edge-lip-pencil-shade-list-1,7,copernicia-cerifera-carnauba-wax,"Cera Carnauba (Copernicia Cerifera (Carnauba) Wax, Cire de Carnauba)",no
+haus-labs-edge-lip-pencil-shade-list-1,8,polyglyceryl-4-diisostearate-polyhydroxystearate-sebacate,Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate,no
+haus-labs-edge-lip-pencil-shade-list-1,9,ceramide-np,Ceramide NP,no
+haus-labs-edge-lip-pencil-shade-list-1,10,tocopherol,Tocopherol,no
+haus-labs-edge-lip-pencil-shade-list-1,11,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+haus-labs-edge-lip-pencil-shade-list-1,12,disteardimonium-hectorite,Disteardimonium Hectorite,no
+haus-labs-edge-lip-pencil-shade-list-1,13,propylene-carbonate,Propylene Carbonate,no
+haus-labs-edge-lip-pencil-shade-list-1,14,ci-77491,CI 77491/77492/77499 (Iron Oxides),yes
+haus-labs-edge-lip-pencil-shade-list-1,15,ci-77492,CI 77491/77492/77499 (Iron Oxides),yes
+haus-labs-edge-lip-pencil-shade-list-1,16,ci-77499,CI 77491/77492/77499 (Iron Oxides),yes
+haus-labs-edge-lip-pencil-shade-list-1,17,ci-15850,CI 15850 (Red 7),yes
+haus-labs-edge-lip-pencil-shade-list-1,18,titanium-dioxide,CI 77891 (Titanium Dioxide),yes
+haus-labs-edge-lip-pencil-shade-list-1,19,ci-42090,CI 42090 (Blue 1 Lake),yes
+haus-labs-edge-lip-pencil-shade-list-2,1,c9-12-alkane,C9-12 Alkane,no
+haus-labs-edge-lip-pencil-shade-list-2,2,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+haus-labs-edge-lip-pencil-shade-list-2,3,mica,Mica,no
+haus-labs-edge-lip-pencil-shade-list-2,4,sucrose-tetrastearate-triacetate,Sucrose Tetrastearate Triacetate,no
+haus-labs-edge-lip-pencil-shade-list-2,5,hydrogenated-castor-oil,Hydrogenated Castor Oil,no
+haus-labs-edge-lip-pencil-shade-list-2,6,synthetic-wax,Synthetic Wax,no
+haus-labs-edge-lip-pencil-shade-list-2,7,copernicia-cerifera-carnauba-wax,"Cera Carnauba (Copernicia Cerifera (Carnauba) Wax, Cire de Carnauba)",no
+haus-labs-edge-lip-pencil-shade-list-2,8,polyglyceryl-4-diisostearate-polyhydroxystearate-sebacate,Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate,no
+haus-labs-edge-lip-pencil-shade-list-2,9,ceramide-np,Ceramide NP,no
+haus-labs-edge-lip-pencil-shade-list-2,10,tocopherol,Tocopherol,no
+haus-labs-edge-lip-pencil-shade-list-2,11,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+haus-labs-edge-lip-pencil-shade-list-2,12,disteardimonium-hectorite,Disteardimonium Hectorite,no
+haus-labs-edge-lip-pencil-shade-list-2,13,isopropyl-titanium-triisostearate,Isopropyl Titanium Triisostearate,no
+haus-labs-edge-lip-pencil-shade-list-2,14,propylene-carbonate,Propylene Carbonate,no
+haus-labs-edge-lip-pencil-shade-list-2,15,ci-77491,CI 77491/77492/77499 (Iron Oxides),yes
+haus-labs-edge-lip-pencil-shade-list-2,16,ci-77492,CI 77491/77492/77499 (Iron Oxides),yes
+haus-labs-edge-lip-pencil-shade-list-2,17,ci-77499,CI 77491/77492/77499 (Iron Oxides),yes
+haus-labs-edge-lip-pencil-shade-list-2,18,ci-15850,CI 15850 (Red 7),yes
+haus-labs-edge-lip-pencil-shade-list-2,19,titanium-dioxide,CI 77891 (Titanium Dioxide),yes
+haus-labs-edge-lip-pencil-shade-list-2,20,ci-19140,CI 19140 (Yellow 5 Lake),yes
+haus-labs-edge-lip-pencil-shade-list-2,21,ci-77742,CI 77742 (Manganese Violet),yes
+haus-labs-edge-lip-pencil-shade-list-2,22,ci-42090,CI 42090 (Blue 1 Lake),yes
+haus-labs-phd-lip-oil,1,polybutene,Polybutene,no
+haus-labs-phd-lip-oil,2,octyldodecanol,Octyldodecanol,no
+haus-labs-phd-lip-oil,3,diisopropyl-sebacate,Diisopropyl Sebacate,no
+haus-labs-phd-lip-oil,4,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+haus-labs-phd-lip-oil,5,opuntia-ficus-indica-seed-oil,Opuntia Ficus-Indica Seed Oil,no
+haus-labs-phd-lip-oil,6,sr-hydrozoan-polypeptide-1,Sr-Hydrozoan Polypeptide-1,no
+haus-labs-phd-lip-oil,7,portulaca-pilosa-extract,Portulaca Pilosa Extract,no
+haus-labs-phd-lip-oil,8,palmitoyl-tripeptide-38,Palmitoyl Tripeptide-38,no
+haus-labs-phd-lip-oil,9,squalane,Squalane,no
+haus-labs-phd-lip-oil,10,sucrose-cocoate,Sucrose Cocoate,no
+haus-labs-phd-lip-oil,11,cetearyl-ethylhexanoate,Cetearyl Ethylhexanoate,no
+haus-labs-phd-lip-oil,12,sorbitan-isostearate,Sorbitan Isostearate,no
+haus-labs-phd-lip-oil,13,ethyl-vanillin,Ethyl Vanillin,no
+haus-labs-phd-lip-oil,14,water,"Aqua (Water, Eau)",no
+haus-labs-phd-lip-oil,15,sebacic-acid,Sebacic Acid,no
+haus-labs-phd-lip-oil,16,phenoxyethanol,Phenoxyethanol,no
+haus-labs-phd-lip-oil,17,potassium-sorbate,Potassium Sorbate,no
+haus-labs-phd-lip-oil,18,ci-45410,CI 45410 (Red 27),yes
+haus-labs-phd-lip-oil,19,ci-17200,CI 17200 (Red 33 Lake),yes
+haus-labs-phd-lip-oil,20,ci-15850,CI 15850 (Red 6),yes
+haus-labs-phd-lip-oil,21,ci-19140,CI 19140 (Yellow 5 Lake),yes
+haus-labs-phd-lip-oil,22,ci-15985,CI 15985 (Yellow 6 Lake),yes
+maybelline-lifter-liner,1,isododecane,ISODODECANE,no
+maybelline-lifter-liner,2,synthetic-wax,SYNTHETIC WAX,no
+maybelline-lifter-liner,3,polybutene,POLYBUTENE,no
+maybelline-lifter-liner,4,trimethylsiloxysilicate,TRIMETHYLSILOXYSILICATE,no
+maybelline-lifter-liner,5,sucrose-tetrastearate-triacetate,SUCROSE TETRASTEARATE TRIACETATE,no
+maybelline-lifter-liner,6,isoamyl-laurate,ISOAMYL LAURATE,no
+maybelline-lifter-liner,7,silica,SILICA,no
+maybelline-lifter-liner,8,hydrogenated-jojoba-oil,HYDROGENATED JOJOBA OIL,no
+maybelline-lifter-liner,9,cetearyl-behenate,CETEARYL BEHENATE,no
+maybelline-lifter-liner,10,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+maybelline-lifter-liner,11,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+maybelline-lifter-liner,12,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+maybelline-lifter-liner,13,kaolin,KAOLIN,no
+maybelline-lifter-liner,14,trihydroxystearin,TRIHYDROXYSTEARIN,no
+maybelline-lifter-liner,15,sodium-hyaluronate,SODIUM HYALURONATE,no
+maybelline-lifter-liner,16,colophonium,COLOPHONIUM / ROSIN / COLOPHANE,no
+maybelline-lifter-liner,17,ci-77491,CI 77491,yes
+maybelline-lifter-liner,18,ci-77492,CI 77492,yes
+maybelline-lifter-liner,19,ci-77499,CI 77499 / IRON OXIDES,yes
+maybelline-lifter-liner,20,titanium-dioxide,CI 77891 / TITANIUM DIOXIDE,yes
+maybelline-lifter-liner,21,mica,MICA,yes
+maybelline-lifter-liner,22,ci-77742,CI 77742 / MANGANESE VIOLET,yes
+maybelline-lifter-liner,23,ci-19140,CI 19140 / YELLOW 5 LAKE,yes
+maybelline-lifter-liner,24,ci-15850,CI 15850 / RED 7,yes
+maybelline-lifter-liner,25,ci-42090,CI 42090 / BLUE 1 LAKE,yes
+maybelline-lifter-liner,26,ci-15985,CI 15985 / YELLOW 6 LAKE,yes
+maybelline-lifter-liner,27,ci-45410,CI 45410 / RED 28 LAKE,yes
+maybelline-lifter-liner,28,ci-77163,CI 77163 / BISMUTH OXYCHLORIDE,yes
+maybelline-superstay-matte-ink,1,dimethicone,DIMETHICONE,no
+maybelline-superstay-matte-ink,2,trimethylsiloxysilicate,TRIMETHYLSILOXYSILICATE,no
+maybelline-superstay-matte-ink,3,isododecane,ISODODECANE,no
+maybelline-superstay-matte-ink,4,nylon-611-dimethicone-copolymer,NYLON-611/DIMETHICONE COPOLYMER,no
+maybelline-superstay-matte-ink,5,dimethicone-crosspolymer,DIMETHICONE CROSSPOLYMER,no
+maybelline-superstay-matte-ink,6,c30-45-alkyldimethylsilyl-polypropylsilsesquioxane,C30-45 ALKYLDIMETHYLSILYL POLYPROPYLSILSESQUIOXANE,no
+maybelline-superstay-matte-ink,7,lauroyl-lysine,LAUROYL LYSINE,no
+maybelline-superstay-matte-ink,8,alumina,ALUMINA,no
+maybelline-superstay-matte-ink,9,silica-silylate,SILICA SILYLATE,no
+maybelline-superstay-matte-ink,10,disodium-stearoyl-glutamate,DISODIUM STEAROYL GLUTAMATE,no
+maybelline-superstay-matte-ink,11,phenoxyethanol,PHENOXYETHANOL,no
+maybelline-superstay-matte-ink,12,caprylyl-glycol,CAPRYLYL GLYCOL,no
+maybelline-superstay-matte-ink,13,limonene,LIMONENE,no
+maybelline-superstay-matte-ink,14,aluminum-hydroxide,ALUMINUM HYDROXIDE,no
+maybelline-superstay-matte-ink,15,paraffin,PARAFFIN,no
+maybelline-superstay-matte-ink,16,benzyl-benzoate,BENZYL BENZOATE,no
+maybelline-superstay-matte-ink,17,benzyl-alcohol,BENZYL ALCOHOL,no
+maybelline-superstay-matte-ink,18,citronellol,CITRONELLOL,no
+maybelline-superstay-matte-ink,19,fragrance,PARFUM / FRAGRANCE,no
+maybelline-superstay-matte-ink,20,ci-45410,CI 45410 / RED 28 LAKE,yes
+maybelline-superstay-matte-ink,21,titanium-dioxide,CI 77891 / TITANIUM DIOXIDE,yes
+maybelline-superstay-matte-ink,22,ci-15850,CI 15850 / RED 7,yes
+maybelline-superstay-matte-ink,23,ci-77491,CI 77491,yes
+maybelline-superstay-matte-ink,24,ci-77492,CI 77492,yes
+maybelline-superstay-matte-ink,25,ci-77499,CI 77499 / IRON OXIDES,yes
+maybelline-superstay-matte-ink,26,ci-45380,CI 45380 / RED 22 LAKE,yes
+maybelline-superstay-matte-ink,27,ci-15985,CI 15985 / YELLOW 6 LAKE,yes
+maybelline-superstay-matte-ink,28,ci-19140,CI 19140 / YELLOW 5 LAKE,yes
+maybelline-superstay-matte-ink,29,ci-42090,CI 42090 / BLUE 1 LAKE,yes
+maybelline-superstay-matte-ink,30,ci-17200,CI 17200 / RED 33 LAKE,yes
+maybelline-superstay-matte-ink,31,mica,MICA,yes
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,1,isononyl-isononanoate,Isononyl Isononanoate,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,2,c12-15-alkyl-benzoate,C12-15 Alkyl Benzoate,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,3,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,4,octyldodecanol,Octyldodecanol,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,5,polyethylene,Polyethylene,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,6,dicalcium-phosphate,Dicalcium Phosphate,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,7,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax/Helianthus Annuus Seed Cera,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,8,polybutene,Polybutene,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,9,silica,Silica,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,10,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,11,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,12,synthetic-wax,Synthetic Wax,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,13,tocopheryl-acetate,Tocopheryl Acetate,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,14,fragrance,Fragrance/Parfum,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,15,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,16,bht,BHT,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,17,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,18,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,19,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,20,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,21,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,22,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,23,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,24,ci-15850,Red 7 (CI 15850),yes
+rare-kind-words-lipstick-talented-creative-lively-humble-strong-worthy,25,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-kind-words-lipstick-fun-bold-gifted-wise,1,isononyl-isononanoate,Isononyl Isononanoate,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,2,c12-15-alkyl-benzoate,C12-15 Alkyl Benzoate,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,3,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,4,octyldodecanol,Octyldodecanol,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,5,dicalcium-phosphate,Dicalcium Phosphate,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,6,polyethylene,Polyethylene,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,7,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax/Helianthus Annuus Seed Cera,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,8,polybutene,Polybutene,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,9,silica,Silica,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,10,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,11,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,12,synthetic-wax,Synthetic Wax,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,13,tocopheryl-acetate,Tocopheryl Acetate,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,14,fragrance,Fragrance/Parfum,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,15,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,16,bht,BHT,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,17,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,18,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,19,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-lipstick-fun-bold-gifted-wise,20,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-kind-words-lipstick-fun-bold-gifted-wise,21,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-lipstick-fun-bold-gifted-wise,22,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-lipstick-fun-bold-gifted-wise,23,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-lipstick-fun-bold-gifted-wise,24,ci-15850,Red 7 (CI 15850),yes
+rare-kind-words-lipstick-fun-bold-gifted-wise,25,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-kind-words-lipstick-devoted,1,isononyl-isononanoate,Isononyl Isononanoate,no
+rare-kind-words-lipstick-devoted,2,c12-15-alkyl-benzoate,C12-15 Alkyl Benzoate,no
+rare-kind-words-lipstick-devoted,3,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+rare-kind-words-lipstick-devoted,4,octyldodecanol,Octyldodecanol,no
+rare-kind-words-lipstick-devoted,5,dicalcium-phosphate,Dicalcium Phosphate,no
+rare-kind-words-lipstick-devoted,6,polyethylene,Polyethylene,no
+rare-kind-words-lipstick-devoted,7,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax/Helianthus Annuus Seed Cera,no
+rare-kind-words-lipstick-devoted,8,polybutene,Polybutene,no
+rare-kind-words-lipstick-devoted,9,silica,Silica,no
+rare-kind-words-lipstick-devoted,10,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+rare-kind-words-lipstick-devoted,11,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-lipstick-devoted,12,synthetic-wax,Synthetic Wax,no
+rare-kind-words-lipstick-devoted,13,tocopheryl-acetate,Tocopheryl Acetate,no
+rare-kind-words-lipstick-devoted,14,fragrance,Fragrance/Parfum,no
+rare-kind-words-lipstick-devoted,15,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-lipstick-devoted,16,bht,BHT,no
+rare-kind-words-lipstick-devoted,17,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-lipstick-devoted,18,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-lipstick-devoted,19,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-lipstick-devoted,20,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-kind-words-lipstick-devoted,21,ci-15850,Red 7 (CI 15850),no
+rare-kind-words-lipstick-devoted,22,ci-45410,Red 28 Lake (CI 45410),no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,1,dimethicone,Dimethicone,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,2,methyl-trimethicone,Methyl Trimethicone,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,3,dimethicone-crosspolymer,Dimethicone Crosspolymer,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,4,dimethicone-vinyl-dimethicone-crosspolymer,Dimethicone/Vinyl Dimethicone Crosspolymer,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,5,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,6,isododecane,Isododecane,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,7,1-2-hexanediol,"1,2-Hexanediol",no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,8,disteardimonium-hectorite,Disteardimonium Hectorite,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,9,phenoxyethanol,Phenoxyethanol,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,10,peg-10-dimethicone,PEG-10 Dimethicone,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,11,tocopheryl-acetate,Tocopheryl Acetate,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,12,propylene-carbonate,Propylene Carbonate,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,13,fragrance,Fragrance/Parfum,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,14,linalool,Linalool,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,15,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,16,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,17,nelumbo-nucifera-flower-extract,Nelumbo Nucifera (Sacred Lotus) Flower Extract,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,18,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,19,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,20,ci-77491,Iron Oxides (CI 77491),yes
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,21,ci-77499,Iron Oxides (CI 77499),yes
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,22,ci-45410,Red 28 Lake (CI 45410),yes
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,23,ci-15850,Red 7 Lake (CI 15850),yes
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,24,ci-77492,Iron Oxides (CI 77492),yes
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,25,ci-15985,Yellow 6 Lake (CI 15985),yes
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,26,ci-19140,Yellow 5 Lake (CI 19140),yes
+rare-lip-souffle-courage-brave-fearless-thrilling-motivate-inspire-energize-daring,27,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-lip-souffle-ascend-strengthen-heroic,1,dimethicone,Dimethicone,no
+rare-lip-souffle-ascend-strengthen-heroic,2,methyl-trimethicone,Methyl Trimethicone,no
+rare-lip-souffle-ascend-strengthen-heroic,3,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-lip-souffle-ascend-strengthen-heroic,4,dimethicone-crosspolymer,Dimethicone Crosspolymer,no
+rare-lip-souffle-ascend-strengthen-heroic,5,dimethicone-vinyl-dimethicone-crosspolymer,Dimethicone/Vinyl Dimethicone Crosspolymer,no
+rare-lip-souffle-ascend-strengthen-heroic,6,isododecane,Isododecane,no
+rare-lip-souffle-ascend-strengthen-heroic,7,1-2-hexanediol,"1,2-Hexanediol",no
+rare-lip-souffle-ascend-strengthen-heroic,8,disteardimonium-hectorite,Disteardimonium Hectorite,no
+rare-lip-souffle-ascend-strengthen-heroic,9,phenoxyethanol,Phenoxyethanol,no
+rare-lip-souffle-ascend-strengthen-heroic,10,peg-10-dimethicone,PEG-10 Dimethicone,no
+rare-lip-souffle-ascend-strengthen-heroic,11,tocopheryl-acetate,Tocopheryl Acetate,no
+rare-lip-souffle-ascend-strengthen-heroic,12,propylene-carbonate,Propylene Carbonate,no
+rare-lip-souffle-ascend-strengthen-heroic,13,fragrance,Fragrance/Parfum,no
+rare-lip-souffle-ascend-strengthen-heroic,14,linalool,Linalool,no
+rare-lip-souffle-ascend-strengthen-heroic,15,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-lip-souffle-ascend-strengthen-heroic,16,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-lip-souffle-ascend-strengthen-heroic,17,nelumbo-nucifera-flower-extract,Nelumbo Nucifera (Sacred Lotus) Flower Extract,no
+rare-lip-souffle-ascend-strengthen-heroic,18,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-lip-souffle-ascend-strengthen-heroic,19,ci-45410,Red 27 (CI 45410),yes
+rare-lip-souffle-ascend-strengthen-heroic,20,ci-15850,Red 7 Lake (CI 15850),yes
+rare-lip-souffle-ascend-strengthen-heroic,21,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-lip-souffle-ascend-strengthen-heroic,22,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-lip-souffle-ascend-strengthen-heroic,23,ci-77491,Iron Oxides (CI 77491),yes
+rare-lip-souffle-kindness-confident-elevate,1,dimethicone,Dimethicone,no
+rare-lip-souffle-kindness-confident-elevate,2,methyl-trimethicone,Methyl Trimethicone,no
+rare-lip-souffle-kindness-confident-elevate,3,dimethicone-crosspolymer,Dimethicone Crosspolymer,no
+rare-lip-souffle-kindness-confident-elevate,4,dimethicone-vinyl-dimethicone-crosspolymer,Dimethicone/Vinyl Dimethicone Crosspolymer,no
+rare-lip-souffle-kindness-confident-elevate,5,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-lip-souffle-kindness-confident-elevate,6,isododecane,Isododecane,no
+rare-lip-souffle-kindness-confident-elevate,7,1-2-hexanediol,"1,2-Hexanediol",no
+rare-lip-souffle-kindness-confident-elevate,8,disteardimonium-hectorite,Disteardimonium Hectorite,no
+rare-lip-souffle-kindness-confident-elevate,9,phenoxyethanol,Phenoxyethanol,no
+rare-lip-souffle-kindness-confident-elevate,10,propylene-carbonate,Propylene Carbonate,no
+rare-lip-souffle-kindness-confident-elevate,11,peg-10-dimethicone,PEG-10 Dimethicone,no
+rare-lip-souffle-kindness-confident-elevate,12,tocopheryl-acetate,Tocopheryl Acetate,no
+rare-lip-souffle-kindness-confident-elevate,13,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-lip-souffle-kindness-confident-elevate,14,linalool,Linalool,no
+rare-lip-souffle-kindness-confident-elevate,15,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-lip-souffle-kindness-confident-elevate,16,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-lip-souffle-kindness-confident-elevate,17,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-lip-souffle-kindness-confident-elevate,18,fragrance,Fragrance/Parfum,no
+rare-lip-souffle-kindness-confident-elevate,19,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-lip-souffle-kindness-confident-elevate,20,ci-77491,Iron Oxides (CI 77491),yes
+rare-lip-souffle-kindness-confident-elevate,21,ci-77499,Iron Oxides (CI 77499),yes
+rare-lip-souffle-kindness-confident-elevate,22,ci-45410,Red 28 Lake (CI 45410),yes
+rare-lip-souffle-kindness-confident-elevate,23,ci-15850,Red 7 Lake (CI 15850),yes
+rare-lip-souffle-kindness-confident-elevate,24,ci-77492,Iron Oxides (CI 77492),yes
+rare-lip-souffle-kindness-confident-elevate,25,ci-15985,Yellow 6 Lake (CI 15985),yes
+rare-lip-souffle-kindness-confident-elevate,26,ci-19140,Yellow 5 Lake (CI 19140),yes
+rare-lip-souffle-kindness-confident-elevate,27,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-positive-light-gloss-dazzle,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-positive-light-gloss-dazzle,2,diisostearyl-malate,Diisostearyl Malate,no
+rare-positive-light-gloss-dazzle,3,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-positive-light-gloss-dazzle,4,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-positive-light-gloss-dazzle,5,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+rare-positive-light-gloss-dazzle,6,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+rare-positive-light-gloss-dazzle,7,synthetic-wax,Synthetic Wax,no
+rare-positive-light-gloss-dazzle,8,1-2-hexanediol,"1,2-Hexanediol",no
+rare-positive-light-gloss-dazzle,9,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-positive-light-gloss-dazzle,10,fragrance,Fragrance (Parfum),no
+rare-positive-light-gloss-dazzle,11,tin-oxide,Tin Oxide,no
+rare-positive-light-gloss-dazzle,12,linalool,Linalool,no
+rare-positive-light-gloss-dazzle,13,benzaldehyde,Benzaldehyde,no
+rare-positive-light-gloss-dazzle,14,geranyl-acetate,Geranyl Acetate,no
+rare-positive-light-gloss-dazzle,15,limonene,Limonene,no
+rare-positive-light-gloss-dazzle,16,citrus-aurantium-amara-bitter-orange-peel-oil,Citrus Aurantium Amara (Bitter Orange) Peel Oil,no
+rare-positive-light-gloss-dazzle,17,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-positive-light-gloss-dazzle,18,ci-42090,Blue 1 Lake (CI42090),no
+rare-positive-light-gloss-beam,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-positive-light-gloss-beam,2,diisostearyl-malate,Diisostearyl Malate,no
+rare-positive-light-gloss-beam,3,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-positive-light-gloss-beam,4,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-positive-light-gloss-beam,5,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+rare-positive-light-gloss-beam,6,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+rare-positive-light-gloss-beam,7,synthetic-wax,Synthetic Wax,no
+rare-positive-light-gloss-beam,8,1-2-hexanediol,"1,2-Hexanediol",no
+rare-positive-light-gloss-beam,9,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-positive-light-gloss-beam,10,fragrance,Fragrance (Parfum),no
+rare-positive-light-gloss-beam,11,tin-oxide,Tin Oxide,no
+rare-positive-light-gloss-beam,12,limonene,Limonene,no
+rare-positive-light-gloss-beam,13,linalool,Linalool,no
+rare-positive-light-gloss-beam,14,benzaldehyde,Benzaldehyde,no
+rare-positive-light-gloss-beam,15,geranyl-acetate,Geranyl Acetate,no
+rare-positive-light-gloss-beam,16,citrus-aurantium-amara-bitter-orange-peel-oil,Citrus Aurantium Amara (Bitter Orange) Peel Oil,no
+rare-positive-light-gloss-beam,17,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-positive-light-gloss-beam,18,ci-19140,Yellow 5 Lake (CI 19140),no
+rare-positive-light-gloss-beam,19,ci-15985,Yellow 6 Lake (CI 15985),no
+rare-positive-light-gloss-beam,20,ci-15850,Red 7 Lake (CI 15850),no
+rare-positive-light-gloss-flicker,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-positive-light-gloss-flicker,2,diisostearyl-malate,Diisostearyl Malate,no
+rare-positive-light-gloss-flicker,3,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-positive-light-gloss-flicker,4,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-positive-light-gloss-flicker,5,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+rare-positive-light-gloss-flicker,6,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+rare-positive-light-gloss-flicker,7,synthetic-wax,Synthetic Wax,no
+rare-positive-light-gloss-flicker,8,1-2-hexanediol,"1,2-Hexanediol",no
+rare-positive-light-gloss-flicker,9,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-positive-light-gloss-flicker,10,fragrance,Fragrance (Parfum),no
+rare-positive-light-gloss-flicker,11,tin-oxide,Tin Oxide,no
+rare-positive-light-gloss-flicker,12,limonene,Limonene,no
+rare-positive-light-gloss-flicker,13,linalool,Linalool,no
+rare-positive-light-gloss-flicker,14,benzaldehyde,Benzaldehyde,no
+rare-positive-light-gloss-flicker,15,geranyl-acetate,Geranyl Acetate,no
+rare-positive-light-gloss-flicker,16,citrus-aurantium-amara-bitter-orange-peel-oil,Citrus Aurantium Amara (Bitter Orange) Peel Oil,no
+rare-positive-light-gloss-flicker,17,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-positive-light-gloss-flicker,18,ci-15985,Yellow 6 Lake (CI 15985),no
+rare-positive-light-gloss-flicker,19,ci-15850,Red 7 Lake (CI 15850),no
+rare-positive-light-gloss-glimmer,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-positive-light-gloss-glimmer,2,diisostearyl-malate,Diisostearyl Malate,no
+rare-positive-light-gloss-glimmer,3,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-positive-light-gloss-glimmer,4,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-positive-light-gloss-glimmer,5,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+rare-positive-light-gloss-glimmer,6,synthetic-wax,Synthetic Wax,no
+rare-positive-light-gloss-glimmer,7,calcium-titanium-borosilicate,Calcium Titanium Borosilicate,no
+rare-positive-light-gloss-glimmer,8,1-2-hexanediol,"1,2-Hexanediol",no
+rare-positive-light-gloss-glimmer,9,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-positive-light-gloss-glimmer,10,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+rare-positive-light-gloss-glimmer,11,fragrance,Fragrance (Parfum),no
+rare-positive-light-gloss-glimmer,12,tin-oxide,Tin Oxide,no
+rare-positive-light-gloss-glimmer,13,limonene,Limonene,no
+rare-positive-light-gloss-glimmer,14,linalool,Linalool,no
+rare-positive-light-gloss-glimmer,15,benzaldehyde,Benzaldehyde,no
+rare-positive-light-gloss-glimmer,16,geranyl-acetate,Geranyl Acetate,no
+rare-positive-light-gloss-glimmer,17,citrus-aurantium-amara-bitter-orange-peel-oil,Citrus Aurantium Amara (Bitter Orange) Peel Oil,no
+rare-positive-light-gloss-glimmer,18,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-positive-light-gloss-glimmer,19,ci-15985,Yellow 6 Lake (CI 15985),no
+rare-positive-light-gloss-glimmer,20,ci-15850,Red 7 Lake (CI 15850),no
+rare-positive-light-gloss-glimmer,21,ci-77499,Iron Oxides (CI 77499),no
+rare-positive-light-gloss-spark,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-positive-light-gloss-spark,2,diisostearyl-malate,Diisostearyl Malate,no
+rare-positive-light-gloss-spark,3,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-positive-light-gloss-spark,4,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-positive-light-gloss-spark,5,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+rare-positive-light-gloss-spark,6,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+rare-positive-light-gloss-spark,7,synthetic-wax,Synthetic Wax,no
+rare-positive-light-gloss-spark,8,1-2-hexanediol,"1,2-Hexanediol",no
+rare-positive-light-gloss-spark,9,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-positive-light-gloss-spark,10,fragrance,Fragrance (Parfum),no
+rare-positive-light-gloss-spark,11,tin-oxide,Tin Oxide,no
+rare-positive-light-gloss-spark,12,limonene,Limonene,no
+rare-positive-light-gloss-spark,13,linalool,Linalool,no
+rare-positive-light-gloss-spark,14,benzaldehyde,Benzaldehyde,no
+rare-positive-light-gloss-spark,15,geranyl-acetate,Geranyl Acetate,no
+rare-positive-light-gloss-spark,16,citrus-aurantium-amara-bitter-orange-peel-oil,Citrus Aurantium Amara (Bitter Orange) Peel Oil,no
+rare-positive-light-gloss-spark,17,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-positive-light-gloss-spark,18,ci-77491,Iron Oxides (CI 77491),no
+rare-positive-light-gloss-spark,19,ci-77499,Iron Oxides (CI 77499),no
+rare-positive-light-gloss-spark,20,ci-15850,Red 7 Lake (CI 15850),no
+rare-positive-light-gloss-spark,21,ci-42090,Blue 1 Lake (CI 42090),no
+rare-positive-light-gloss-blaze,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-positive-light-gloss-blaze,2,diisostearyl-malate,Diisostearyl Malate,no
+rare-positive-light-gloss-blaze,3,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-positive-light-gloss-blaze,4,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-positive-light-gloss-blaze,5,silica-dimethyl-silylate,Silica Dimethyl Silylate,no
+rare-positive-light-gloss-blaze,6,synthetic-wax,Synthetic Wax,no
+rare-positive-light-gloss-blaze,7,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+rare-positive-light-gloss-blaze,8,1-2-hexanediol,"1,2-Hexanediol",no
+rare-positive-light-gloss-blaze,9,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-positive-light-gloss-blaze,10,fragrance,Fragrance (Parfum),no
+rare-positive-light-gloss-blaze,11,tin-oxide,Tin Oxide,no
+rare-positive-light-gloss-blaze,12,limonene,Limonene,no
+rare-positive-light-gloss-blaze,13,linalool,Linalool,no
+rare-positive-light-gloss-blaze,14,benzaldehyde,Benzaldehyde,no
+rare-positive-light-gloss-blaze,15,geranyl-acetate,Geranyl Acetate,no
+rare-positive-light-gloss-blaze,16,citrus-aurantium-amara-bitter-orange-peel-oil,Citrus Aurantium Amara (Bitter Orange) Peel Oil,no
+rare-positive-light-gloss-blaze,17,ci-77499,Iron Oxides (CI 77499),no
+rare-positive-light-gloss-blaze,18,ci-77491,Iron Oxides (CI 77491),no
+rare-positive-light-gloss-blaze,19,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-positive-light-gloss-blaze,20,ci-19140,Yellow 5 Lake (CI 19140),no
+rare-positive-light-gloss-blaze,21,ci-15850,Red 7 Lake (CI 15850),no
+rare-stay-vulnerable-balm,1,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-stay-vulnerable-balm,2,ethylene-propylene-styrene-copolymer,Ethylene/Propylene/Styrene Copolymer,no
+rare-stay-vulnerable-balm,3,butylene-ethylene-styrene-copolymer,Butylene/Ethylene/Styrene Copolymer,no
+rare-stay-vulnerable-balm,4,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+rare-stay-vulnerable-balm,5,phenoxyethanol,Phenoxyethanol,no
+rare-stay-vulnerable-balm,6,tocopheryl-acetate,Tocopheryl Acetate,no
+rare-stay-vulnerable-balm,7,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-stay-vulnerable-balm,8,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-stay-vulnerable-balm,9,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-stay-vulnerable-balm,10,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-stay-vulnerable-balm,11,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-stay-vulnerable-balm,12,benzyl-benzoate,Benzyl Benzoate,no
+rare-stay-vulnerable-balm,13,benzyl-salicylate,Benzyl Salicylate,no
+rare-stay-vulnerable-balm,14,fragrance,Fragrance/Parfum,no
+rare-stay-vulnerable-balm,15,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-stay-vulnerable-balm,16,ci-77491,"Iron Oxides (CI 77491, 77492, 77499)",yes
+rare-stay-vulnerable-balm,17,ci-77492,"Iron Oxides (CI 77491, 77492, 77499)",yes
+rare-stay-vulnerable-balm,18,ci-77499,"Iron Oxides (CI 77491, 77492, 77499)",yes
+rare-stay-vulnerable-balm,19,ci-73360,Red 30 Lake (CI 73360),yes
+rare-stay-vulnerable-balm,20,ci-15850,Red 7 Lake (CI 15850),yes
+rare-stay-vulnerable-balm,21,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-stay-vulnerable-balm,22,ci-19140,Yellow 5 Lake (CI 19140),yes
+rare-kind-words-liner-creative-talented-worthy,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-creative-talented-worthy,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-creative-talented-worthy,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-creative-talented-worthy,4,mica,Mica,no
+rare-kind-words-liner-creative-talented-worthy,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-creative-talented-worthy,6,isododecane,Isododecane,no
+rare-kind-words-liner-creative-talented-worthy,7,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-liner-creative-talented-worthy,8,polybutene,Polybutene,no
+rare-kind-words-liner-creative-talented-worthy,9,silica,Silica,no
+rare-kind-words-liner-creative-talented-worthy,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-creative-talented-worthy,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-creative-talented-worthy,12,paraffin,Paraffin,no
+rare-kind-words-liner-creative-talented-worthy,13,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-creative-talented-worthy,14,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax/Copernicia Cerifera Cera/Cire de carnauba,no
+rare-kind-words-liner-creative-talented-worthy,15,fragrance,Fragrance/Parfum,no
+rare-kind-words-liner-creative-talented-worthy,16,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-creative-talented-worthy,17,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-creative-talented-worthy,18,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-creative-talented-worthy,19,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-creative-talented-worthy,20,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-creative-talented-worthy,21,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-creative-talented-worthy,22,linalool,Linalool,no
+rare-kind-words-liner-creative-talented-worthy,23,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-kind-words-liner-creative-talented-worthy,24,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-kind-words-liner-creative-talented-worthy,25,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-creative-talented-worthy,26,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-creative-talented-worthy,27,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-creative-talented-worthy,28,ci-15850,Red 7 Lake (CI 15850),yes
+rare-kind-words-liner-strong,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-strong,2,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-strong,3,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-strong,4,mica,Mica,no
+rare-kind-words-liner-strong,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-strong,6,isododecane,Isododecane,no
+rare-kind-words-liner-strong,7,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-liner-strong,8,polybutene,Polybutene,no
+rare-kind-words-liner-strong,9,silica,Silica,no
+rare-kind-words-liner-strong,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-strong,11,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-kind-words-liner-strong,12,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-strong,13,paraffin,Paraffin,no
+rare-kind-words-liner-strong,14,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-strong,15,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax/Copernicia Cerifera Cera/Cire de carnauba,no
+rare-kind-words-liner-strong,16,fragrance,Fragrance/Parfum,no
+rare-kind-words-liner-strong,17,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-strong,18,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-strong,19,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-strong,20,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-strong,21,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-strong,22,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-strong,23,linalool,Linalool,no
+rare-kind-words-liner-strong,24,ci-15850,Red 7 Lake (CI 15850),yes
+rare-kind-words-liner-strong,25,ci-77491,"Iron Oxides (CI 77491, CI 77499)",yes
+rare-kind-words-liner-strong,26,ci-77499,"Iron Oxides (CI 77491, CI 77499)",yes
+rare-kind-words-liner-humble,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-humble,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-humble,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-humble,4,mica,Mica,no
+rare-kind-words-liner-humble,5,isododecane,Isododecane,no
+rare-kind-words-liner-humble,6,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-humble,7,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-liner-humble,8,polybutene,Polybutene,no
+rare-kind-words-liner-humble,9,silica,Silica,no
+rare-kind-words-liner-humble,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-humble,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-humble,12,paraffin,Paraffin,no
+rare-kind-words-liner-humble,13,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-humble,14,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-kind-words-liner-humble,15,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax/Copernicia Cerifera Cera/Cire de carnauba,no
+rare-kind-words-liner-humble,16,fragrance,Fragrance/Parfum,no
+rare-kind-words-liner-humble,17,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-humble,18,diisostearyl-malate,Diisostearyl Malate,no
+rare-kind-words-liner-humble,19,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-humble,20,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-humble,21,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-humble,22,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-humble,23,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-humble,24,polyglyceryl-2-diisostearate,Polyglyceryl-2 Diisostearate,no
+rare-kind-words-liner-humble,25,linalool,Linalool,no
+rare-kind-words-liner-humble,26,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-kind-words-liner-humble,27,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-kind-words-liner-humble,28,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-humble,29,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-humble,30,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-humble,31,ci-15850,Red 7 Lake (CI 15850),yes
+rare-kind-words-liner-fun-wise,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-fun-wise,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-fun-wise,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-fun-wise,4,mica,Mica,no
+rare-kind-words-liner-fun-wise,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-fun-wise,6,isododecane,Isododecane,no
+rare-kind-words-liner-fun-wise,7,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-liner-fun-wise,8,polybutene,Polybutene,no
+rare-kind-words-liner-fun-wise,9,silica,Silica,no
+rare-kind-words-liner-fun-wise,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-fun-wise,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-fun-wise,12,paraffin,Paraffin,no
+rare-kind-words-liner-fun-wise,13,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-fun-wise,14,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax/Copernicia Cerifera Cera/Cire de carnauba,no
+rare-kind-words-liner-fun-wise,15,fragrance,Fragrance/Parfum,no
+rare-kind-words-liner-fun-wise,16,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-fun-wise,17,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-fun-wise,18,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-fun-wise,19,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-fun-wise,20,lauroyl-lysine,Lauroyl Lysine,no
+rare-kind-words-liner-fun-wise,21,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-fun-wise,22,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-fun-wise,23,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-kind-words-liner-fun-wise,24,linalool,Linalool,no
+rare-kind-words-liner-fun-wise,25,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-kind-words-liner-fun-wise,26,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-kind-words-liner-fun-wise,27,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-fun-wise,28,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-fun-wise,29,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-fun-wise,30,ci-15850,Red 7 Lake (CI 15850),yes
+rare-kind-words-liner-lively,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-lively,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-lively,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-lively,4,mica,Mica,no
+rare-kind-words-liner-lively,5,isododecane,Isododecane,no
+rare-kind-words-liner-lively,6,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-lively,7,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-liner-lively,8,polybutene,Polybutene,no
+rare-kind-words-liner-lively,9,silica,Silica,no
+rare-kind-words-liner-lively,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-lively,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-lively,12,paraffin,Paraffin,no
+rare-kind-words-liner-lively,13,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-lively,14,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax/Copernicia Cerifera Cera/Cire de carnauba,no
+rare-kind-words-liner-lively,15,fragrance,Fragrance/Parfum,no
+rare-kind-words-liner-lively,16,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-lively,17,diisostearyl-malate,Diisostearyl Malate,no
+rare-kind-words-liner-lively,18,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-lively,19,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-lively,20,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-lively,21,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-lively,22,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-lively,23,polyglyceryl-2-diisostearate,Polyglyceryl-2 Diisostearate,no
+rare-kind-words-liner-lively,24,linalool,Linalool,no
+rare-kind-words-liner-lively,25,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-kind-words-liner-lively,26,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-lively,27,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-lively,28,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-lively,29,ci-15850,Red 7 Lake (CI 15850),yes
+rare-kind-words-liner-bold,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-bold,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-bold,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-bold,4,mica,Mica,no
+rare-kind-words-liner-bold,5,isododecane,Isododecane,no
+rare-kind-words-liner-bold,6,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-bold,7,iron-oxides-unspecified,Iron Oxides,no
+rare-kind-words-liner-bold,8,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-liner-bold,9,polybutene,Polybutene,no
+rare-kind-words-liner-bold,10,silica,Silica,no
+rare-kind-words-liner-bold,11,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-bold,12,diisostearyl-malate,Diisostearyl Malate,no
+rare-kind-words-liner-bold,13,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-bold,14,paraffin,Paraffin,no
+rare-kind-words-liner-bold,15,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-bold,16,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax/Copernicia Cerifera Cera/Cire de carnauba,no
+rare-kind-words-liner-bold,17,fragrance,Fragrance/Parfum,no
+rare-kind-words-liner-bold,18,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-bold,19,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-bold,20,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-bold,21,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-bold,22,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-bold,23,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-bold,24,polyglyceryl-2-diisostearate,Polyglyceryl-2 Diisostearate,no
+rare-kind-words-liner-bold,25,linalool,Linalool,no
+rare-kind-words-liner-bold,26,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-kind-words-liner-bold,27,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-bold,28,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-bold,29,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+rare-kind-words-liner-bold,30,ci-15850,Red 7 Lake (CI 15850),yes
+rare-kind-words-liner-gifted,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-gifted,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-gifted,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-gifted,4,mica,Mica,no
+rare-kind-words-liner-gifted,5,isododecane,Isododecane,no
+rare-kind-words-liner-gifted,6,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-gifted,7,microcrystalline-wax,Microcrystalline Wax/Cera Microcristallina/Cire microcristalline,no
+rare-kind-words-liner-gifted,8,polybutene,Polybutene,no
+rare-kind-words-liner-gifted,9,silica,Silica,no
+rare-kind-words-liner-gifted,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-gifted,11,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-kind-words-liner-gifted,12,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-gifted,13,paraffin,Paraffin,no
+rare-kind-words-liner-gifted,14,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-gifted,15,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax/Copernicia Cerifera Cera/Cire de carnauba,no
+rare-kind-words-liner-gifted,16,fragrance,Fragrance/Parfum,no
+rare-kind-words-liner-gifted,17,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-gifted,18,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-gifted,19,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-gifted,20,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-gifted,21,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-gifted,22,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-gifted,23,linalool,Linalool,no
+rare-kind-words-liner-gifted,24,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+rare-kind-words-liner-gifted,25,ci-42090,Blue 1 Lake (CI 42090),yes
+rare-kind-words-liner-gifted,26,ci-77491,"Iron Oxides (CI 77491, CI 77499)",yes
+rare-kind-words-liner-gifted,27,ci-77499,"Iron Oxides (CI 77491, CI 77499)",yes
+rare-kind-words-liner-gifted,28,ci-15850,Red 7 Lake (CI 15850),yes
+rare-kind-words-liner-devoted,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-devoted,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-devoted,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-devoted,4,mica,Mica,no
+rare-kind-words-liner-devoted,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-devoted,6,isododecane,Isododecane,no
+rare-kind-words-liner-devoted,7,microcrystalline-wax,Microcrystalline Wax (Cera Microcristallina/Cire microcristalline),no
+rare-kind-words-liner-devoted,8,polybutene,Polybutene,no
+rare-kind-words-liner-devoted,9,silica,Silica,no
+rare-kind-words-liner-devoted,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-devoted,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-devoted,12,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax (Copernicia Cerifera Cera/Cire de carnauba),no
+rare-kind-words-liner-devoted,13,paraffin,Paraffin,no
+rare-kind-words-liner-devoted,14,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-devoted,15,fragrance,Fragrance (Parfum),no
+rare-kind-words-liner-devoted,16,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-devoted,17,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-devoted,18,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-devoted,19,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-devoted,20,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-devoted,21,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-devoted,22,linalool,Linalool,no
+rare-kind-words-liner-devoted,23,ci-15850,Red 7 (CI 15850),no
+rare-kind-words-liner-devoted,24,ci-15985,Yellow 6 Lake (CI 15985),no
+rare-kind-words-liner-devoted,25,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-kind-words-liner-devoted,26,ci-77491,Iron Oxides (CI 77491),no
+rare-kind-words-liner-sweet,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-sweet,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-sweet,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-sweet,4,mica,Mica,no
+rare-kind-words-liner-sweet,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-sweet,6,isododecane,Isododecane,no
+rare-kind-words-liner-sweet,7,ceresin,Ceresin,no
+rare-kind-words-liner-sweet,8,polybutene,Polybutene,no
+rare-kind-words-liner-sweet,9,silica,Silica,no
+rare-kind-words-liner-sweet,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-sweet,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-sweet,12,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax (Copernicia Cerifera Cera/Cire de carnauba),no
+rare-kind-words-liner-sweet,13,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-sweet,14,bht,BHT,no
+rare-kind-words-liner-sweet,15,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-sweet,16,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+rare-kind-words-liner-sweet,17,fragrance,Fragrance (Parfum),no
+rare-kind-words-liner-sweet,18,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-sweet,19,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-sweet,20,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-sweet,21,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-sweet,22,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-sweet,23,linalool,Linalool,no
+rare-kind-words-liner-sweet,24,vanillin,Vanillin,no
+rare-kind-words-liner-sweet,25,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-kind-words-liner-sweet,26,ci-77491,Iron Oxides (CI 77491),no
+rare-kind-words-liner-sweet,27,ci-19140,Yellow 5 Lake (CI 19140),no
+rare-kind-words-liner-sweet,28,ci-15850,Red 7 (CI 15850),no
+rare-kind-words-liner-sweet,29,ci-42090,Blue 1 Lake (CI 42090),no
+rare-kind-words-liner-lovely,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-lovely,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-lovely,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-lovely,4,mica,Mica,no
+rare-kind-words-liner-lovely,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-lovely,6,isododecane,Isododecane,no
+rare-kind-words-liner-lovely,7,ceresin,Ceresin,no
+rare-kind-words-liner-lovely,8,polybutene,Polybutene,no
+rare-kind-words-liner-lovely,9,silica,Silica,no
+rare-kind-words-liner-lovely,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-lovely,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-lovely,12,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax (Copernicia Cerifera Cera/Cire de carnauba),no
+rare-kind-words-liner-lovely,13,bht,BHT,no
+rare-kind-words-liner-lovely,14,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-lovely,15,fragrance,Fragrance (Parfum),no
+rare-kind-words-liner-lovely,16,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-lovely,17,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-lovely,18,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-lovely,19,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-lovely,20,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-lovely,21,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-lovely,22,linalool,Linalool,no
+rare-kind-words-liner-lovely,23,vanillin,Vanillin,no
+rare-kind-words-liner-lovely,24,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-kind-words-liner-lovely,25,ci-77499,Iron Oxides (CI 77499),no
+rare-kind-words-liner-lovely,26,ci-77492,Iron Oxides (CI 77492),no
+rare-kind-words-liner-lovely,27,ci-15850,Red 7 (CI 15850),no
+rare-kind-words-liner-lovely,28,ci-19140,Yellow 5 Lake (CI 19140),no
+rare-kind-words-liner-lovely,29,ci-42090,Blue 1 Lake (CI 42090),no
+rare-kind-words-liner-intuitive,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-intuitive,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-intuitive,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-intuitive,4,mica,Mica,no
+rare-kind-words-liner-intuitive,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-intuitive,6,isododecane,Isododecane,no
+rare-kind-words-liner-intuitive,7,ceresin,Ceresin,no
+rare-kind-words-liner-intuitive,8,polybutene,Polybutene,no
+rare-kind-words-liner-intuitive,9,silica,Silica,no
+rare-kind-words-liner-intuitive,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-intuitive,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-intuitive,12,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax (Copernicia Cerifera Cera/Cire de carnauba),no
+rare-kind-words-liner-intuitive,13,bht,BHT,no
+rare-kind-words-liner-intuitive,14,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-intuitive,15,fragrance,Fragrance (Parfum),no
+rare-kind-words-liner-intuitive,16,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-intuitive,17,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-intuitive,18,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-intuitive,19,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-intuitive,20,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-intuitive,21,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-intuitive,22,linalool,Linalool,no
+rare-kind-words-liner-intuitive,23,vanillin,Vanillin,no
+rare-kind-words-liner-intuitive,24,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-kind-words-liner-intuitive,25,ci-77491,Iron Oxides (CI 77491),no
+rare-kind-words-liner-intuitive,26,ci-77499,Iron Oxides (CI 77499),no
+rare-kind-words-liner-intuitive,27,ci-77492,Iron Oxides (CI 77492),no
+rare-kind-words-liner-intuitive,28,ci-15850,Red 7 (CI 15850),no
+rare-kind-words-liner-proud,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-proud,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-proud,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-proud,4,mica,Mica,no
+rare-kind-words-liner-proud,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-proud,6,isododecane,Isododecane,no
+rare-kind-words-liner-proud,7,ceresin,Ceresin,no
+rare-kind-words-liner-proud,8,polybutene,Polybutene,no
+rare-kind-words-liner-proud,9,silica,Silica,no
+rare-kind-words-liner-proud,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-proud,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-proud,12,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax (Copernicia Cerifera Cera/Cire de carnauba),no
+rare-kind-words-liner-proud,13,bht,BHT,no
+rare-kind-words-liner-proud,14,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-proud,15,fragrance,Fragrance (Parfum),no
+rare-kind-words-liner-proud,16,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-proud,17,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-proud,18,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-proud,19,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-proud,20,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-proud,21,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-proud,22,linalool,Linalool,no
+rare-kind-words-liner-proud,23,vanillin,Vanillin,no
+rare-kind-words-liner-proud,24,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-kind-words-liner-proud,25,ci-77492,Iron Oxides (CI 77492),no
+rare-kind-words-liner-proud,26,ci-77499,Iron Oxides (CI 77499),no
+rare-kind-words-liner-proud,27,ci-77491,Iron Oxides (CI 77491),no
+rare-kind-words-liner-proud,28,ci-42090,Blue 1 Lake (CI 42090),no
+rare-kind-words-liner-proud,29,ci-15850,Red 7 (CI 15850),no
+rare-kind-words-liner-alluring,1,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+rare-kind-words-liner-alluring,2,isohexadecane,Isohexadecane,no
+rare-kind-words-liner-alluring,3,synthetic-wax,Synthetic Wax,no
+rare-kind-words-liner-alluring,4,mica,Mica,no
+rare-kind-words-liner-alluring,5,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+rare-kind-words-liner-alluring,6,isododecane,Isododecane,no
+rare-kind-words-liner-alluring,7,ceresin,Ceresin,no
+rare-kind-words-liner-alluring,8,polybutene,Polybutene,no
+rare-kind-words-liner-alluring,9,silica,Silica,no
+rare-kind-words-liner-alluring,10,c13-15-alkane,C13-15 Alkane,no
+rare-kind-words-liner-alluring,11,vp-hexadecene-copolymer,VP/Hexadecene Copolymer,no
+rare-kind-words-liner-alluring,12,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax (Copernicia Cerifera Cera/Cire de carnauba),no
+rare-kind-words-liner-alluring,13,bht,BHT,no
+rare-kind-words-liner-alluring,14,ethylene-propylene-copolymer,Ethylene/Propylene Copolymer,no
+rare-kind-words-liner-alluring,15,fragrance,Fragrance (Parfum),no
+rare-kind-words-liner-alluring,16,caprylyl-glycol,Caprylyl Glycol,no
+rare-kind-words-liner-alluring,17,glyceryl-caprylate,Glyceryl Caprylate,no
+rare-kind-words-liner-alluring,18,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-kind-words-liner-alluring,19,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-kind-words-liner-alluring,20,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-kind-words-liner-alluring,21,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-kind-words-liner-alluring,22,linalool,Linalool,no
+rare-kind-words-liner-alluring,23,vanillin,Vanillin,no
+rare-kind-words-liner-alluring,24,ci-77491,Iron Oxides (CI 77491),no
+rare-kind-words-liner-alluring,25,ci-77499,Iron Oxides (CI 77499),no
+rare-kind-words-liner-alluring,26,ci-15850,Red 7 (CI 15850),no
+rare-soft-pinch-lip-oil-serenity,1,water,Water (Aqua/Eau),no
+rare-soft-pinch-lip-oil-serenity,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+rare-soft-pinch-lip-oil-serenity,3,diisostearyl-malate,Diisostearyl Malate,no
+rare-soft-pinch-lip-oil-serenity,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+rare-soft-pinch-lip-oil-serenity,5,octyldodecanol,Octyldodecanol,no
+rare-soft-pinch-lip-oil-serenity,6,glycerin,Glycerin,no
+rare-soft-pinch-lip-oil-serenity,7,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-soft-pinch-lip-oil-serenity,8,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-soft-pinch-lip-oil-serenity,9,dipropylene-glycol,Dipropylene Glycol,no
+rare-soft-pinch-lip-oil-serenity,10,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+rare-soft-pinch-lip-oil-serenity,11,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-soft-pinch-lip-oil-serenity,12,polysorbate-60,Polysorbate 60,no
+rare-soft-pinch-lip-oil-serenity,13,pentylene-glycol,Pentylene Glycol,no
+rare-soft-pinch-lip-oil-serenity,14,phenoxyethanol,Phenoxyethanol,no
+rare-soft-pinch-lip-oil-serenity,15,hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,no
+rare-soft-pinch-lip-oil-serenity,16,menthoxypropanediol,Menthoxypropanediol,no
+rare-soft-pinch-lip-oil-serenity,17,ceteareth-20,Ceteareth-20,no
+rare-soft-pinch-lip-oil-serenity,18,squalane,Squalane,no
+rare-soft-pinch-lip-oil-serenity,19,fragrance,Fragrance (Parfum),no
+rare-soft-pinch-lip-oil-serenity,20,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+rare-soft-pinch-lip-oil-serenity,21,stevioside,Stevioside,no
+rare-soft-pinch-lip-oil-serenity,22,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-soft-pinch-lip-oil-serenity,23,ethylhexylglycerin,Ethylhexylglycerin,no
+rare-soft-pinch-lip-oil-serenity,24,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-soft-pinch-lip-oil-serenity,25,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-soft-pinch-lip-oil-serenity,26,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-soft-pinch-lip-oil-serenity,27,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-soft-pinch-lip-oil-serenity,28,benzyl-salicylate,Benzyl Salicylate,no
+rare-soft-pinch-lip-oil-serenity,29,limonene,Limonene,no
+rare-soft-pinch-lip-oil-serenity,30,eugenol,Eugenol,no
+rare-soft-pinch-lip-oil-serenity,31,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-soft-pinch-lip-oil-serenity,32,ci-15985,Yellow 6 (CI 15985),no
+rare-soft-pinch-lip-oil-serenity,33,ci-17200,Red 33 (CI 17200),no
+rare-soft-pinch-lip-oil-serenity,34,ci-45410,Red 28 (CI 45410),no
+rare-soft-pinch-lip-oil-serenity,35,ci-42090,Blue 1 (CI 42090),no
+rare-soft-pinch-lip-oil-affection,1,water,Water (Aqua/Eau),no
+rare-soft-pinch-lip-oil-affection,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+rare-soft-pinch-lip-oil-affection,3,diisostearyl-malate,Diisostearyl Malate,no
+rare-soft-pinch-lip-oil-affection,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+rare-soft-pinch-lip-oil-affection,5,octyldodecanol,Octyldodecanol,no
+rare-soft-pinch-lip-oil-affection,6,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-soft-pinch-lip-oil-affection,7,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-soft-pinch-lip-oil-affection,8,glycerin,Glycerin,no
+rare-soft-pinch-lip-oil-affection,9,dipropylene-glycol,Dipropylene Glycol,no
+rare-soft-pinch-lip-oil-affection,10,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+rare-soft-pinch-lip-oil-affection,11,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-soft-pinch-lip-oil-affection,12,polysorbate-60,Polysorbate 60,no
+rare-soft-pinch-lip-oil-affection,13,pentylene-glycol,Pentylene Glycol,no
+rare-soft-pinch-lip-oil-affection,14,phenoxyethanol,Phenoxyethanol,no
+rare-soft-pinch-lip-oil-affection,15,hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,no
+rare-soft-pinch-lip-oil-affection,16,menthoxypropanediol,Menthoxypropanediol,no
+rare-soft-pinch-lip-oil-affection,17,ceteareth-20,Ceteareth-20,no
+rare-soft-pinch-lip-oil-affection,18,squalane,Squalane,no
+rare-soft-pinch-lip-oil-affection,19,fragrance,Fragrance (Parfum),no
+rare-soft-pinch-lip-oil-affection,20,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+rare-soft-pinch-lip-oil-affection,21,stevioside,Stevioside,no
+rare-soft-pinch-lip-oil-affection,22,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-soft-pinch-lip-oil-affection,23,ethylhexylglycerin,Ethylhexylglycerin,no
+rare-soft-pinch-lip-oil-affection,24,ammonium-polyacrylate,Ammonium Polyacrylate,no
+rare-soft-pinch-lip-oil-affection,25,aluminum-hydroxide,Aluminum Hydroxide,no
+rare-soft-pinch-lip-oil-affection,26,butylene-glycol,Butylene Glycol,no
+rare-soft-pinch-lip-oil-affection,27,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-soft-pinch-lip-oil-affection,28,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-soft-pinch-lip-oil-affection,29,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-soft-pinch-lip-oil-affection,30,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-soft-pinch-lip-oil-affection,31,benzyl-salicylate,Benzyl Salicylate,no
+rare-soft-pinch-lip-oil-affection,32,limonene,Limonene,no
+rare-soft-pinch-lip-oil-affection,33,eugenol,Eugenol,no
+rare-soft-pinch-lip-oil-affection,34,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-soft-pinch-lip-oil-affection,35,ci-77499,Iron Oxides (CI 77499),no
+rare-soft-pinch-lip-oil-affection,36,ci-15985,Yellow 6 (CI 15985),no
+rare-soft-pinch-lip-oil-affection,37,ci-17200,Red 33 (CI 17200),no
+rare-soft-pinch-lip-oil-affection,38,ci-45410,Red 28 (CI 45410),no
+rare-soft-pinch-lip-oil-affection,39,ci-19140,Yellow 5 (CI 19140),no
+rare-soft-pinch-lip-oil-affection,40,ci-42090,Blue 1 (CI 42090),no
+rare-soft-pinch-lip-oil-happy,1,water,Water (Aqua/Eau),no
+rare-soft-pinch-lip-oil-happy,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+rare-soft-pinch-lip-oil-happy,3,diisostearyl-malate,Diisostearyl Malate,no
+rare-soft-pinch-lip-oil-happy,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+rare-soft-pinch-lip-oil-happy,5,octyldodecanol,Octyldodecanol,no
+rare-soft-pinch-lip-oil-happy,6,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-soft-pinch-lip-oil-happy,7,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-soft-pinch-lip-oil-happy,8,glycerin,Glycerin,no
+rare-soft-pinch-lip-oil-happy,9,dipropylene-glycol,Dipropylene Glycol,no
+rare-soft-pinch-lip-oil-happy,10,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+rare-soft-pinch-lip-oil-happy,11,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-soft-pinch-lip-oil-happy,12,polysorbate-60,Polysorbate 60,no
+rare-soft-pinch-lip-oil-happy,13,pentylene-glycol,Pentylene Glycol,no
+rare-soft-pinch-lip-oil-happy,14,phenoxyethanol,Phenoxyethanol,no
+rare-soft-pinch-lip-oil-happy,15,hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,no
+rare-soft-pinch-lip-oil-happy,16,menthoxypropanediol,Menthoxypropanediol,no
+rare-soft-pinch-lip-oil-happy,17,ceteareth-20,Ceteareth-20,no
+rare-soft-pinch-lip-oil-happy,18,squalane,Squalane,no
+rare-soft-pinch-lip-oil-happy,19,fragrance,Fragrance (Parfum),no
+rare-soft-pinch-lip-oil-happy,20,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+rare-soft-pinch-lip-oil-happy,21,stevioside,Stevioside,no
+rare-soft-pinch-lip-oil-happy,22,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-soft-pinch-lip-oil-happy,23,ethylhexylglycerin,Ethylhexylglycerin,no
+rare-soft-pinch-lip-oil-happy,24,ammonium-polyacrylate,Ammonium Polyacrylate,no
+rare-soft-pinch-lip-oil-happy,25,aluminum-hydroxide,Aluminum Hydroxide,no
+rare-soft-pinch-lip-oil-happy,26,butylene-glycol,Butylene Glycol,no
+rare-soft-pinch-lip-oil-happy,27,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-soft-pinch-lip-oil-happy,28,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-soft-pinch-lip-oil-happy,29,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-soft-pinch-lip-oil-happy,30,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-soft-pinch-lip-oil-happy,31,benzyl-salicylate,Benzyl Salicylate,no
+rare-soft-pinch-lip-oil-happy,32,limonene,Limonene,no
+rare-soft-pinch-lip-oil-happy,33,eugenol,Eugenol,no
+rare-soft-pinch-lip-oil-happy,34,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-soft-pinch-lip-oil-happy,35,ci-15985,Yellow 6 (CI 15985),no
+rare-soft-pinch-lip-oil-happy,36,ci-45410,Red 28 (CI 45410),no
+rare-soft-pinch-lip-oil-happy,37,ci-17200,Red 33 (CI 17200),no
+rare-soft-pinch-lip-oil-happy,38,ci-19140,Yellow 5 (CI 19140),no
+rare-soft-pinch-lip-oil-happy,39,ci-42090,Blue 1 (CI 42090),no
+rare-soft-pinch-lip-oil-joy,1,water,Water (Aqua/Eau),no
+rare-soft-pinch-lip-oil-joy,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+rare-soft-pinch-lip-oil-joy,3,diisostearyl-malate,Diisostearyl Malate,no
+rare-soft-pinch-lip-oil-joy,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+rare-soft-pinch-lip-oil-joy,5,octyldodecanol,Octyldodecanol,no
+rare-soft-pinch-lip-oil-joy,6,glycerin,Glycerin,no
+rare-soft-pinch-lip-oil-joy,7,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-soft-pinch-lip-oil-joy,8,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-soft-pinch-lip-oil-joy,9,dipropylene-glycol,Dipropylene Glycol,no
+rare-soft-pinch-lip-oil-joy,10,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+rare-soft-pinch-lip-oil-joy,11,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-soft-pinch-lip-oil-joy,12,polysorbate-60,Polysorbate 60,no
+rare-soft-pinch-lip-oil-joy,13,pentylene-glycol,Pentylene Glycol,no
+rare-soft-pinch-lip-oil-joy,14,phenoxyethanol,Phenoxyethanol,no
+rare-soft-pinch-lip-oil-joy,15,hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,no
+rare-soft-pinch-lip-oil-joy,16,menthoxypropanediol,Menthoxypropanediol,no
+rare-soft-pinch-lip-oil-joy,17,ceteareth-20,Ceteareth-20,no
+rare-soft-pinch-lip-oil-joy,18,squalane,Squalane,no
+rare-soft-pinch-lip-oil-joy,19,fragrance,Fragrance (Parfum),no
+rare-soft-pinch-lip-oil-joy,20,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+rare-soft-pinch-lip-oil-joy,21,stevioside,Stevioside,no
+rare-soft-pinch-lip-oil-joy,22,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-soft-pinch-lip-oil-joy,23,ethylhexylglycerin,Ethylhexylglycerin,no
+rare-soft-pinch-lip-oil-joy,24,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-soft-pinch-lip-oil-joy,25,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-soft-pinch-lip-oil-joy,26,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-soft-pinch-lip-oil-joy,27,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-soft-pinch-lip-oil-joy,28,benzyl-salicylate,Benzyl Salicylate,no
+rare-soft-pinch-lip-oil-joy,29,limonene,Limonene,no
+rare-soft-pinch-lip-oil-joy,30,eugenol,Eugenol,no
+rare-soft-pinch-lip-oil-joy,31,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-soft-pinch-lip-oil-joy,32,ci-15985,Yellow 6 (CI 15985),no
+rare-soft-pinch-lip-oil-joy,33,ci-45410,Red 28 (CI 45410),no
+rare-soft-pinch-lip-oil-joy,34,ci-42090,Blue 1 (CI 42090),no
+rare-soft-pinch-lip-oil-delight,1,water,Water (Aqua/Eau),no
+rare-soft-pinch-lip-oil-delight,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+rare-soft-pinch-lip-oil-delight,3,diisostearyl-malate,Diisostearyl Malate,no
+rare-soft-pinch-lip-oil-delight,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+rare-soft-pinch-lip-oil-delight,5,octyldodecanol,Octyldodecanol,no
+rare-soft-pinch-lip-oil-delight,6,glycerin,Glycerin,no
+rare-soft-pinch-lip-oil-delight,7,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-soft-pinch-lip-oil-delight,8,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-soft-pinch-lip-oil-delight,9,dipropylene-glycol,Dipropylene Glycol,no
+rare-soft-pinch-lip-oil-delight,10,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+rare-soft-pinch-lip-oil-delight,11,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-soft-pinch-lip-oil-delight,12,polysorbate-60,Polysorbate 60,no
+rare-soft-pinch-lip-oil-delight,13,pentylene-glycol,Pentylene Glycol,no
+rare-soft-pinch-lip-oil-delight,14,phenoxyethanol,Phenoxyethanol,no
+rare-soft-pinch-lip-oil-delight,15,hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,no
+rare-soft-pinch-lip-oil-delight,16,menthoxypropanediol,Menthoxypropanediol,no
+rare-soft-pinch-lip-oil-delight,17,ceteareth-20,Ceteareth-20,no
+rare-soft-pinch-lip-oil-delight,18,squalane,Squalane,no
+rare-soft-pinch-lip-oil-delight,19,fragrance,Fragrance (Parfum),no
+rare-soft-pinch-lip-oil-delight,20,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+rare-soft-pinch-lip-oil-delight,21,stevioside,Stevioside,no
+rare-soft-pinch-lip-oil-delight,22,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-soft-pinch-lip-oil-delight,23,ethylhexylglycerin,Ethylhexylglycerin,no
+rare-soft-pinch-lip-oil-delight,24,ammonium-polyacrylate,Ammonium Polyacrylate,no
+rare-soft-pinch-lip-oil-delight,25,aluminum-hydroxide,Aluminum Hydroxide,no
+rare-soft-pinch-lip-oil-delight,26,butylene-glycol,Butylene Glycol,no
+rare-soft-pinch-lip-oil-delight,27,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-soft-pinch-lip-oil-delight,28,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-soft-pinch-lip-oil-delight,29,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-soft-pinch-lip-oil-delight,30,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-soft-pinch-lip-oil-delight,31,benzyl-salicylate,Benzyl Salicylate,no
+rare-soft-pinch-lip-oil-delight,32,limonene,Limonene,no
+rare-soft-pinch-lip-oil-delight,33,eugenol,Eugenol,no
+rare-soft-pinch-lip-oil-delight,34,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-soft-pinch-lip-oil-delight,35,ci-77499,Iron Oxides (CI 77499),no
+rare-soft-pinch-lip-oil-delight,36,ci-19140,Yellow 5 (CI 19140),no
+rare-soft-pinch-lip-oil-delight,37,ci-17200,Red 33 (CI 17200),no
+rare-soft-pinch-lip-oil-delight,38,ci-15985,Yellow 6 (CI 15985),no
+rare-soft-pinch-lip-oil-delight,39,ci-42090,Blue 1 (CI 42090),no
+rare-soft-pinch-lip-oil-hope,1,water,Water (Aqua/Eau),no
+rare-soft-pinch-lip-oil-hope,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+rare-soft-pinch-lip-oil-hope,3,diisostearyl-malate,Diisostearyl Malate,no
+rare-soft-pinch-lip-oil-hope,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+rare-soft-pinch-lip-oil-hope,5,octyldodecanol,Octyldodecanol,no
+rare-soft-pinch-lip-oil-hope,6,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-soft-pinch-lip-oil-hope,7,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-soft-pinch-lip-oil-hope,8,glycerin,Glycerin,no
+rare-soft-pinch-lip-oil-hope,9,dipropylene-glycol,Dipropylene Glycol,no
+rare-soft-pinch-lip-oil-hope,10,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+rare-soft-pinch-lip-oil-hope,11,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-soft-pinch-lip-oil-hope,12,polysorbate-60,Polysorbate 60,no
+rare-soft-pinch-lip-oil-hope,13,pentylene-glycol,Pentylene Glycol,no
+rare-soft-pinch-lip-oil-hope,14,phenoxyethanol,Phenoxyethanol,no
+rare-soft-pinch-lip-oil-hope,15,hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,no
+rare-soft-pinch-lip-oil-hope,16,menthoxypropanediol,Menthoxypropanediol,no
+rare-soft-pinch-lip-oil-hope,17,ceteareth-20,Ceteareth-20,no
+rare-soft-pinch-lip-oil-hope,18,squalane,Squalane,no
+rare-soft-pinch-lip-oil-hope,19,fragrance,Fragrance (Parfum),no
+rare-soft-pinch-lip-oil-hope,20,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+rare-soft-pinch-lip-oil-hope,21,stevioside,Stevioside,no
+rare-soft-pinch-lip-oil-hope,22,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-soft-pinch-lip-oil-hope,23,ethylhexylglycerin,Ethylhexylglycerin,no
+rare-soft-pinch-lip-oil-hope,24,ammonium-polyacrylate,Ammonium Polyacrylate,no
+rare-soft-pinch-lip-oil-hope,25,aluminum-hydroxide,Aluminum Hydroxide,no
+rare-soft-pinch-lip-oil-hope,26,butylene-glycol,Butylene Glycol,no
+rare-soft-pinch-lip-oil-hope,27,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-soft-pinch-lip-oil-hope,28,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-soft-pinch-lip-oil-hope,29,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-soft-pinch-lip-oil-hope,30,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-soft-pinch-lip-oil-hope,31,benzyl-salicylate,Benzyl Salicylate,no
+rare-soft-pinch-lip-oil-hope,32,limonene,Limonene,no
+rare-soft-pinch-lip-oil-hope,33,eugenol,Eugenol,no
+rare-soft-pinch-lip-oil-hope,34,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-soft-pinch-lip-oil-hope,35,ci-15985,Yellow 6 (CI 15985),no
+rare-soft-pinch-lip-oil-hope,36,ci-17200,Red 33 (CI 17200),no
+rare-soft-pinch-lip-oil-hope,37,ci-45410,Red 28 (CI 45410),no
+rare-soft-pinch-lip-oil-hope,38,ci-19140,Yellow 5 (CI 19140),no
+rare-soft-pinch-lip-oil-hope,39,ci-42090,Blue 1 (CI 42090),no
+rare-soft-pinch-lip-oil-wonder,1,water,Water (Aqua/Eau),no
+rare-soft-pinch-lip-oil-wonder,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+rare-soft-pinch-lip-oil-wonder,3,diisostearyl-malate,Diisostearyl Malate,no
+rare-soft-pinch-lip-oil-wonder,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+rare-soft-pinch-lip-oil-wonder,5,octyldodecanol,Octyldodecanol,no
+rare-soft-pinch-lip-oil-wonder,6,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-soft-pinch-lip-oil-wonder,7,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-soft-pinch-lip-oil-wonder,8,glycerin,Glycerin,no
+rare-soft-pinch-lip-oil-wonder,9,dipropylene-glycol,Dipropylene Glycol,no
+rare-soft-pinch-lip-oil-wonder,10,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+rare-soft-pinch-lip-oil-wonder,11,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-soft-pinch-lip-oil-wonder,12,polysorbate-60,Polysorbate 60,no
+rare-soft-pinch-lip-oil-wonder,13,pentylene-glycol,Pentylene Glycol,no
+rare-soft-pinch-lip-oil-wonder,14,phenoxyethanol,Phenoxyethanol,no
+rare-soft-pinch-lip-oil-wonder,15,hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,no
+rare-soft-pinch-lip-oil-wonder,16,menthoxypropanediol,Menthoxypropanediol,no
+rare-soft-pinch-lip-oil-wonder,17,ceteareth-20,Ceteareth-20,no
+rare-soft-pinch-lip-oil-wonder,18,squalane,Squalane,no
+rare-soft-pinch-lip-oil-wonder,19,fragrance,Fragrance (Parfum),no
+rare-soft-pinch-lip-oil-wonder,20,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+rare-soft-pinch-lip-oil-wonder,21,stevioside,Stevioside,no
+rare-soft-pinch-lip-oil-wonder,22,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-soft-pinch-lip-oil-wonder,23,ethylhexylglycerin,Ethylhexylglycerin,no
+rare-soft-pinch-lip-oil-wonder,24,ammonium-polyacrylate,Ammonium Polyacrylate,no
+rare-soft-pinch-lip-oil-wonder,25,aluminum-hydroxide,Aluminum Hydroxide,no
+rare-soft-pinch-lip-oil-wonder,26,butylene-glycol,Butylene Glycol,no
+rare-soft-pinch-lip-oil-wonder,27,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-soft-pinch-lip-oil-wonder,28,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-soft-pinch-lip-oil-wonder,29,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-soft-pinch-lip-oil-wonder,30,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-soft-pinch-lip-oil-wonder,31,benzyl-salicylate,Benzyl Salicylate,no
+rare-soft-pinch-lip-oil-wonder,32,limonene,Limonene,no
+rare-soft-pinch-lip-oil-wonder,33,eugenol,Eugenol,no
+rare-soft-pinch-lip-oil-wonder,34,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-soft-pinch-lip-oil-wonder,35,ci-17200,Red 33 (CI 17200),no
+rare-soft-pinch-lip-oil-wonder,36,ci-15985,Yellow 6 (CI 15985),no
+rare-soft-pinch-lip-oil-wonder,37,ci-19140,Yellow 5 (CI 19140),no
+rare-soft-pinch-lip-oil-wonder,38,ci-45410,Red 28 (CI 45410),no
+rare-soft-pinch-lip-oil-wonder,39,ci-42090,Blue 1 (CI 42090),no
+rare-soft-pinch-lip-oil-honesty,1,water,Water (Aqua/Eau),no
+rare-soft-pinch-lip-oil-honesty,2,diphenyl-dimethicone,Diphenyl Dimethicone,no
+rare-soft-pinch-lip-oil-honesty,3,diisostearyl-malate,Diisostearyl Malate,no
+rare-soft-pinch-lip-oil-honesty,4,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+rare-soft-pinch-lip-oil-honesty,5,octyldodecanol,Octyldodecanol,no
+rare-soft-pinch-lip-oil-honesty,6,bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate,no
+rare-soft-pinch-lip-oil-honesty,7,hydrogenated-polyisobutene,Hydrogenated Polyisobutene,no
+rare-soft-pinch-lip-oil-honesty,8,glycerin,Glycerin,no
+rare-soft-pinch-lip-oil-honesty,9,dipropylene-glycol,Dipropylene Glycol,no
+rare-soft-pinch-lip-oil-honesty,10,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+rare-soft-pinch-lip-oil-honesty,11,sorbitan-isostearate,Sorbitan Isostearate,no
+rare-soft-pinch-lip-oil-honesty,12,polysorbate-60,Polysorbate 60,no
+rare-soft-pinch-lip-oil-honesty,13,pentylene-glycol,Pentylene Glycol,no
+rare-soft-pinch-lip-oil-honesty,14,phenoxyethanol,Phenoxyethanol,no
+rare-soft-pinch-lip-oil-honesty,15,hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,no
+rare-soft-pinch-lip-oil-honesty,16,menthoxypropanediol,Menthoxypropanediol,no
+rare-soft-pinch-lip-oil-honesty,17,ceteareth-20,Ceteareth-20,no
+rare-soft-pinch-lip-oil-honesty,18,squalane,Squalane,no
+rare-soft-pinch-lip-oil-honesty,19,fragrance,Fragrance (Parfum),no
+rare-soft-pinch-lip-oil-honesty,20,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+rare-soft-pinch-lip-oil-honesty,21,stevioside,Stevioside,no
+rare-soft-pinch-lip-oil-honesty,22,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+rare-soft-pinch-lip-oil-honesty,23,ethylhexylglycerin,Ethylhexylglycerin,no
+rare-soft-pinch-lip-oil-honesty,24,ammonium-polyacrylate,Ammonium Polyacrylate,no
+rare-soft-pinch-lip-oil-honesty,25,aluminum-hydroxide,Aluminum Hydroxide,no
+rare-soft-pinch-lip-oil-honesty,26,butylene-glycol,Butylene Glycol,no
+rare-soft-pinch-lip-oil-honesty,27,gardenia-florida-fruit-extract,Gardenia Florida Fruit Extract,no
+rare-soft-pinch-lip-oil-honesty,28,nelumbo-nucifera-flower-extract,Nelumbo Nucifera Flower Extract,no
+rare-soft-pinch-lip-oil-honesty,29,nymphaea-odorata-root-extract,Nymphaea Odorata Root Extract,no
+rare-soft-pinch-lip-oil-honesty,30,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+rare-soft-pinch-lip-oil-honesty,31,benzyl-salicylate,Benzyl Salicylate,no
+rare-soft-pinch-lip-oil-honesty,32,limonene,Limonene,no
+rare-soft-pinch-lip-oil-honesty,33,eugenol,Eugenol,no
+rare-soft-pinch-lip-oil-honesty,34,titanium-dioxide,Titanium Dioxide (CI 77891),no
+rare-soft-pinch-lip-oil-honesty,35,ci-19140,Yellow 5 (CI 19140),no
+rare-soft-pinch-lip-oil-honesty,36,ci-17200,Red 33 (CI 17200),no
+rare-soft-pinch-lip-oil-honesty,37,ci-15985,Yellow 6 (CI 15985),no
+rare-soft-pinch-lip-oil-honesty,38,ci-45410,Red 28 (CI 45410),no
+rare-soft-pinch-lip-oil-honesty,39,ci-42090,Blue 1 (CI 42090),no
+dior-rouge-dior,1,polyglyceryl-2-triisostearate,POLYGLYCERYL-2 TRIISOSTEARATE,no
+dior-rouge-dior,2,dimethicone,DIMETHICONE,no
+dior-rouge-dior,3,helianthus-annuus-sunflower-seed-wax,HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX,no
+dior-rouge-dior,4,dimethicone-crosspolymer,DIMETHICONE CROSSPOLYMER,no
+dior-rouge-dior,5,trimethylolpropane-triisostearate,TRIMETHYLOLPROPANE TRIISOSTEARATE,no
+dior-rouge-dior,6,silica,SILICA,no
+dior-rouge-dior,7,copernicia-cerifera-carnauba-wax,CERA CARNAUBA (COPERNICIA CERIFERA (CARNAUBA) WAX),no
+dior-rouge-dior,8,mica,MICA,no
+dior-rouge-dior,9,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+dior-rouge-dior,10,hibiscus-sabdariffa-flower-extract,HIBISCUS SABDARIFFA FLOWER EXTRACT,no
+dior-rouge-dior,11,euphorbia-cerifera-candelilla-wax,CANDELILLA CERA (EUPHORBIA CERIFERA (CANDELILLA) WAX),no
+dior-rouge-dior,12,simmondsia-chinensis-jojoba-seed-oil,SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL,no
+dior-rouge-dior,13,brassica-campestris-rapeseed-seed-oil,BRASSICA CAMPESTRIS (RAPESEED) SEED OIL,no
+dior-rouge-dior,14,prunus-amygdalus-dulcis-sweet-almond-oil,PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL,no
+dior-rouge-dior,15,fragrance,PARFUM (FRAGRANCE),no
+dior-rouge-dior,16,aluminum-hydroxide,ALUMINUM HYDROXIDE,no
+dior-rouge-dior,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+dior-rouge-dior,18,opuntia-ficus-indica-flower-extract,OPUNTIA FICUS-INDICA FLOWER EXTRACT,no
+dior-rouge-dior,19,camelina-sativa-seed-oil,CAMELINA SATIVA SEED OIL,no
+dior-rouge-dior,20,polyglyceryl-3-diisostearate,POLYGLYCERYL-3 DIISOSTEARATE,no
+dior-rouge-dior,21,punica-granatum-pomegranate-flower-extract,PUNICA GRANATUM FLOWER EXTRACT,no
+dior-rouge-dior,22,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+dior-rouge-dior,23,vanillin,VANILLIN,no
+dior-rouge-dior,24,propyl-gallate,PROPYL GALLATE,no
+dior-rouge-dior,25,linalyl-acetate,LINALYL ACETATE,no
+dior-rouge-dior,26,paeonia-officinalis-flower-extract,PAEONIA OFFICINALIS FLOWER EXTRACT,no
+dior-rouge-dior,27,titanium-dioxide,CI 77891 (TITANIUM DIOXIDE),yes
+dior-rouge-dior,28,ci-77491,CI 77491,yes
+dior-rouge-dior,29,ci-77492,CI 77492,yes
+dior-rouge-dior,30,ci-77499,CI 77499 (IRON OXIDES),yes
+dior-rouge-dior,31,ci-15850,CI 15850 (RED 7 LAKE),yes
+dior-rouge-dior,32,ci-42090,CI 42090 (BLUE 1 LAKE),yes
+dior-lip-maximizer,1,methyl-hydrogenated-rosinate,METHYL HYDROGENATED ROSINATE,no
+dior-lip-maximizer,2,dimer-dilinoleyl-dimer-dilinoleate,DIMER DILINOLEYL DIMER DILINOLEATE,no
+dior-lip-maximizer,3,polyglyceryl-2-triisostearate,POLYGLYCERYL-2 TRIISOSTEARATE,no
+dior-lip-maximizer,4,polyglyceryl-10-decaisostearate,POLYGLYCERYL-10 DECAISOSTEARATE,no
+dior-lip-maximizer,5,jojoba-esters,JOJOBA ESTERS,no
+dior-lip-maximizer,6,polyglyceryl-3-beeswax,POLYGLYCERYL-3 BEESWAX,no
+dior-lip-maximizer,7,glyceryl-behenate-eicosadioate,GLYCERYL BEHENATE/EICOSADIOATE,no
+dior-lip-maximizer,8,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+dior-lip-maximizer,9,dipalmitoyl-hydroxyproline,DIPALMITOYL HYDROXYPROLINE,no
+dior-lip-maximizer,10,menthoxypropanediol,MENTHOXYPROPANEDIOL,no
+dior-lip-maximizer,11,fragrance,PARFUM (FRAGRANCE),no
+dior-lip-maximizer,12,trimethylolpropane-triisostearate,TRIMETHYLOLPROPANE TRIISOSTEARATE,no
+dior-lip-maximizer,13,prunus-avium-sweet-cherry-seed-oil,PRUNUS AVIUM (SWEET CHERRY) SEED OIL,no
+dior-lip-maximizer,14,menthol,MENTHOL,no
+dior-lip-maximizer,15,ethyl-vanillin,ETHYL VANILLIN,no
+dior-lip-maximizer,16,trihydroxystearin,TRIHYDROXYSTEARIN,no
+dior-lip-maximizer,17,tocopherol,TOCOPHEROL,no
+dior-lip-maximizer,18,mentha-piperita-peppermint-oil,MENTHA PIPERITA (PEPPERMINT) OIL,no
+dior-lip-maximizer,19,aluminum-hydroxide,ALUMINUM HYDROXIDE,no
+dior-lip-maximizer,20,capsicum-frutescens-fruit-extract,CAPSICUM FRUTESCENS FRUIT EXTRACT,no
+dior-lip-maximizer,21,vanillin,VANILLIN,no
+dior-lip-maximizer,22,sodium-hyaluronate,SODIUM HYALURONATE,no
+dior-lip-maximizer,23,anethole,ANETHOLE,no
+dior-lip-maximizer,24,propyl-gallate,PROPYL GALLATE,no
+dior-lip-maximizer,25,glucomannan,GLUCOMANNAN,no
+dior-lip-maximizer,26,titanium-dioxide,CI 77891 (TITANIUM DIOXIDE),yes
+dior-lip-maximizer,27,ci-15850,"CI 15850 (RED 6, RED 7, RED 7 LAKE)",yes
+dior-lip-glow-oil,1,dimer-dilinoleyl-dimer-dilinoleate,DIMER DILINOLEYL DIMER DILINOLEATE,no
+dior-lip-glow-oil,2,methyl-hydrogenated-rosinate,METHYL HYDROGENATED ROSINATE,no
+dior-lip-glow-oil,3,canola-oil,CANOLA OIL,no
+dior-lip-glow-oil,4,dextrin-myristate,DEXTRIN MYRISTATE,no
+dior-lip-glow-oil,5,ethyl-vanillin,ETHYL VANILLIN,no
+dior-lip-glow-oil,6,hydroxystearic-acid,HYDROXYSTEARIC ACID,no
+dior-lip-glow-oil,7,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+dior-lip-glow-oil,8,1-2-hexanediol,"1,2-HEXANEDIOL",no
+dior-lip-glow-oil,9,fragrance,PARFUM (FRAGRANCE),no
+dior-lip-glow-oil,10,caprylic-capric-triglyceride,CAPRYLIC/CAPRIC TRIGLYCERIDE,no
+dior-lip-glow-oil,11,silica,SILICA,no
+dior-lip-glow-oil,12,prunus-avium-sweet-cherry-seed-oil,PRUNUS AVIUM (SWEET CHERRY) SEED OIL,no
+dior-lip-glow-oil,13,menthol,MENTHOL,no
+dior-lip-glow-oil,14,stearic-acid,STEARIC ACID,no
+dior-lip-glow-oil,15,tocopherol,TOCOPHEROL,no
+dior-lip-glow-oil,16,vanillin,VANILLIN,no
+dior-lip-glow-oil,17,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+dior-lip-glow-oil,18,diisostearyl-malate,DIISOSTEARYL MALATE,no
+dior-lip-glow-oil,19,mentha-piperita-peppermint-oil,MENTHA PIPERITA (PEPPERMINT) OIL,no
+dior-lip-glow-oil,20,tin-oxide,TIN OXIDE,no
+dior-lip-glow-oil,21,undaria-pinnatifida-extract,UNDARIA PINNATIFIDA EXTRACT,no
+dior-lip-glow-oil,22,propyl-gallate,PROPYL GALLATE,no
+dior-lip-glow-oil,23,titanium-dioxide,CI 77891 (TITANIUM DIOXIDE),yes
+dior-lip-glow-oil,24,ci-77491,CI 77491 (IRON OXIDES),yes
+dior-lip-glow-oil,25,ci-45410,CI 45410 (RED 27),yes
+glossier-balm-dotcom-original,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-original,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-original,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-original,4,lanolin,Lanolin,no
+glossier-balm-dotcom-original,5,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-original,6,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-original,7,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-original,8,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-original,9,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-original,10,tocopherol,Tocopherol,no
+glossier-balm-dotcom-original,11,bht,BHT,no
+glossier-balm-dotcom-birthday,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-birthday,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-birthday,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-birthday,4,lanolin,Lanolin,no
+glossier-balm-dotcom-birthday,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-birthday,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-birthday,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-birthday,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-birthday,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-birthday,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-birthday,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-birthday,12,silica,Silica,no
+glossier-balm-dotcom-birthday,13,calcium-aluminum-borosilicate,Calcium Aluminum Borosilicate,no
+glossier-balm-dotcom-birthday,14,synthetic-fluorphlogopite,Synthetic Fluorphlogopite,no
+glossier-balm-dotcom-birthday,15,sodium-saccharin,Sodium Saccharin,no
+glossier-balm-dotcom-birthday,16,tin-oxide,Tin Oxide,no
+glossier-balm-dotcom-birthday,17,bht,BHT,no
+glossier-balm-dotcom-birthday,18,limonene,Limonene,no
+glossier-balm-dotcom-birthday,19,titanium-dioxide,Titanium Dioxide (CI 77891),no
+glossier-balm-dotcom-coconut,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-coconut,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-coconut,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-coconut,4,lanolin,Lanolin,no
+glossier-balm-dotcom-coconut,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-coconut,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-coconut,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-coconut,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-coconut,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-coconut,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-coconut,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-coconut,12,bht,BHT,no
+glossier-balm-dotcom-coconut,13,benzyl-benzoate,Benzyl Benzoate,no
+glossier-balm-dotcom-lavender,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-lavender,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-lavender,3,beeswax,Beeswax/Cera/Cire d'Abeille,no
+glossier-balm-dotcom-lavender,4,lanolin,Lanolin,no
+glossier-balm-dotcom-lavender,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-lavender,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-lavender,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-lavender,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-lavender,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-lavender,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-lavender,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-lavender,12,bht,BHT,no
+glossier-balm-dotcom-lavender,13,stevia-rebaudiana-leaf-stem-extract,Stevia Rebaudiana Leaf/Stem Extract,no
+glossier-balm-dotcom-lavender,14,linalool,Linalool,no
+glossier-balm-dotcom-lavender,15,hydroxycitronellal,Hydroxycitronellal,no
+glossier-balm-dotcom-lavender,16,geraniol,Geraniol,no
+glossier-balm-dotcom-lavender,17,titanium-dioxide,Titanium Dioxide (CI 77891),no
+glossier-balm-dotcom-lavender,18,ci-15850,Red 7 Lake (CI 15850),no
+glossier-balm-dotcom-lavender,19,ci-42090,Blue 1 Lake (CI 42090),no
+glossier-balm-dotcom-mango,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-mango,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-mango,3,beeswax,Beeswax/Cera Alba/Cire d’Abeille,no
+glossier-balm-dotcom-mango,4,lanolin,Lanolin,no
+glossier-balm-dotcom-mango,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-mango,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-mango,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-mango,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-mango,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-mango,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-mango,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-mango,12,isopropyl-titanium-triisostearate,Isopropyl Titanium Triisostearate,no
+glossier-balm-dotcom-mango,13,bht,BHT,no
+glossier-balm-dotcom-mango,14,limonene,Limonene,no
+glossier-balm-dotcom-mango,15,ci-15850,Red 6 Lake (CI 15850),no
+glossier-balm-dotcom-mango,16,ci-19140,Yellow 5 Lake (CI 19140),no
+glossier-balm-dotcom-mint,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-mint,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-mint,3,beeswax,Beeswax/Cera Alba/Cire d’Abeille,no
+glossier-balm-dotcom-mint,4,lanolin,Lanolin,no
+glossier-balm-dotcom-mint,5,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+glossier-balm-dotcom-mint,6,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-mint,7,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-mint,8,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-mint,9,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-mint,10,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-mint,11,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-mint,12,tocopherol,Tocopherol,no
+glossier-balm-dotcom-mint,13,menthol,Menthol,no
+glossier-balm-dotcom-mint,14,sodium-saccharin,Sodium Saccharin,no
+glossier-balm-dotcom-mint,15,bht,BHT,no
+glossier-balm-dotcom-rose,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-rose,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-rose,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-rose,4,lanolin,Lanolin,no
+glossier-balm-dotcom-rose,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-rose,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-rose,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-rose,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-rose,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-rose,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-rose,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-rose,12,bht,BHT,no
+glossier-balm-dotcom-rose,13,citronellol,Citronellol,no
+glossier-balm-dotcom-rose,14,cinnamal,Cinnamal,no
+glossier-balm-dotcom-rose,15,linalool,Linalool,no
+glossier-balm-dotcom-rose,16,geraniol,Geraniol,no
+glossier-balm-dotcom-rose,17,eugenol,Eugenol,no
+glossier-balm-dotcom-rose,18,ci-77492,Iron Oxides (CI 77492),no
+glossier-balm-dotcom-rose,19,ci-15850,Red 7 Lake (CI 15850),no
+glossier-balm-dotcom-wild-fig,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-wild-fig,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-wild-fig,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-wild-fig,4,lanolin,Lanolin,no
+glossier-balm-dotcom-wild-fig,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-wild-fig,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-wild-fig,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-wild-fig,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-wild-fig,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-wild-fig,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-wild-fig,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-wild-fig,12,bht,BHT,no
+glossier-balm-dotcom-wild-fig,13,ci-77491,"Iron Oxides (CI 77491, CI 77499)",no
+glossier-balm-dotcom-wild-fig,14,ci-77499,"Iron Oxides (CI 77491, CI 77499)",no
+glossier-balm-dotcom-wild-fig,15,ci-15985,Yellow 6 Lake (CI 15985),no
+glossier-balm-dotcom-wild-fig,16,ci-15850,Red 7 Lake (CI 15850),no
+glossier-balm-dotcom-strawberry,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-strawberry,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-strawberry,3,beeswax,Beeswax/Cera Alba/Cire d’Abeille,no
+glossier-balm-dotcom-strawberry,4,lanolin,Lanolin,no
+glossier-balm-dotcom-strawberry,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-strawberry,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-strawberry,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-strawberry,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-strawberry,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-strawberry,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-strawberry,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-strawberry,12,bht,BHT,no
+glossier-balm-dotcom-strawberry,13,stevia-rebaudiana-leaf-stem-extract,Stevia Rebaudiana Leaf/Stem Extract,no
+glossier-balm-dotcom-strawberry,14,ci-77491,Iron Oxides (CI 77491),no
+glossier-balm-dotcom-strawberry,15,ci-15850,Red 7 Lake (CI 15850),no
+glossier-balm-dotcom-strawberry,16,ci-45410,Red 27 Lake (CI 45410),no
+glossier-balm-dotcom-strawberry,17,ci-73360,Red 30 Lake (CI 73360),no
+glossier-balm-dotcom-strawberry,18,ci-42090,Blue 1 Lake (CI 42090),no
+glossier-balm-dotcom-espresso,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-espresso,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-espresso,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-espresso,4,lanolin,Lanolin,no
+glossier-balm-dotcom-espresso,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-espresso,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-espresso,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-espresso,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-espresso,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-espresso,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-espresso,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-espresso,12,bht,BHT,no
+glossier-balm-dotcom-espresso,13,stevia-rebaudiana-leaf-stem-extract,Stevia Rebaudiana Leaf/Stem Extract,no
+glossier-balm-dotcom-espresso,14,vanillin,Vanillin,no
+glossier-balm-dotcom-espresso,15,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",no
+glossier-balm-dotcom-espresso,16,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",no
+glossier-balm-dotcom-espresso,17,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",no
+glossier-balm-dotcom-black-cherry,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-black-cherry,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-black-cherry,3,beeswax,Beeswax/Cera Alba/Cire d’Abeille,no
+glossier-balm-dotcom-black-cherry,4,lanolin,Lanolin,no
+glossier-balm-dotcom-black-cherry,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-black-cherry,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-black-cherry,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-black-cherry,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-black-cherry,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-black-cherry,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-black-cherry,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-black-cherry,12,bht,BHT,no
+glossier-balm-dotcom-black-cherry,13,stevia-rebaudiana-leaf-stem-extract,Stevia Rebaudiana Leaf/Stem Extract,no
+glossier-balm-dotcom-black-cherry,14,benzyl-benzoate,Benzyl Benzoate,no
+glossier-balm-dotcom-black-cherry,15,limonene,Limonene,no
+glossier-balm-dotcom-black-cherry,16,citral,Citral,no
+glossier-balm-dotcom-black-cherry,17,citronellol,Citronellol,no
+glossier-balm-dotcom-black-cherry,18,linalool,Linalool,no
+glossier-balm-dotcom-black-cherry,19,ci-77491,"Iron Oxides (CI 77491, CI 77499)",no
+glossier-balm-dotcom-black-cherry,20,ci-77499,"Iron Oxides (CI 77491, CI 77499)",no
+glossier-balm-dotcom-black-cherry,21,ci-17200,Red 33 Lake (CI 17200),no
+glossier-balm-dotcom-black-cherry,22,ci-45410,Red 27 Lake (CI 45410),no
+glossier-balm-dotcom-black-cherry,23,ci-73360,Red 30 Lake (CI 73360),no
+glossier-balm-dotcom-black-cherry,24,ci-15985,Yellow 6 Lake (CI 15985),no
+glossier-balm-dotcom-i-love-ny,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-i-love-ny,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-i-love-ny,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-i-love-ny,4,lanolin,Lanolin,no
+glossier-balm-dotcom-i-love-ny,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-i-love-ny,6,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-i-love-ny,7,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-i-love-ny,8,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-i-love-ny,9,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-i-love-ny,10,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-i-love-ny,11,tocopherol,Tocopherol,no
+glossier-balm-dotcom-i-love-ny,12,sodium-saccharin,Sodium Saccharin,no
+glossier-balm-dotcom-i-love-ny,13,bht,BHT,no
+glossier-balm-dotcom-i-love-ny,14,limonene,Limonene,no
+glossier-balm-dotcom-i-love-ny,15,citrus-aurantium-peel-oil,Citrus Aurantium Peel Oil,no
+glossier-balm-dotcom-i-love-ny,16,citronellol,Citronellol,no
+glossier-balm-dotcom-i-love-ny,17,benzyl-benzoate,Benzyl Benzoate,no
+glossier-balm-dotcom-i-love-ny,18,benzaldehyde,Benzaldehyde,no
+glossier-balm-dotcom-i-love-ny,19,eugenol,Eugenol,no
+glossier-balm-dotcom-i-love-ny,20,pinene,Pinene,no
+glossier-balm-dotcom-i-love-ny,21,vanillin,Vanillin,no
+glossier-balm-dotcom-just-baked,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-just-baked,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-just-baked,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-just-baked,4,lanolin,Lanolin,no
+glossier-balm-dotcom-just-baked,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-just-baked,6,benzyl-benzoate,Benzyl Benzoate,no
+glossier-balm-dotcom-just-baked,7,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-just-baked,8,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-just-baked,9,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-just-baked,10,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-just-baked,11,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-just-baked,12,tocopherol,Tocopherol,no
+glossier-balm-dotcom-just-baked,13,sodium-saccharin,Sodium Saccharin,no
+glossier-balm-dotcom-just-baked,14,bht,BHT,no
+glossier-balm-dotcom-just-baked,15,titanium-dioxide,Titanium Dioxide (CI 77891),no
+glossier-balm-dotcom-just-baked,16,ci-77491,"Iron Oxide (CI 77491, CI 77492, CI 77499)",no
+glossier-balm-dotcom-just-baked,17,ci-77492,"Iron Oxide (CI 77491, CI 77492, CI 77499)",no
+glossier-balm-dotcom-just-baked,18,ci-77499,"Iron Oxide (CI 77491, CI 77492, CI 77499)",no
+glossier-balm-dotcom-just-baked,19,ci-15850,Red 7 Lake (CI 15850),no
+glossier-balm-dotcom-just-baked,20,ci-17200,Red 33 Lake (CI 17200),no
+glossier-balm-dotcom-just-baked,21,ci-42090,Blue 1 Lake (CI 42090),no
+glossier-balm-dotcom-toasty-nuts,1,petrolatum,Petrolatum,no
+glossier-balm-dotcom-toasty-nuts,2,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+glossier-balm-dotcom-toasty-nuts,3,beeswax,Beeswax/Cera Alba/Cire d'Abeille,no
+glossier-balm-dotcom-toasty-nuts,4,lanolin,Lanolin,no
+glossier-balm-dotcom-toasty-nuts,5,flavor,Flavor/Aroma,no
+glossier-balm-dotcom-toasty-nuts,6,benzyl-benzoate,Benzyl Benzoate,no
+glossier-balm-dotcom-toasty-nuts,7,theobroma-grandiflorum-cupuacu-seed-butter,Theobroma Grandiflorum Seed Butter,no
+glossier-balm-dotcom-toasty-nuts,8,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+glossier-balm-dotcom-toasty-nuts,9,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+glossier-balm-dotcom-toasty-nuts,10,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+glossier-balm-dotcom-toasty-nuts,11,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-balm-dotcom-toasty-nuts,12,tocopherol,Tocopherol,no
+glossier-balm-dotcom-toasty-nuts,13,mica,Mica,no
+glossier-balm-dotcom-toasty-nuts,14,silica,Silica,no
+glossier-balm-dotcom-toasty-nuts,15,sodium-saccharin,Sodium Saccharin,no
+glossier-balm-dotcom-toasty-nuts,16,bht,BHT,no
+glossier-balm-dotcom-toasty-nuts,17,limonene,Limonene,no
+glossier-balm-dotcom-toasty-nuts,18,citrus-aurantium-peel-oil,Citrus Aurantium Peel Oil,no
+glossier-balm-dotcom-toasty-nuts,19,pinene,Pinene,no
+glossier-balm-dotcom-toasty-nuts,20,titanium-dioxide,Titanium Dioxide (CI 77891),no

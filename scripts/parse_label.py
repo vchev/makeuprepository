@@ -26,6 +26,11 @@ COLORANTS = {
     "45380": ("ci-45380", "CI 45380", "Red 21 / Red 22 and their lakes"),
     "45410": ("ci-45410", "CI 45410", "Red 27 / Red 28 and their lakes"),
     "73360": ("ci-73360", "CI 73360", "Red 30 and its lake"),
+    "77400": ("ci-77400", "COPPER POWDER", "Copper / bronze powder"),
+    "77947": ("ci-77947", "ZINC OXIDE", "Zinc oxide"),
+    "45370": ("ci-45370", "CI 45370", "Orange 5 and its lake"),
+    "77000": ("ci-77000", "ALUMINUM POWDER", "Aluminum powder"),
+    "77019": ("ci-77019", "MICA", "Mica"),
 }
 # Printed names that differ only by translation or synonym -> one INCI name.
 ALIASES = {
@@ -38,17 +43,35 @@ ALIASES = {
     "aqua": "WATER", "water": "WATER", "parfum": "FRAGRANCE", "fragrance": "FRAGRANCE",
     "aroma": "FLAVOR", "flavor": "FLAVOR",
 }
+# Whole printed names (after joining) that are the same INCI ingredient written another way.
+SYNONYMS = {
+    "BUTYROSPERMUM PARKII BUTTER/SHEA BUTTER": "BUTYROSPERMUM PARKII (SHEA) BUTTER",
+    "BUTYROSPERMUM PARKII (SHEA BUTTER)": "BUTYROSPERMUM PARKII (SHEA) BUTTER",
+    "COCOS NUCIFERA OIL/COCONUT OIL": "COCOS NUCIFERA (COCONUT) OIL",
+    "COLOPHONIUM/ROSIN/COLOPHANE": "COLOPHONIUM",
+    "HELIANTHUS ANNUUS SEED CERA": "HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX",
+    "ACACIA DECURRENS FLOWER CERA": "ACACIA DECURRENS FLOWER CERA/WAX",
+    "VEGETABLE OIL OLUS OIL": "VEGETABLE OIL",
+    "EUPHORBIA CERIFERA (CANDELILLA) CERA": "EUPHORBIA CERIFERA (CANDELILLA) WAX",
+}
 # Brands print the same wax or carrier in English, Latin and French, in varying order.
 KEYWORDS = [
     (r"candelilla", "EUPHORBIA CERIFERA (CANDELILLA) WAX"),
     (r"carnauba", "COPERNICIA CERIFERA (CARNAUBA) WAX"),
     (r"microcrystalline wax|cera microcristallina", "MICROCRYSTALLINE WAX"),
-    (r"^(?!synthetic).*(cera alba|beeswax)", "BEESWAX"),
+    (r"^(cera alba|beeswax)\b", "BEESWAX"),
     (r"^(aqua|water)\b", "WATER"),
     (r"^(parfum|fragrance)\b", "FRAGRANCE"),
     (r"^(aroma|flavor)\b", "FLAVOR"),
 ]
-MAY_CONTAIN = re.compile(r"(\[\s*\+/-\s*:?|may contain\s*/\s*peut contenir\s*(\(±\))?\s*:?|may contain\s*:?)", re.I)
+MAY_CONTAIN = re.compile(
+    r"(\[?\s*\+/\s*-\s*(\(may contain\)|may contain(\s*/\s*peut contenir)?)?\s*:?"
+    r"|may contain\s*/\s*peut contenir\s*:?\s*(\(±\)|\(\+/-\))?\s*:?"
+    r"|may contain\s*(\+/-)?\s*:?)", re.I)
+# Footnote markers such as "Orbignya Oleifera Seed Oil*" or "**Sodium Hyaluronate".
+STARS = re.compile(r"^\*+|\*+$")
+# French or Latin translations printed after the English name without a slash.
+FR_TAIL = re.compile(r"\s+(extrait|huile|cire|eau)\b.*$", re.I)
 
 
 def split_top(text, seps):
@@ -76,10 +99,14 @@ def items_from_label(label):
     seps = [" • "] if "•" in label else [", "]
     m = MAY_CONTAIN.search(label)
     main, extra = (label[:m.start()], label[m.end():]) if m else (label, "")
-    extra = extra.strip().strip("[]").strip()
-    out = [(x, "no") for x in split_top(main, seps)]
-    for x in split_top(extra, seps + [", "]):
-        out.append((x, "yes"))
+    main = main.rstrip(" [(●•,")
+    extra = extra.strip().strip(".[] ").strip()
+    out = []
+    for part, may in ((main, "no"), (extra, "yes")):
+        for x in split_top(part, seps + ([", "] if may == "yes" else [])):
+            x = STARS.sub("", x.strip(" ●•,")).strip(" .;:,")
+            if x and not x.startswith("*"):
+                out.append((x, may))
     return out
 
 
@@ -88,19 +115,24 @@ def normalize(name):
 
     One printed item can hold several colorants, e.g. "Iron Oxides (CI 77491, CI 77492)".
     """
-    cis = re.findall(r"ci\s*(\d{5})", name, re.I)
-    if cis:
+    if re.search(r"ci\s*\d{5}", name, re.I):
+        # "CI 77491/77492/77499" and "(ci 77491, 77492, 77499)" list several CI numbers.
+        cis = re.findall(r"(?<!\d)(\d{5})(?!\d)", name)
         return [COLORANTS.get(c, (f"ci-{c}", f"CI {c}", f"CI {c}")) for c in dict.fromkeys(cis)]
     if re.fullmatch(r"(?i)titanium dioxide", name.strip()):
         return [COLORANTS["77891"]]
     if re.fullmatch(r"(?i)iron oxides?", name.strip()):
         return [("iron-oxides-unspecified", "IRON OXIDES", "Iron oxides")]
+    name = FR_TAIL.sub("", name) if not re.match(r"(?i)(extrait|huile|cire|eau)\b", name) else name
     low = name.lower()
     for pattern, inci in KEYWORDS:
         if re.search(pattern, low):
             iid = re.sub(r"[^a-z0-9]+", "-", inci.lower()).strip("-")
             return [(iid, inci, inci.title())]
     parts = [p.strip() for p in name.split("/")]
+    # "Helianthus Annuus (Sunflower) Seed Wax/Helianthus Annuus Seed Cera": the same name in Latin; keep the first.
+    if len(parts) > 1 and all(p.split()[:1] and p.split()[0].lower() == parts[0].split()[0].lower() for p in parts[1:]) and len(parts[0].split()) > 2:
+        parts = parts[:1]
     for p in parts:
         key = p.lower()
         if key in ALIASES:
@@ -111,5 +143,6 @@ def normalize(name):
         parts = [p for p in parts if not p.lower().startswith(("cire ", "eau", "peut "))]
         inci = "/".join(parts).upper()
     inci = re.sub(r"\s+", " ", inci).strip()
+    inci = SYNONYMS.get(inci, inci)
     iid = re.sub(r"[^a-z0-9]+", "-", inci.lower()).strip("-")
     return [(iid, inci, inci.title())]
