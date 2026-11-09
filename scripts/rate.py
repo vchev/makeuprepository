@@ -48,13 +48,19 @@ def validate(db, schema):
     return errors
 
 
-def usable(f):
-    """Quality gate: only reliable evidence can move a rating.
+def usable(f, sources):
+    """Quality gate: only reliable, fully read evidence can move a rating.
 
     Studies must be peer-reviewed and scored Klimisch 1 or 2 (reliable without or with
-    restrictions). Regulatory opinions, regulations and IARC classifications are
-    'authoritative'. Everything else stays on record but is ignored by the rules.
+    restrictions). Regulatory opinions, expert panel reports and IARC classifications are
+    'authoritative'. Every finding must come from the full text: an abstract or summary
+    is not enough. The one exception is an IARC classification, where the official
+    classification itself is the finding. Everything else stays on record but is ignored.
     """
+    read = f["what_was_read"]
+    if read != "full_text":
+        if not (read == "classification_only" and sources[f["source_id"]]["source_type"] == "iarc_monograph"):
+            return False
     if f["reliability"] == "authoritative":
         return True
     return f["peer_reviewed"] == "yes" and f["reliability"] in ("1", "2")
@@ -66,7 +72,7 @@ def route_matches(row_route, route):
 
 def rate(ingredient_id, route, findings, regs, sources):
     """Return (rating, reason, [source_ids]) for one ingredient and route."""
-    findings = [f for f in findings if usable(f)]
+    findings = [f for f in findings if usable(f, sources)]
     f_here = [f for f in findings if f["route"] == route]
     f_lab = [f for f in findings if f["route"] == "lab_only"]
     r_here = [r for r in regs if route_matches(r["route"], route)]

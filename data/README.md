@@ -34,7 +34,11 @@ In `product_summaries.csv`, each ingredient's `worst_rating` is the worst across
 
 ### Quality gate
 
-Only reliable evidence can move a rating. A study counts if it is peer-reviewed and scored **Klimisch 1 or 2** (reliable without or with restrictions, the scale used by EU and OECD chemical assessors). Regulatory opinions, regulations and IARC classifications count as authoritative. Cosmetic Ingredient Review (CIR) Expert Panel reports, published in the International Journal of Toxicology, are also treated as authoritative; the panel is funded by the cosmetics industry, which each source citation notes. A CIR conclusion is recorded only for ingredients the report's published summary names, and only for the skin route unless the report addresses swallowing. Klimisch 3 or 4 studies stay on record but are ignored by the rules.
+Only reliable evidence can move a rating. A study counts if it is peer-reviewed and scored **Klimisch 1 or 2** (reliable without or with restrictions, the scale used by EU and OECD chemical assessors). Regulatory opinions, regulations and IARC classifications count as authoritative. Cosmetic Ingredient Review (CIR) Expert Panel reports are also treated as authoritative; the panel is funded by the cosmetics industry, which each source citation notes.
+
+**Full text only.** A finding moves a rating only if the full report or paper was read (`what_was_read = full_text`). Abstract-only and summary-only findings stay on record but are ignored. The one exception is an IARC classification, where the official classification itself is the finding. If a full text is paywalled or blocked, the finding stays abstract-only and does not count.
+
+**CIR reports.** Each CIR finding comes from the panel's full published report, downloaded from the CIR report database. It is recorded only when the ingredient is named in the report's conclusion. The finding covers the skin route, and also swallowing when the report includes lip-product uses. Scanned reports with no readable text are not used.
 
 ## Run
 
