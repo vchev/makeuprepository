@@ -11,6 +11,8 @@ rows = {(r["ingredient_id"], r["route"]): r["rating"] for r in csv.DictReader(op
 assert rows[("titanium-dioxide", "inhalation")] == "Evidence of harm"
 assert rows[("titanium-dioxide", "oral")] == "Unclear"
 assert rows[("castor-oil", "oral")] == "No research found", "unreliable study must be ignored"
+assert rows[("titanium-dioxide", "oral")] == "Unclear", "an approval must not override inconclusive evidence"
+assert rows[("castor-oil", "dermal")] == "No concerns found", "a regulator approval for the route counts as no concerns"
 assert rows[("linalool", "dermal")] == "Known allergen"
 assert rows[("linalool", "inhalation")] == "No research found"
 summary = {r["ingredient_id"]: r["worst_rating"] for r in csv.DictReader(open(fixture / "product_summaries.csv"))}

@@ -16,7 +16,11 @@ TABLES = ["brands", "products", "ingredient_lists", "list_items", "ingredients",
           "findings", "regulatory_status", "category_routes"]
 ROUTES = ["oral", "dermal", "inhalation", "eye"]
 RATINGS = ["Evidence of harm", "Known allergen", "Unclear", "No concerns found", "No research found"]
+# For a product's summary, a route with no research counts as worse than a route with no
+# concerns, so a gap in the evidence is never shown as "No concerns found".
+SUMMARY_ORDER = ["Evidence of harm", "Known allergen", "Unclear", "No research found", "No concerns found"]
 HUMAN = {"human_population", "human_clinical"}
+ASSESSMENTS = {"regulatory_assessment", "expert_panel_assessment"}
 
 
 def load(data_dir):
@@ -77,8 +81,8 @@ def rate(ingredient_id, route, findings, regs, sources):
         group = sources[f["source_id"]]["iarc_group"]
         if group in ("1", "2A"):
             return RATINGS[0], f"IARC Group {group} by {route}", [f["source_id"]]
-        if f["study_type"] == "regulatory_assessment" and f["dose_relevance"] == "cosmetic_level":
-            return RATINGS[0], "Regulatory assessment found harm at cosmetic levels", [f["source_id"]]
+        if f["study_type"] in ASSESSMENTS and f["dose_relevance"] == "cosmetic_level":
+            return RATINGS[0], "Regulatory or expert panel assessment found harm at cosmetic levels", [f["source_id"]]
         if f["study_type"] in HUMAN and f["dose_relevance"] == "cosmetic_level":
             return RATINGS[0], "Human study found harm at cosmetic-level exposure", [f["source_id"]]
 
@@ -101,6 +105,11 @@ def rate(ingredient_id, route, findings, regs, sources):
     clear = [f for f in f_here if f["result"] == "no_harm"]
     if clear:
         return RATINGS[3], "Studies or assessments found no harm", sorted({f["source_id"] for f in clear})
+    approved = [r for r in r_here if r["status"] == "allowed"]
+    if approved:
+        return (RATINGS[3], "Approved for this use by a regulator (" +
+                ", ".join(sorted({r["jurisdiction"] for r in approved})) + ")",
+                sorted({r["source_id"] for r in approved}))
 
     # Rule 5: No research found
     return RATINGS[4], "No relevant studies or regulatory opinions found for this route", []
@@ -150,7 +159,7 @@ def main():
             routes = routes_for[product[lst["product_id"]]["category"]]
             for li in sorted(items_for[lst["list_id"]], key=lambda x: int(x["position"])):
                 by_route = {r: ratings[(li["ingredient_id"], r)] for r in routes}
-                worst = min(by_route.values(), key=RATINGS.index)
+                worst = min(by_route.values(), key=SUMMARY_ORDER.index)
                 w.writerow([lst["list_id"], lst["product_id"], lst["shade"], li["ingredient_id"], worst,
                             "; ".join(f"{r}: {v}" for r, v in by_route.items())])
 

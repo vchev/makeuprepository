@@ -28,7 +28,8 @@
       "regulatory_opinion",
       "regulation",
       "iarc_monograph",
-      "government_report"
+      "government_report",
+      "expert_panel_report"
     ],
     "sources.iarc_group": [
       "",
@@ -45,7 +46,8 @@
       "skin_allergy",
       "irritation",
       "organ_toxicity",
-      "environmental"
+      "environmental",
+      "overall_safety"
     ],
     "findings.route": [
       "oral",
@@ -61,7 +63,8 @@
       "animal",
       "cell",
       "systematic_review",
-      "regulatory_assessment"
+      "regulatory_assessment",
+      "expert_panel_assessment"
     ],
     "findings.result": [
       "harm",

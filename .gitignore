@@ -4,3 +4,4 @@ _site/
 vendor/
 tests/fixture/assessments.csv
 tests/fixture/product_summaries.csv
+__pycache__/

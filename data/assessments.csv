@@ -1,10 +1,10 @@
 ingredient_id,route,rating,reason,source_ids,rated_on
 titanium-dioxide,oral,Unclear,"Harm reported only in limited, high-dose or inconclusive evidence",sccs-1661-23,2026-11-09
-titanium-dioxide,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+titanium-dioxide,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2575,2026-11-09
 titanium-dioxide,inhalation,Evidence of harm,Restricted for safety in EU,eu-2021-850,2026-11-09
-titanium-dioxide,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+titanium-dioxide,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2575,2026-11-09
 ricinus-communis-castor-seed-oil,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ricinus-communis-castor-seed-oil,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ricinus-communis-castor-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-castor-2025,2026-11-09
 ricinus-communis-castor-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ricinus-communis-castor-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 beeswax,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -31,10 +31,10 @@ euphorbia-cerifera-candelilla-wax,oral,No research found,No relevant studies or 
 euphorbia-cerifera-candelilla-wax,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 euphorbia-cerifera-candelilla-wax,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 euphorbia-cerifera-candelilla-wax,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-mica,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-mica,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mica,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2496,2026-11-09
+mica,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2496,2026-11-09
 mica,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-mica,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mica,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2496,2026-11-09
 oryza-sativa-rice-bran-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 oryza-sativa-rice-bran-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 oryza-sativa-rice-bran-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -84,7 +84,7 @@ vanillin,dermal,No research found,No relevant studies or regulatory opinions fou
 vanillin,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 vanillin,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 caprylyl-glycol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-caprylyl-glycol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+caprylyl-glycol,dermal,No concerns found,Studies or assessments found no harm,cir-glycols-2012,2026-11-09
 caprylyl-glycol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 caprylyl-glycol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ethylhexylglycerin,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -100,7 +100,7 @@ rosmarinus-officinalis-rosemary-leaf-extract,dermal,No research found,No relevan
 rosmarinus-officinalis-rosemary-leaf-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 rosmarinus-officinalis-rosemary-leaf-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 tocopherol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-tocopherol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+tocopherol,dermal,No concerns found,Studies or assessments found no harm,cir-tocopherols-2018,2026-11-09
 tocopherol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 tocopherol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 acacia-decurrens-flower-cera-wax,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -115,36 +115,36 @@ salicornia-herbacea-extract,oral,No research found,No relevant studies or regula
 salicornia-herbacea-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 salicornia-herbacea-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 salicornia-herbacea-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-15850,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-15850,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-15850,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2306;cfr-74-2307,2026-11-09
+ci-15850,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2306;cfr-74-2307,2026-11-09
 ci-15850,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-15850,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-73360,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-73360,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-73360,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2330,2026-11-09
+ci-73360,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2330,2026-11-09
 ci-73360,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-73360,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77491,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77491,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77491,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
+ci-77491,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
 ci-77491,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77491,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77492,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77492,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77491,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
+ci-77492,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
+ci-77492,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
 ci-77492,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77492,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77499,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77499,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77492,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
+ci-77499,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
+ci-77499,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
 ci-77499,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77499,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77499,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
 ci-77742,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-77742,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-77742,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-77742,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-16035,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-16035,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-16035,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2340,2026-11-09
+ci-16035,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2340,2026-11-09
 ci-16035,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-16035,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 bis-diglyceryl-polyacyladipate-2,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-bis-diglyceryl-polyacyladipate-2,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-diglyceryl-polyacyladipate-2,dermal,No concerns found,Studies or assessments found no harm,cir-bisdiglyceryl-2013,2026-11-09
 bis-diglyceryl-polyacyladipate-2,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 bis-diglyceryl-polyacyladipate-2,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 lanolin-oil,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -152,7 +152,7 @@ lanolin-oil,dermal,No research found,No relevant studies or regulatory opinions 
 lanolin-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 lanolin-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 silica,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-silica,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+silica,dermal,No concerns found,Studies or assessments found no harm,cir-silica-2025,2026-11-09
 silica,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 silica,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 pentaerythrityl-tetraethylhexanoate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -251,20 +251,20 @@ ci-45410,oral,No research found,No relevant studies or regulatory opinions found
 ci-45410,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-45410,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-45410,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-17200,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-17200,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-17200,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2333,2026-11-09
+ci-17200,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2333,2026-11-09
 ci-17200,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-17200,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-19140,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-19140,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-19140,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2705,2026-11-09
+ci-19140,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2705,2026-11-09
 ci-19140,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-19140,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-42090,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-42090,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-19140,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2705,2026-11-09
+ci-42090,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2101,2026-11-09
+ci-42090,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2101,2026-11-09
 ci-42090,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-42090,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-15985,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-15985,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-42090,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2101,2026-11-09
+ci-15985,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2706,2026-11-09
+ci-15985,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2706,2026-11-09
 ci-15985,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-15985,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 glyceryl-triacetyl-ricinoleate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -276,7 +276,7 @@ cetyl-ricinoleate,dermal,No research found,No relevant studies or regulatory opi
 cetyl-ricinoleate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 cetyl-ricinoleate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 polyethylene,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-polyethylene,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyethylene,dermal,No concerns found,Studies or assessments found no harm,cir-polyethylene-2007,2026-11-09
 polyethylene,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 polyethylene,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 barium-sulfate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
