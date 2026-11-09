@@ -1,0 +1,136 @@
+{
+  "allowed": {
+    "brands.positioning": [
+      "clean",
+      "conventional"
+    ],
+    "products.category": [
+      "lipstick",
+      "liquid_lipstick",
+      "lip_gloss",
+      "lip_liner",
+      "lip_balm",
+      "mascara",
+      "eyeliner",
+      "eyeshadow",
+      "foundation",
+      "loose_powder",
+      "pressed_powder",
+      "blush"
+    ],
+    "list_items.may_contain": [
+      "yes",
+      "no"
+    ],
+    "sources.source_type": [
+      "peer_reviewed_study",
+      "review",
+      "regulatory_opinion",
+      "regulation",
+      "iarc_monograph",
+      "government_report"
+    ],
+    "sources.iarc_group": [
+      "",
+      "1",
+      "2A",
+      "2B",
+      "3"
+    ],
+    "findings.endpoint": [
+      "cancer",
+      "genotoxicity",
+      "hormone_activity",
+      "reproductive_developmental",
+      "skin_allergy",
+      "irritation",
+      "organ_toxicity",
+      "environmental"
+    ],
+    "findings.route": [
+      "oral",
+      "dermal",
+      "inhalation",
+      "eye",
+      "other",
+      "lab_only"
+    ],
+    "findings.study_type": [
+      "human_population",
+      "human_clinical",
+      "animal",
+      "cell",
+      "systematic_review",
+      "regulatory_assessment"
+    ],
+    "findings.result": [
+      "harm",
+      "no_harm",
+      "inconclusive"
+    ],
+    "findings.dose_relevance": [
+      "cosmetic_level",
+      "far_above_cosmetic",
+      "not_stated"
+    ],
+    "findings.what_was_read": [
+      "full_text",
+      "abstract_only",
+      "summary_only",
+      "classification_only"
+    ],
+    "regulatory_status.jurisdiction": [
+      "EU",
+      "US_FDA",
+      "California",
+      "Canada"
+    ],
+    "regulatory_status.status": [
+      "banned",
+      "restricted",
+      "allowed",
+      "allergen_listed"
+    ],
+    "regulatory_status.reason": [
+      "safety",
+      "environment",
+      "other",
+      ""
+    ],
+    "regulatory_status.route": [
+      "all",
+      "oral",
+      "dermal",
+      "inhalation",
+      "eye"
+    ],
+    "category_routes.route": [
+      "oral",
+      "dermal",
+      "inhalation",
+      "eye"
+    ],
+    "findings.peer_reviewed": [
+      "yes",
+      "no"
+    ],
+    "findings.reliability": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "authoritative"
+    ]
+  },
+  "references": {
+    "products.brand_id": "brands.brand_id",
+    "ingredient_lists.product_id": "products.product_id",
+    "list_items.list_id": "ingredient_lists.list_id",
+    "list_items.ingredient_id": "ingredients.ingredient_id",
+    "findings.ingredient_id": "ingredients.ingredient_id",
+    "findings.source_id": "sources.source_id",
+    "regulatory_status.ingredient_id": "ingredients.ingredient_id",
+    "regulatory_status.source_id": "sources.source_id",
+    "products.category": "category_routes.category"
+  }
+}

@@ -1,0 +1,1040 @@
+list_id,position,ingredient_id,name_as_printed,may_contain
+ilia-balmy-tint,1,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+ilia-balmy-tint,2,beeswax,Cera Alba/Beeswax/Cire d'abeille,no
+ilia-balmy-tint,3,helianthus-annuus-sunflower-seed-oil,Helianthus Annuus (Sunflower) Seed Oil,no
+ilia-balmy-tint,4,octyldodecanol,Octyldodecanol,no
+ilia-balmy-tint,5,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (Shea) Butter,no
+ilia-balmy-tint,6,polyhydroxystearic-acid,Polyhydroxystearic Acid,no
+ilia-balmy-tint,7,euphorbia-cerifera-candelilla-wax,Candelilla Cera/Euphorbia Cerifera (Candelilla) Wax/Cire de Candelilla,no
+ilia-balmy-tint,8,mica,Mica,no
+ilia-balmy-tint,9,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+ilia-balmy-tint,10,jojoba-esters,Jojoba Esters,no
+ilia-balmy-tint,11,rosa-canina-seed-oil,Rosa Canina Seed Oil,no
+ilia-balmy-tint,12,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+ilia-balmy-tint,13,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+ilia-balmy-tint,14,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax,no
+ilia-balmy-tint,15,theobroma-cacao-cocoa-seed-butter,Theobroma Cacao (Cocoa) Seed Butter,no
+ilia-balmy-tint,16,citrus-aurantium-dulcis-orange-peel-cera-wax,Citrus Aurantium Dulcis (Orange) Peel Cera/Wax,no
+ilia-balmy-tint,17,olea-europaea-olive-fruit-oil,Olea Europaea (Olive) Fruit Oil,no
+ilia-balmy-tint,18,persea-gratissima-avocado-oil,Persea Gratissima (Avocado) Oil,no
+ilia-balmy-tint,19,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+ilia-balmy-tint,20,vanillin,Vanillin,no
+ilia-balmy-tint,21,caprylyl-glycol,Caprylyl Glycol,no
+ilia-balmy-tint,22,ethylhexylglycerin,Ethylhexylglycerin,no
+ilia-balmy-tint,23,tocopheryl-acetate,Tocopheryl Acetate,no
+ilia-balmy-tint,24,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+ilia-balmy-tint,25,tocopherol,Tocopherol,no
+ilia-balmy-tint,26,acacia-decurrens-flower-cera-wax,Acacia Decurrens Flower Cera/Wax,no
+ilia-balmy-tint,27,polyglycerin-3,Polyglycerin-3,no
+ilia-balmy-tint,28,salicornia-herbacea-extract,Salicornia Herbacea Extract,no
+ilia-balmy-tint,29,ci-15850,CI 15850 (Red 7 Lake),yes
+ilia-balmy-tint,30,ci-73360,CI 73360 (Red 30 Lake),yes
+ilia-balmy-tint,31,ci-77491,CI 77491,yes
+ilia-balmy-tint,32,ci-77492,CI 77492,yes
+ilia-balmy-tint,33,ci-77499,CI 77499 (Iron Oxides),yes
+ilia-balmy-tint,34,titanium-dioxide,CI 77891 (Titanium Dioxide),yes
+ilia-balmy-tint,35,ci-77742,CI 77742 (Manganese Violet),yes
+ilia-balmy-tint,36,ci-16035,CI 16035 (Red 40 Lake),yes
+kosas-weightless-lip-color,1,ricinus-communis-castor-seed-oil,Ricinus Communis (Castor) Seed Oil,no
+kosas-weightless-lip-color,2,caprylic-capric-triglyceride,Caprylic/Capric Triglyceride,no
+kosas-weightless-lip-color,3,bis-diglyceryl-polyacyladipate-2,Bis-Diglyceryl Polyacyladipate-2,no
+kosas-weightless-lip-color,4,euphorbia-cerifera-candelilla-wax,Euphorbia Cerifera (Candelilla) Wax/Cire de Candelilla,no
+kosas-weightless-lip-color,5,octyldodecanol,Octyldodecanol,no
+kosas-weightless-lip-color,6,lanolin-oil,Lanolin Oil,no
+kosas-weightless-lip-color,7,silica,Silica,no
+kosas-weightless-lip-color,8,pentaerythrityl-tetraethylhexanoate,Pentaerythrityl Tetraethylhexanoate,no
+kosas-weightless-lip-color,9,beeswax,Cera Alba/Beeswax/Cire d'abeille,no
+kosas-weightless-lip-color,10,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (Carnauba) Wax/Cire de Carnauba,no
+kosas-weightless-lip-color,11,microcrystalline-wax,Microcrystalline Wax/Cire Microcrystalline,no
+kosas-weightless-lip-color,12,oryza-sativa-rice-bran-extract,Oryza Sativa (Rice) Bran Extract,no
+kosas-weightless-lip-color,13,camellia-oleifera-seed-oil,Camellia Oleifera Seed Oil,no
+kosas-weightless-lip-color,14,theobroma-cacao-cocoa-seed-butter,Theobroma Cacao (Cocoa) Seed Butter,no
+kosas-weightless-lip-color,15,vitis-vinifera-grape-seed-oil,Vitis Vinifera (Grape) Seed Oil,no
+kosas-weightless-lip-color,16,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (Shea) Butter,no
+kosas-weightless-lip-color,17,carthamus-tinctorius-safflower-seed-oil,Carthamus Tinctorius (Safflower) Seed Oil,no
+kosas-weightless-lip-color,18,citrus-aurantium-dulcis-orange-peel-oil,Citrus Aurantium Dulcis (Orange) Peel Oil,no
+kosas-weightless-lip-color,19,helianthus-annuus-sunflower-extract,Helianthus Annuus (Sunflower) Extract,no
+kosas-weightless-lip-color,20,mangifera-indica-mango-seed-butter,Mangifera Indica (Mango) Seed Butter,no
+kosas-weightless-lip-color,21,rosa-canina-seed-oil,Rosa Canina Seed Oil,no
+kosas-weightless-lip-color,22,rosmarinus-officinalis-rosemary-leaf-extract,Rosmarinus Officinalis (Rosemary) Leaf Extract,no
+kosas-weightless-lip-color,23,simmondsia-chinensis-jojoba-seed-oil,Simmondsia Chinensis (Jojoba) Seed Oil,no
+kosas-weightless-lip-color,24,tocopherol,Tocopherol,no
+kosas-weightless-lip-color,25,tocopheryl-acetate,Tocopheryl Acetate,no
+kosas-weightless-lip-color,26,ethylhexylglycerin,Ethylhexylglycerin,no
+kosas-weightless-lip-color,27,caprylyl-glycol,Caprylyl Glycol,no
+kosas-weightless-lip-color,28,vanillin,Vanillin,no
+kosas-weightless-lip-color,29,limonene,Limonene,no
+kosas-weightless-lip-color,30,linalool,Linalool,no
+kosas-weightless-lip-color,31,titanium-dioxide,CI 77891 (Titanium Dioxide),yes
+kosas-weightless-lip-color,32,ci-77491,CI 77491,yes
+kosas-weightless-lip-color,33,ci-77492,CI 77492,yes
+kosas-weightless-lip-color,34,ci-77499,CI 77499 (Iron Oxides),yes
+kosas-weightless-lip-color,35,ci-15850,CI 15850 (Red 7 Lake),yes
+kosas-weightless-lip-color,36,ci-73360,CI 73360 (Red 30 Lake),yes
+mac-macximal-silky-matte-lipstick,1,octyldodecanol,Octyldodecanol,no
+mac-macximal-silky-matte-lipstick,2,neopentyl-glycol-diheptanoate,Neopentyl Glycol Diheptanoate,no
+mac-macximal-silky-matte-lipstick,3,synthetic-wax,Synthetic Wax,no
+mac-macximal-silky-matte-lipstick,4,pentaerythrityl-tetraisostearate,Pentaerythrityl Tetraisostearate,no
+mac-macximal-silky-matte-lipstick,5,trimethylpentanediol-adipic-acid-glycerin-crosspolymer,Trimethylpentanediol/adipic Acid/glycerin Crosspolymer,no
+mac-macximal-silky-matte-lipstick,6,silica,Silica,no
+mac-macximal-silky-matte-lipstick,7,microcrystalline-wax,Microcrystalline Wax Cera Microcristallina Cire Microcristalline,no
+mac-macximal-silky-matte-lipstick,8,euphorbia-cerifera-candelilla-wax,Euphorbia Cerifera (candelilla) Wax Candelilla Cera Cire De Candelilla,no
+mac-macximal-silky-matte-lipstick,9,butyrospermum-parkii-shea-butter,Butyrospermum Parkii (shea) Butter,no
+mac-macximal-silky-matte-lipstick,10,cocos-nucifera-coconut-oil,Cocos Nucifera (coconut) Oil,no
+mac-macximal-silky-matte-lipstick,11,kaolin,Kaolin,no
+mac-macximal-silky-matte-lipstick,12,bis-diglyceryl-polyacyladipate-2,Bis-diglyceryl Polyacyladipate-2,no
+mac-macximal-silky-matte-lipstick,13,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (carnauba) Wax Copernicia Cerifera Cera Cire De Carnauba,no
+mac-macximal-silky-matte-lipstick,14,boron-nitride,Boron Nitride,no
+mac-macximal-silky-matte-lipstick,15,theobroma-cacao-cocoa-seed-butter,Theobroma Cacao (cocoa) Seed Butter,no
+mac-macximal-silky-matte-lipstick,16,polyglyceryl-3-diisostearate,Polyglyceryl-3 Diisostearate,no
+mac-macximal-silky-matte-lipstick,17,methicone,Methicone,no
+mac-macximal-silky-matte-lipstick,18,disteardimonium-hectorite,Disteardimonium Hectorite,no
+mac-macximal-silky-matte-lipstick,19,propylene-carbonate,Propylene Carbonate,no
+mac-macximal-silky-matte-lipstick,20,lecithin,Lecithin,no
+mac-macximal-silky-matte-lipstick,21,vanillin,Vanillin,no
+mac-macximal-silky-matte-lipstick,22,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+mac-macximal-silky-matte-lipstick,23,mica,Mica,yes
+mac-macximal-silky-matte-lipstick,24,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+mac-macximal-silky-matte-lipstick,25,ci-77491,Iron Oxides (ci 77491),yes
+mac-macximal-silky-matte-lipstick,26,ci-77492,Iron Oxides (ci 77492),yes
+mac-macximal-silky-matte-lipstick,27,ci-77499,Iron Oxides (ci 77499),yes
+mac-macximal-silky-matte-lipstick,28,ci-15850,Red 6 (ci 15850),yes
+mac-macximal-silky-matte-lipstick,29,ci-45410,Red 28 (ci 45410),yes
+mac-macximal-silky-matte-lipstick,30,ci-73360,Red 30 (ci 73360),yes
+mac-macximal-silky-matte-lipstick,31,ci-17200,Red 33 (ci 17200),yes
+mac-macximal-silky-matte-lipstick,32,ci-19140,Yellow 5 (ci 19140),yes
+mac-macximal-silky-matte-lipstick,33,ci-42090,Blue 1 Lake (ci 42090),yes
+mac-macximal-silky-matte-lipstick,34,ci-15985,Yellow 6 Lake (ci 15985),yes
+clinique-almost-lipstick,1,ricinus-communis-castor-seed-oil,Ricinus Communis (castor) Seed Oil,no
+clinique-almost-lipstick,2,glyceryl-triacetyl-ricinoleate,Glyceryl Triacetyl Ricinoleate,no
+clinique-almost-lipstick,3,cetyl-ricinoleate,Cetyl Ricinoleate,no
+clinique-almost-lipstick,4,euphorbia-cerifera-candelilla-wax,Euphorbia Cerifera (candelilla) Wax Candelilla Cera Cire De Candelilla,no
+clinique-almost-lipstick,5,copernicia-cerifera-carnauba-wax,Copernicia Cerifera (carnauba) Wax Cera Carnauba Cire De Carnauba,no
+clinique-almost-lipstick,6,polyethylene,Polyethylene,no
+clinique-almost-lipstick,7,tocopheryl-acetate,Tocopheryl Acetate,no
+clinique-almost-lipstick,8,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate,no
+clinique-almost-lipstick,9,barium-sulfate,Barium Sulfate,no
+clinique-almost-lipstick,10,ci-19140,Yellow 5 Lake (ci 19140),yes
+clinique-almost-lipstick,11,ci-42090,Blue 1 Lake (ci 42090),yes
+clinique-almost-lipstick,12,ci-77491,"Iron Oxides (ci 77491, Ci 77492, Ci 77499)",yes
+clinique-almost-lipstick,13,ci-77492,"Iron Oxides (ci 77491, Ci 77492, Ci 77499)",yes
+clinique-almost-lipstick,14,ci-77499,"Iron Oxides (ci 77491, Ci 77492, Ci 77499)",yes
+clinique-almost-lipstick,15,ci-15850,Red 7 Lake (ci 15850),yes
+clinique-almost-lipstick,16,mica,Mica,yes
+clinique-almost-lipstick,17,ci-75470,Carmine (ci 75470),yes
+clinique-almost-lipstick,18,titanium-dioxide,Titanium Dioxide (ci 77891),yes
+clinique-almost-lipstick,19,ci-45380,Red 22 Lake (ci 45380),yes
+clinique-almost-lipstick,20,ci-73360,Red 30 Lake (ci 73360),yes
+clinique-almost-lipstick,21,ci-15985,Yellow 6 Lake (ci 15985),yes
+clinique-almost-lipstick,22,ci-77163,Bismuth Oxychloride (ci 77163),yes
+clinique-almost-lipstick,23,ci-17200,Red 33 Lake (ci 17200),yes
+clinique-almost-lipstick,24,ci-45410,Red 28 Lake (ci 45410),yes
+haus-labs-phd-hybrid-lip-glaze-guava,1,polybutene,Polybutene,no
+haus-labs-phd-hybrid-lip-glaze-guava,2,triisostearoyl-polyglyceryl-3-dimer-dilinoleate,Triisostearoyl Polyglyceryl-3 Dimer Dilinoleate,no
+haus-labs-phd-hybrid-lip-glaze-guava,3,diisostearyl-malate,Diisostearyl Malate,no
+haus-labs-phd-hybrid-lip-glaze-guava,4,octyldodecanol,Octyldodecanol,no
+haus-labs-phd-hybrid-lip-glaze-guava,5,polyglyceryl-2-triisostearate,Polyglyceryl-2 Triisostearate,no
+haus-labs-phd-hybrid-lip-glaze-guava,6,c18-38-alkyl-hydroxystearoyl-stearate,C18-38 Alkyl Hydroxystearoyl Stearate,no
+haus-labs-phd-hybrid-lip-glaze-guava,7,silica,Silica,no
+haus-labs-phd-hybrid-lip-glaze-guava,8,opuntia-ficus-indica-seed-oil,Opuntia Ficus-Indica Seed Oil,no
+haus-labs-phd-hybrid-lip-glaze-guava,9,palmitoyl-tripeptide-37,Palmitoyl Tripeptide-37,no
+haus-labs-phd-hybrid-lip-glaze-guava,10,palmitoyl-tripeptide-1,Palmitoyl Tripeptide-1,no
+haus-labs-phd-hybrid-lip-glaze-guava,11,palmitoyl-tripeptide-38,Palmitoyl Tripeptide-38,no
+haus-labs-phd-hybrid-lip-glaze-guava,12,portulaca-pilosa-extract,Portulaca Pilosa Extract,no
+haus-labs-phd-hybrid-lip-glaze-guava,13,squalane,Squalane,no
+haus-labs-phd-hybrid-lip-glaze-guava,14,ethylhexyl-palmitate,Ethylhexyl Palmitate,no
+haus-labs-phd-hybrid-lip-glaze-guava,15,tribehenin,Tribehenin,no
+haus-labs-phd-hybrid-lip-glaze-guava,16,tocopherol,Tocopherol,no
+haus-labs-phd-hybrid-lip-glaze-guava,17,sucrose-cocoate,Sucrose Cocoate,no
+haus-labs-phd-hybrid-lip-glaze-guava,18,triethoxycaprylylsilane,Triethoxycaprylylsilane,no
+haus-labs-phd-hybrid-lip-glaze-guava,19,galactoarabinan,Galactoarabinan,no
+haus-labs-phd-hybrid-lip-glaze-guava,20,caprylyl-glycol,Caprylyl Glycol,no
+haus-labs-phd-hybrid-lip-glaze-guava,21,cetearyl-ethylhexanoate,Cetearyl Ethylhexanoate,no
+haus-labs-phd-hybrid-lip-glaze-guava,22,glycerin,Glycerin,no
+haus-labs-phd-hybrid-lip-glaze-guava,23,malic-acid,Malic Acid,no
+haus-labs-phd-hybrid-lip-glaze-guava,24,lactic-acid,Lactic Acid,no
+haus-labs-phd-hybrid-lip-glaze-guava,25,sorbitan-isostearate,Sorbitan Isostearate,no
+haus-labs-phd-hybrid-lip-glaze-guava,26,isostearyl-alcohol,Isostearyl Alcohol,no
+haus-labs-phd-hybrid-lip-glaze-guava,27,hexylene-glycol,Hexylene Glycol,no
+haus-labs-phd-hybrid-lip-glaze-guava,28,ethyl-vanillin,Ethyl Vanillin,no
+haus-labs-phd-hybrid-lip-glaze-guava,29,water,"Aqua (Water, Eau)",no
+haus-labs-phd-hybrid-lip-glaze-guava,30,isostearic-acid,Isostearic Acid,no
+haus-labs-phd-hybrid-lip-glaze-guava,31,ethylhexylglycerin,Ethylhexylglycerin,no
+haus-labs-phd-hybrid-lip-glaze-guava,32,sodium-sulfate,Sodium Sulfate,no
+haus-labs-phd-hybrid-lip-glaze-guava,33,phenoxyethanol,Phenoxyethanol,no
+haus-labs-phd-hybrid-lip-glaze-guava,34,ci-77491,CI 77491/77492/77499 (Iron Oxides),no
+haus-labs-phd-hybrid-lip-glaze-guava,35,titanium-dioxide,CI 77891 (Titanium Dioxide),no
+haus-labs-phd-hybrid-lip-glaze-guava,36,ci-15850,CI 15850 (Red 7 Lake),no
+haus-labs-phd-hybrid-lip-glaze-guava,37,ci-19140,CI 19140 (Yellow 5 Lake),no
+dior-addict-lip-glow,1,polyglyceryl-2-triisostearate,POLYGLYCERYL-2 TRIISOSTEARATE,no
+dior-addict-lip-glow,2,helianthus-annuus-sunflower-seed-oil,HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL,no
+dior-addict-lip-glow,3,hydrogenated-castor-oil-dimer-dilinoleate,HYDROGENATED CASTOR OIL DIMER DILINOLEATE,no
+dior-addict-lip-glow,4,phytosteryl-octyldodecyl-lauroyl-glutamate,PHYTOSTERYL/OCTYLDODECYL LAUROYL GLUTAMATE,no
+dior-addict-lip-glow,5,jojoba-esters,JOJOBA ESTERS,no
+dior-addict-lip-glow,6,polyglyceryl-2-isostearate-dimer-dilinoleate-copolymer,POLYGLYCERYL-2 ISOSTEARATE/DIMER DILINOLEATE COPOLYMER,no
+dior-addict-lip-glow,7,euphorbia-cerifera-candelilla-wax,CANDELILLA CERA (EUPHORBIA CERIFERA (CANDELILLA) WAX),no
+dior-addict-lip-glow,8,behenyl-behenate,BEHENYL BEHENATE,no
+dior-addict-lip-glow,9,helianthus-annuus-sunflower-seed-wax,HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX,no
+dior-addict-lip-glow,10,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+dior-addict-lip-glow,11,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+dior-addict-lip-glow,12,oryza-sativa-rice-bran-wax,ORYZA SATIVA (RICE) BRAN WAX,no
+dior-addict-lip-glow,13,fragrance,PARFUM (FRAGRANCE),no
+dior-addict-lip-glow,14,caprylic-capric-triglyceride,CAPRYLIC/CAPRIC TRIGLYCERIDE,no
+dior-addict-lip-glow,15,silica,SILICA,no
+dior-addict-lip-glow,16,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+dior-addict-lip-glow,17,menthol,MENTHOL,no
+dior-addict-lip-glow,18,prunus-avium-sweet-cherry-seed-oil,PRUNUS AVIUM (SWEET CHERRY) SEED OIL,no
+dior-addict-lip-glow,19,tocopherol,TOCOPHEROL,no
+dior-addict-lip-glow,20,ethyl-vanillin,ETHYL VANILLIN,no
+dior-addict-lip-glow,21,vanillin,VANILLIN,no
+dior-addict-lip-glow,22,diisostearyl-malate,DIISOSTEARYL MALATE,no
+dior-addict-lip-glow,23,mentha-piperita-peppermint-oil,MENTHA PIPERITA (PEPPERMINT) OIL,no
+dior-addict-lip-glow,24,trimethylolpropane-triisostearate,TRIMETHYLOLPROPANE TRIISOSTEARATE,no
+dior-addict-lip-glow,25,tin-oxide,TIN OXIDE,no
+dior-addict-lip-glow,26,undaria-pinnatifida-extract,UNDARIA PINNATIFIDA EXTRACT,no
+dior-addict-lip-glow,27,ascorbyl-palmitate,ASCORBYL PALMITATE,no
+dior-addict-lip-glow,28,octadecyl-di-t-butyl-4-hydroxyhydrocinnamate,OCTADECYL DI-T-BUTYL-4-HYDROXYHYDROCINNAMATE,no
+dior-addict-lip-glow,29,propyl-gallate,PROPYL GALLATE,no
+dior-addict-lip-glow,30,titanium-dioxide,CI 77891 (TITANIUM DIOXIDE),yes
+dior-addict-lip-glow,31,ci-77491,CI 77491,yes
+dior-addict-lip-glow,32,ci-77499,CI 77499 (IRON OXIDES),yes
+dior-addict-lip-glow,33,ci-15985,CI 15985 (YELLOW 6 LAKE),yes
+dior-addict-lip-glow,34,ci-45380,CI 45380 (RED 21),yes
+dior-addict-lip-glow,35,ci-19140,CI 19140 (YELLOW 5 LAKE),yes
+dior-addict-lip-glow,36,ci-15850,CI 15850 (RED 7),yes
+glossier-generation-g-crush-like,1,cyclopentasiloxane,Cyclopentasiloxane,no
+glossier-generation-g-crush-like,2,pentaerythrityl-tetraisostearate,Pentaerythrityl Tetraisostearate,no
+glossier-generation-g-crush-like,3,polyethylene,Polyethylene,no
+glossier-generation-g-crush-like,4,ethylhexyl-stearate,Ethylhexyl Stearate,no
+glossier-generation-g-crush-like,5,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax,no
+glossier-generation-g-crush-like,6,octyldodecanol,Octyldodecanol,no
+glossier-generation-g-crush-like,7,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+glossier-generation-g-crush-like,8,vinyl-dimethicone-methicone-silsesquioxane-crosspolymer,Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer,no
+glossier-generation-g-crush-like,9,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+glossier-generation-g-crush-like,10,dimethicone-vinyl-dimethicone-crosspolymer,Dimethicone/Vinyl Dimethicone Crosspolymer,no
+glossier-generation-g-crush-like,11,mica,Mica,no
+glossier-generation-g-crush-like,12,c10-18-triglycerides,C10-18 Triglycerides,no
+glossier-generation-g-crush-like,13,stearoyl-inulin,Stearoyl Inulin,no
+glossier-generation-g-crush-like,14,synthetic-beeswax,Synthetic Beeswax,no
+glossier-generation-g-crush-like,15,disteardimonium-hectorite,Disteardimonium Hectorite,no
+glossier-generation-g-crush-like,16,c30-45-alkyl-cetearyl-dimethicone-crosspolymer,C30-45 Alkyl Cetearyl Dimethicone Crosspolymer,no
+glossier-generation-g-crush-like,17,lecithin,Lecithin,no
+glossier-generation-g-crush-like,18,phenoxyethanol,Phenoxyethanol,no
+glossier-generation-g-crush-like,19,flavor,Flavor/Aroma,no
+glossier-generation-g-crush-like,20,peg-10-dimethicone,PEG-10 Dimethicone,no
+glossier-generation-g-crush-like,21,peg-ppg-20-15-dimethicone,PEG/PPG-20/15 Dimethicone,no
+glossier-generation-g-crush-like,22,propylene-carbonate,Propylene Carbonate,no
+glossier-generation-g-crush-like,23,punica-granatum-extract,Punica Granatum Extract,no
+glossier-generation-g-crush-like,24,silica,Silica,no
+glossier-generation-g-crush-like,25,cyclohexasiloxane,Cyclohexasiloxane,no
+glossier-generation-g-crush-like,26,stearic-acid,Stearic Acid,no
+glossier-generation-g-crush-like,27,polyalkylene-oxide,Polyalkylene Oxide,no
+glossier-generation-g-crush-like,28,isoceteth-10,Isoceteth-10,no
+glossier-generation-g-crush-like,29,laureth-4,Laureth-4,no
+glossier-generation-g-crush-like,30,cyclotetrasiloxane,Cyclotetrasiloxane,no
+glossier-generation-g-crush-like,31,carthamus-tinctorius-safflower-seed-oil,Carthamus Tinctorius (Safflower) Seed Oil,no
+glossier-generation-g-crush-like,32,isopropyl-alcohol,Isopropyl Alcohol,no
+glossier-generation-g-crush-like,33,agave-tequilana-leaf-extract,Agave Tequilana Leaf Extract,no
+glossier-generation-g-crush-like,34,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-generation-g-crush-like,35,benzyl-alcohol,Benzyl Alcohol,no
+glossier-generation-g-crush-like,36,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+glossier-generation-g-crush-like,37,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-crush-like,38,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-crush-like,39,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-crush-like,40,ci-15850,Red 7 Lake (CI 15850),yes
+glossier-generation-g-crush-like,41,ci-73360,Red 30 Lake (CI 73360),yes
+glossier-generation-g-crush-like,42,ci-42090,Blue 1 Lake (CI 42090),yes
+glossier-generation-g-cake-jam-leo-zip,1,cyclopentasiloxane,Cyclopentasiloxane,no
+glossier-generation-g-cake-jam-leo-zip,2,pentaerythrityl-tetraisostearate,Pentaerythrityl Tetraisostearate,no
+glossier-generation-g-cake-jam-leo-zip,3,polyethylene,Polyethylene,no
+glossier-generation-g-cake-jam-leo-zip,4,ethylhexyl-stearate,Ethylhexyl Stearate,no
+glossier-generation-g-cake-jam-leo-zip,5,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax,no
+glossier-generation-g-cake-jam-leo-zip,6,octyldodecanol,Octyldodecanol,no
+glossier-generation-g-cake-jam-leo-zip,7,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+glossier-generation-g-cake-jam-leo-zip,8,vinyl-dimethicone-methicone-silsesquioxane-crosspolymer,Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer,no
+glossier-generation-g-cake-jam-leo-zip,9,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+glossier-generation-g-cake-jam-leo-zip,10,dimethicone-vinyl-dimethicone-crosspolymer,Dimethicone/Vinyl Dimethicone Crosspolymer,no
+glossier-generation-g-cake-jam-leo-zip,11,c10-18-triglycerides,C10-18 Triglycerides,no
+glossier-generation-g-cake-jam-leo-zip,12,stearoyl-inulin,Stearoyl Inulin,no
+glossier-generation-g-cake-jam-leo-zip,13,synthetic-beeswax,Synthetic Beeswax,no
+glossier-generation-g-cake-jam-leo-zip,14,mica,Mica,no
+glossier-generation-g-cake-jam-leo-zip,15,disteardimonium-hectorite,Disteardimonium Hectorite,no
+glossier-generation-g-cake-jam-leo-zip,16,c30-45-alkyl-cetearyl-dimethicone-crosspolymer,C30-45 Alkyl Cetearyl Dimethicone Crosspolymer,no
+glossier-generation-g-cake-jam-leo-zip,17,lecithin,Lecithin,no
+glossier-generation-g-cake-jam-leo-zip,18,phenoxyethanol,Phenoxyethanol,no
+glossier-generation-g-cake-jam-leo-zip,19,flavor,Flavor/Aroma,no
+glossier-generation-g-cake-jam-leo-zip,20,peg-10-dimethicone,PEG-10 Dimethicone,no
+glossier-generation-g-cake-jam-leo-zip,21,peg-ppg-20-15-dimethicone,PEG/PPG-20/15 Dimethicone,no
+glossier-generation-g-cake-jam-leo-zip,22,propylene-carbonate,Propylene Carbonate,no
+glossier-generation-g-cake-jam-leo-zip,23,punica-granatum-extract,Punica Granatum Extract,no
+glossier-generation-g-cake-jam-leo-zip,24,silica,Silica,no
+glossier-generation-g-cake-jam-leo-zip,25,cyclohexasiloxane,Cyclohexasiloxane,no
+glossier-generation-g-cake-jam-leo-zip,26,stearic-acid,Stearic Acid,no
+glossier-generation-g-cake-jam-leo-zip,27,polyalkylene-oxide,Polyalkylene Oxide,no
+glossier-generation-g-cake-jam-leo-zip,28,isoceteth-10,Isoceteth-10,no
+glossier-generation-g-cake-jam-leo-zip,29,laureth-4,Laureth-4,no
+glossier-generation-g-cake-jam-leo-zip,30,cyclotetrasiloxane,Cyclotetrasiloxane,no
+glossier-generation-g-cake-jam-leo-zip,31,carthamus-tinctorius-safflower-seed-oil,Carthamus Tinctorius (Safflower) Seed Oil,no
+glossier-generation-g-cake-jam-leo-zip,32,isopropyl-alcohol,Isopropyl Alcohol,no
+glossier-generation-g-cake-jam-leo-zip,33,agave-tequilana-leaf-extract,Agave Tequilana Leaf Extract,no
+glossier-generation-g-cake-jam-leo-zip,34,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-generation-g-cake-jam-leo-zip,35,benzyl-alcohol,Benzyl Alcohol,no
+glossier-generation-g-cake-jam-leo-zip,36,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+glossier-generation-g-cake-jam-leo-zip,37,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-cake-jam-leo-zip,38,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-cake-jam-leo-zip,39,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-cake-jam-leo-zip,40,ci-15850,Red 6/Red 7 Lake (CI 15850),yes
+glossier-generation-g-cake-jam-leo-zip,41,ci-73360,Red 30 Lake (CI 73360),yes
+glossier-generation-g-cake-jam-leo-zip,42,ci-17200,Red 33 Lake (CI 17200),yes
+glossier-generation-g-fuzz-malt,1,cyclopentasiloxane,Cyclopentasiloxane,no
+glossier-generation-g-fuzz-malt,2,pentaerythrityl-tetraisostearate,Pentaerythrityl Tetraisostearate,no
+glossier-generation-g-fuzz-malt,3,polyethylene,Polyethylene,no
+glossier-generation-g-fuzz-malt,4,ethylhexyl-stearate,Ethylhexyl Stearate,no
+glossier-generation-g-fuzz-malt,5,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax,no
+glossier-generation-g-fuzz-malt,6,octyldodecanol,Octyldodecanol,no
+glossier-generation-g-fuzz-malt,7,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+glossier-generation-g-fuzz-malt,8,vinyl-dimethicone-methicone-silsesquioxane-crosspolymer,Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer,no
+glossier-generation-g-fuzz-malt,9,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+glossier-generation-g-fuzz-malt,10,dimethicone-vinyl-dimethicone-crosspolymer,Dimethicone/Vinyl Dimethicone Crosspolymer,no
+glossier-generation-g-fuzz-malt,11,c10-18-triglycerides,C10-18 Triglycerides,no
+glossier-generation-g-fuzz-malt,12,stearoyl-inulin,Stearoyl Inulin,no
+glossier-generation-g-fuzz-malt,13,synthetic-beeswax,Synthetic Beeswax,no
+glossier-generation-g-fuzz-malt,14,lecithin,Lecithin,no
+glossier-generation-g-fuzz-malt,15,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-generation-g-fuzz-malt,16,mica,Mica,no
+glossier-generation-g-fuzz-malt,17,disteardimonium-hectorite,Disteardimonium Hectorite,no
+glossier-generation-g-fuzz-malt,18,c30-45-alkyl-cetearyl-dimethicone-crosspolymer,C30-45 Alkyl Cetearyl Dimethicone Crosspolymer,no
+glossier-generation-g-fuzz-malt,19,peg-10-dimethicone,PEG-10 Dimethicone,no
+glossier-generation-g-fuzz-malt,20,peg-ppg-20-15-dimethicone,PEG/PPG-20/15 Dimethicone,no
+glossier-generation-g-fuzz-malt,21,propylene-carbonate,Propylene Carbonate,no
+glossier-generation-g-fuzz-malt,22,punica-granatum-seed-oil,Punica Granatum Seed Oil,no
+glossier-generation-g-fuzz-malt,23,silica,Silica,no
+glossier-generation-g-fuzz-malt,24,stearic-acid,Stearic Acid,no
+glossier-generation-g-fuzz-malt,25,laureth-4,Laureth-4,no
+glossier-generation-g-fuzz-malt,26,carthamus-tinctorius-safflower-seed-oil,Carthamus Tinctorius (Safflower) Seed Oil,no
+glossier-generation-g-fuzz-malt,27,agave-tequilana-leaf-extract,Agave Tequilana Leaf Extract,no
+glossier-generation-g-fuzz-malt,28,phenoxyethanol,Phenoxyethanol,no
+glossier-generation-g-fuzz-malt,29,flavor,Flavor/Aroma,no
+glossier-generation-g-fuzz-malt,30,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+glossier-generation-g-fuzz-malt,31,ci-77491,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-fuzz-malt,32,ci-77492,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-fuzz-malt,33,ci-77499,"Iron Oxides (CI 77491, CI 77492, CI 77499)",yes
+glossier-generation-g-fuzz-malt,34,ci-15850,Red 7 Lake (CI 15850),yes
+glossier-generation-g-fuzz-malt,35,ci-42090,Blue 1 Lake (CI 42090),yes
+glossier-generation-g-punch,1,cyclopentasiloxane,Cyclopentasiloxane,no
+glossier-generation-g-punch,2,pentaerythrityl-tetraisostearate,Pentaerythrityl Tetraisostearate,no
+glossier-generation-g-punch,3,polyethylene,Polyethylene,no
+glossier-generation-g-punch,4,ethylhexyl-stearate,Ethylhexyl Stearate,no
+glossier-generation-g-punch,5,helianthus-annuus-sunflower-seed-wax,Helianthus Annuus (Sunflower) Seed Wax,no
+glossier-generation-g-punch,6,octyldodecanol,Octyldodecanol,no
+glossier-generation-g-punch,7,cetyl-peg-ppg-10-1-dimethicone,Cetyl PEG/PPG-10/1 Dimethicone,no
+glossier-generation-g-punch,8,vinyl-dimethicone-methicone-silsesquioxane-crosspolymer,Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer,no
+glossier-generation-g-punch,9,trimethylsiloxysilicate,Trimethylsiloxysilicate,no
+glossier-generation-g-punch,10,dimethicone-vinyl-dimethicone-crosspolymer,Dimethicone/Vinyl Dimethicone Crosspolymer,no
+glossier-generation-g-punch,11,c10-18-triglycerides,C10-18 Triglycerides,no
+glossier-generation-g-punch,12,stearoyl-inulin,Stearoyl Inulin,no
+glossier-generation-g-punch,13,synthetic-beeswax,Synthetic Beeswax,no
+glossier-generation-g-punch,14,lecithin,Lecithin,no
+glossier-generation-g-punch,15,tocopheryl-acetate,Tocopheryl Acetate,no
+glossier-generation-g-punch,16,mica,Mica,no
+glossier-generation-g-punch,17,disteardimonium-hectorite,Disteardimonium Hectorite,no
+glossier-generation-g-punch,18,c30-45-alkyl-cetearyl-dimethicone-crosspolymer,C30-45 Alkyl Cetearyl Dimethicone Crosspolymer,no
+glossier-generation-g-punch,19,peg-10-dimethicone,PEG-10 Dimethicone,no
+glossier-generation-g-punch,20,peg-ppg-20-15-dimethicone,PEG/PPG-20/15 Dimethicone,no
+glossier-generation-g-punch,21,propylene-carbonate,Propylene Carbonate,no
+glossier-generation-g-punch,22,punica-granatum-seed-oil,Punica Granatum Seed Oil,no
+glossier-generation-g-punch,23,silica,Silica,no
+glossier-generation-g-punch,24,stearic-acid,Stearic Acid,no
+glossier-generation-g-punch,25,laureth-4,Laureth-4,no
+glossier-generation-g-punch,26,carthamus-tinctorius-safflower-seed-oil,Carthamus Tinctorius (Safflower) Seed Oil,no
+glossier-generation-g-punch,27,agave-tequilana-leaf-extract,Agave Tequilana Leaf Extract,no
+glossier-generation-g-punch,28,alumina,Alumina,no
+glossier-generation-g-punch,29,magnesium-oxide,Magnesium Oxide,no
+glossier-generation-g-punch,30,phenoxyethanol,Phenoxyethanol,no
+glossier-generation-g-punch,31,flavor,Flavor/Aroma,no
+glossier-generation-g-punch,32,ci-77499,Iron Oxides (CI 77499),no
+glossier-generation-g-punch,33,ci-15850,Red 6 (CI 15850),no
+glossier-generation-g-punch,34,ci-73360,Red 30 Lake (CI 73360),no
+fenty-gloss-bomb-fenty-glow,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-fenty-glow,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-fenty-glow,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-fenty-glow,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-fenty-glow,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-fenty-glow,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-fenty-glow,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-fenty-glow,8,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-fenty-glow,9,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-fenty-glow,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-fenty-glow,11,mica,MICA,no
+fenty-gloss-bomb-fenty-glow,12,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-fenty-glow,13,silica,SILICA,no
+fenty-gloss-bomb-fenty-glow,14,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-fenty-glow,15,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-fenty-glow,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-fenty-glow,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-fenty-glow,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-fenty-glow,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-fenty-glow,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-fenty-glow,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-fenty-glow,22,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-fenty-glow,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-fenty-glow,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-fenty-glow,25,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-fenty-glow,26,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-fenty-glow,27,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-fenty-glow,28,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-fenty-glow,29,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-fenty-glow,30,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-fenty-glow,31,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-fenty-glow,32,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-fenty-glow,33,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-fenty-glow,34,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-fenty-glow,35,ci-77491,"IRON OXIDES (CI 77491, CI 77499)",no
+fenty-gloss-bomb-fenty-glow,36,ci-77499,"IRON OXIDES (CI 77491, CI 77499)",no
+fenty-gloss-bomb-fenty-glow,37,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-fenty-glow,38,limonene,LIMONENE,no
+fenty-gloss-bomb-fu-y,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-fu-y,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-fu-y,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-fu-y,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-fu-y,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-fu-y,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-fu-y,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-fu-y,8,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-fu-y,9,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-fu-y,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-fu-y,11,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-fu-y,12,silica,SILICA,no
+fenty-gloss-bomb-fu-y,13,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-fu-y,14,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-fu-y,15,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-fu-y,16,mica,MICA,no
+fenty-gloss-bomb-fu-y,17,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-fu-y,18,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-fu-y,19,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-fu-y,20,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-fu-y,21,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-fu-y,22,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-fu-y,23,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-fu-y,24,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-fu-y,25,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-fu-y,26,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-fu-y,27,limonene,LIMONENE,no
+fenty-gloss-bomb-fu-y,28,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-fu-y,29,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-fu-y,30,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-fu-y,31,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-fu-y,32,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-fu-y,33,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-fu-y,34,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-fu-y,35,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-fu-y,36,ci-15850,RED 7 LAKE (CI 15850),no
+fenty-gloss-bomb-fu-y,37,ci-77499,"IRON OXIDES (CI 77499, CI 77491)",no
+fenty-gloss-bomb-fu-y,38,ci-77491,"IRON OXIDES (CI 77499, CI 77491)",no
+fenty-gloss-bomb-fu-y,39,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-hot-chocolit,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-hot-chocolit,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-hot-chocolit,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-hot-chocolit,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-hot-chocolit,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-hot-chocolit,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-hot-chocolit,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-hot-chocolit,8,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-hot-chocolit,9,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-hot-chocolit,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-hot-chocolit,11,silica,SILICA,no
+fenty-gloss-bomb-hot-chocolit,12,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-hot-chocolit,13,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-hot-chocolit,14,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-hot-chocolit,15,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-hot-chocolit,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-hot-chocolit,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-hot-chocolit,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-hot-chocolit,19,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-hot-chocolit,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-hot-chocolit,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-hot-chocolit,22,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-hot-chocolit,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-hot-chocolit,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-hot-chocolit,25,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-hot-chocolit,26,mica,MICA,no
+fenty-gloss-bomb-hot-chocolit,27,limonene,LIMONENE,no
+fenty-gloss-bomb-hot-chocolit,28,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-hot-chocolit,29,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-hot-chocolit,30,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-hot-chocolit,31,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-hot-chocolit,32,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-hot-chocolit,33,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-hot-chocolit,34,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-hot-chocolit,35,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-hot-chocolit,36,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-hot-chocolit,37,ci-77491,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-hot-chocolit,38,ci-77492,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-hot-chocolit,39,ci-77499,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-weet-mouth,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-weet-mouth,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-weet-mouth,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-weet-mouth,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-weet-mouth,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-weet-mouth,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-weet-mouth,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-weet-mouth,8,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-weet-mouth,9,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-weet-mouth,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-weet-mouth,11,mica,MICA,no
+fenty-gloss-bomb-weet-mouth,12,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-weet-mouth,13,silica,SILICA,no
+fenty-gloss-bomb-weet-mouth,14,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-weet-mouth,15,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-weet-mouth,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-weet-mouth,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-weet-mouth,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-weet-mouth,19,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-weet-mouth,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-weet-mouth,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-weet-mouth,22,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-weet-mouth,23,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-weet-mouth,24,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-weet-mouth,25,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-weet-mouth,26,limonene,LIMONENE,no
+fenty-gloss-bomb-weet-mouth,27,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-weet-mouth,28,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-weet-mouth,29,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-weet-mouth,30,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-weet-mouth,31,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-weet-mouth,32,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-weet-mouth,33,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-weet-mouth,34,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-weet-mouth,35,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-weet-mouth,36,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-weet-mouth,37,ci-77491,IRON OXIDES (CI 77491),no
+fenty-gloss-bomb-glass-slipper,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-glass-slipper,2,hydrogenated-polyisobutene,HYDROGENATED POLYISOBUTENE,no
+fenty-gloss-bomb-glass-slipper,3,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-glass-slipper,4,simmondsia-chinensis-jojoba-seed-oil,SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL,no
+fenty-gloss-bomb-glass-slipper,5,ethylene-propylene-styrene-copolymer,ETHYLENE/PROPYLENE/STYRENE COPOLYMER,no
+fenty-gloss-bomb-glass-slipper,6,phenoxyethanol,PHENOXYETHANOL,no
+fenty-gloss-bomb-glass-slipper,7,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-glass-slipper,8,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-glass-slipper,9,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-glass-slipper,10,butylene-ethylene-styrene-copolymer,BUTYLENE/ETHYLENE/STYRENE COPOLYMER,no
+fenty-gloss-bomb-glass-slipper,11,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-glass-slipper,12,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-glass-slipper,13,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-glass-slipper,14,bht,BHT,no
+fenty-gloss-bomb-glass-slipper,15,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-glass-slipper,16,limonene,LIMONENE,no
+fenty-gloss-bomb-riri,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-riri,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-riri,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-riri,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-riri,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-riri,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-riri,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-riri,8,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-riri,9,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-riri,10,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-riri,11,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-riri,12,silica,SILICA,no
+fenty-gloss-bomb-riri,13,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-riri,14,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-riri,15,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-riri,16,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-riri,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-riri,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-riri,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-riri,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-riri,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-riri,22,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-riri,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-riri,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-riri,25,mica,MICA,no
+fenty-gloss-bomb-riri,26,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-riri,27,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-riri,28,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-riri,29,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-riri,30,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-riri,31,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-riri,32,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-riri,33,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-riri,34,bht,BHT,no
+fenty-gloss-bomb-riri,35,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-riri,36,limonene,LIMONENE,no
+fenty-gloss-bomb-riri,37,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-riri,38,ci-77491,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-riri,39,ci-77492,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-riri,40,ci-77499,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-riri,41,ci-15850,RED 7 LAKE (CI 15850),no
+fenty-gloss-bomb-hot-chocolit-fantasy,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-hot-chocolit-fantasy,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-hot-chocolit-fantasy,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-hot-chocolit-fantasy,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,8,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-hot-chocolit-fantasy,9,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-hot-chocolit-fantasy,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-hot-chocolit-fantasy,11,silica,SILICA,no
+fenty-gloss-bomb-hot-chocolit-fantasy,12,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,13,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,14,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,15,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-hot-chocolit-fantasy,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-hot-chocolit-fantasy,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-hot-chocolit-fantasy,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-hot-chocolit-fantasy,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,22,mica,MICA,no
+fenty-gloss-bomb-hot-chocolit-fantasy,23,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,24,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-hot-chocolit-fantasy,25,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,26,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,27,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,28,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,29,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-hot-chocolit-fantasy,30,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,31,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,32,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-hot-chocolit-fantasy,33,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-hot-chocolit-fantasy,34,bht,BHT,no
+fenty-gloss-bomb-hot-chocolit-fantasy,35,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,36,limonene,LIMONENE,no
+fenty-gloss-bomb-hot-chocolit-fantasy,37,ci-77491,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-hot-chocolit-fantasy,38,ci-77492,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-hot-chocolit-fantasy,39,ci-77499,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-hot-chocolit-fantasy,40,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-clf-candy-soda,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-clf-candy-soda,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-clf-candy-soda,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-clf-candy-soda,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-clf-candy-soda,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-clf-candy-soda,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-clf-candy-soda,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-clf-candy-soda,8,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-clf-candy-soda,9,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-clf-candy-soda,10,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-clf-candy-soda,11,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-clf-candy-soda,12,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-clf-candy-soda,13,silica,SILICA,no
+fenty-gloss-bomb-clf-candy-soda,14,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-clf-candy-soda,15,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-clf-candy-soda,16,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-clf-candy-soda,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-clf-candy-soda,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-clf-candy-soda,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-clf-candy-soda,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-clf-candy-soda,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-clf-candy-soda,22,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-clf-candy-soda,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-clf-candy-soda,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-clf-candy-soda,25,mica,MICA,no
+fenty-gloss-bomb-clf-candy-soda,26,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-clf-candy-soda,27,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-clf-candy-soda,28,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-clf-candy-soda,29,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-clf-candy-soda,30,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-clf-candy-soda,31,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-clf-candy-soda,32,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-clf-candy-soda,33,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-clf-candy-soda,34,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-clf-candy-soda,35,limonene,LIMONENE,no
+fenty-gloss-bomb-clf-candy-soda,36,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-clf-candy-soda,37,ci-77491,"IRON OXIDES (CI 77491, CI 77499)",no
+fenty-gloss-bomb-clf-candy-soda,38,ci-77499,"IRON OXIDES (CI 77491, CI 77499)",no
+fenty-gloss-bomb-clf-candy-soda,39,ci-15850,RED 7 LAKE (CI 15850),no
+fenty-gloss-bomb-clf-candy-soda,40,ci-75470,CARMINE (CI 75470),no
+fenty-gloss-bomb-clf-candy-soda,41,ci-19140,YELLOW 5 LAKE (CI 19140),no
+fenty-gloss-bomb-fuchsia-flex,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-fuchsia-flex,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-fuchsia-flex,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-fuchsia-flex,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-fuchsia-flex,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-fuchsia-flex,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-fuchsia-flex,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-fuchsia-flex,8,silica,SILICA,no
+fenty-gloss-bomb-fuchsia-flex,9,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-fuchsia-flex,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-fuchsia-flex,11,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-fuchsia-flex,12,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-fuchsia-flex,13,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-fuchsia-flex,14,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-fuchsia-flex,15,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-fuchsia-flex,16,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-fuchsia-flex,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-fuchsia-flex,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-fuchsia-flex,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-fuchsia-flex,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-fuchsia-flex,21,mica,MICA,no
+fenty-gloss-bomb-fuchsia-flex,22,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-fuchsia-flex,23,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-fuchsia-flex,24,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-fuchsia-flex,25,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-fuchsia-flex,26,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-fuchsia-flex,27,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-fuchsia-flex,28,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-fuchsia-flex,29,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-fuchsia-flex,30,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-fuchsia-flex,31,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-fuchsia-flex,32,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-fuchsia-flex,33,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-fuchsia-flex,34,bht,BHT,no
+fenty-gloss-bomb-fuchsia-flex,35,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-fuchsia-flex,36,limonene,LIMONENE,no
+fenty-gloss-bomb-fuchsia-flex,37,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-fuchsia-flex,38,ci-77491,IRON OXIDES (CI 77491),no
+fenty-gloss-bomb-fuchsia-flex,39,ci-15850,RED 7 LAKE (CI 15850),no
+fenty-gloss-bomb-fuchsia-flex,40,ci-17200,RED 33 LAKE (CI 17200),no
+fenty-gloss-bomb-champ-stamp-fantasy,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-champ-stamp-fantasy,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-champ-stamp-fantasy,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-champ-stamp-fantasy,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-champ-stamp-fantasy,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-champ-stamp-fantasy,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-champ-stamp-fantasy,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,8,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-champ-stamp-fantasy,9,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-champ-stamp-fantasy,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-champ-stamp-fantasy,11,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,12,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,13,silica,SILICA,no
+fenty-gloss-bomb-champ-stamp-fantasy,14,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,15,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-champ-stamp-fantasy,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-champ-stamp-fantasy,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-champ-stamp-fantasy,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-champ-stamp-fantasy,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-champ-stamp-fantasy,21,mica,MICA,no
+fenty-gloss-bomb-champ-stamp-fantasy,22,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,23,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,24,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-champ-stamp-fantasy,25,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,26,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-champ-stamp-fantasy,27,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,28,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-champ-stamp-fantasy,29,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-champ-stamp-fantasy,30,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,31,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,32,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-champ-stamp-fantasy,33,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-champ-stamp-fantasy,34,bht,BHT,no
+fenty-gloss-bomb-champ-stamp-fantasy,35,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-champ-stamp-fantasy,36,limonene,LIMONENE,no
+fenty-gloss-bomb-champ-stamp-fantasy,37,ci-77491,IRON OXIDES (CI 77491),no
+fenty-gloss-bomb-champ-stamp-fantasy,38,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-mango-margz,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-mango-margz,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-mango-margz,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-mango-margz,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-mango-margz,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-mango-margz,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-mango-margz,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-mango-margz,8,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-mango-margz,9,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-mango-margz,10,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-mango-margz,11,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-mango-margz,12,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-mango-margz,13,silica,SILICA,no
+fenty-gloss-bomb-mango-margz,14,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-mango-margz,15,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-mango-margz,16,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-mango-margz,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-mango-margz,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-mango-margz,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-mango-margz,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-mango-margz,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-mango-margz,22,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-mango-margz,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-mango-margz,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-mango-margz,25,mica,MICA,no
+fenty-gloss-bomb-mango-margz,26,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-mango-margz,27,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-mango-margz,28,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-mango-margz,29,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-mango-margz,30,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-mango-margz,31,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-mango-margz,32,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-mango-margz,33,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-mango-margz,34,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-mango-margz,35,limonene,LIMONENE,no
+fenty-gloss-bomb-mango-margz,36,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-mango-margz,37,ci-15850,RED 6 (CI 15850),no
+fenty-gloss-bomb-mango-margz,38,ci-19140,YELLOW 5 LAKE (CI 19140),no
+fenty-gloss-bomb-mango-margz,39,ci-15985,YELLOW 6 LAKE (CI 15985),no
+fenty-gloss-bomb-mango-margz,40,ci-77491,IRON OXIDES (CI 77491),no
+fenty-gloss-bomb-rose-amber,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-rose-amber,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-rose-amber,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-rose-amber,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-rose-amber,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-rose-amber,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-rose-amber,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-rose-amber,8,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-rose-amber,9,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-rose-amber,10,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-rose-amber,11,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-rose-amber,12,mica,MICA,no
+fenty-gloss-bomb-rose-amber,13,silica,SILICA,no
+fenty-gloss-bomb-rose-amber,14,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-rose-amber,15,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-rose-amber,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-rose-amber,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-rose-amber,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-rose-amber,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-rose-amber,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-rose-amber,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-rose-amber,22,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-rose-amber,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-rose-amber,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-rose-amber,25,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-rose-amber,26,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-rose-amber,27,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-rose-amber,28,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-rose-amber,29,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-rose-amber,30,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-rose-amber,31,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-rose-amber,32,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-rose-amber,33,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-rose-amber,34,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-rose-amber,35,limonene,LIMONENE,no
+fenty-gloss-bomb-rose-amber,36,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-rose-amber,37,ci-77491,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-rose-amber,38,ci-77492,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-rose-amber,39,ci-77499,"IRON OXIDES (CI 77491, CI 77492, CI 77499)",no
+fenty-gloss-bomb-gimme-space,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-gimme-space,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-gimme-space,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-gimme-space,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-gimme-space,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-gimme-space,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-gimme-space,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-gimme-space,8,silica,SILICA,no
+fenty-gloss-bomb-gimme-space,9,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-gimme-space,10,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-gimme-space,11,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-gimme-space,12,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-gimme-space,13,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-gimme-space,14,mica,MICA,no
+fenty-gloss-bomb-gimme-space,15,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-gimme-space,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-gimme-space,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-gimme-space,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-gimme-space,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-gimme-space,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-gimme-space,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-gimme-space,22,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-gimme-space,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-gimme-space,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-gimme-space,25,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-gimme-space,26,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-gimme-space,27,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-gimme-space,28,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-gimme-space,29,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-gimme-space,30,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-gimme-space,31,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-gimme-space,32,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-gimme-space,33,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-gimme-space,34,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-gimme-space,35,limonene,LIMONENE,no
+fenty-gloss-bomb-gimme-space,36,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-gimme-space,37,ci-77491,IRON OXIDES (CI 77491),no
+fenty-gloss-bomb-grape-splash,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-grape-splash,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-grape-splash,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-grape-splash,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-grape-splash,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-grape-splash,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-grape-splash,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-grape-splash,8,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-grape-splash,9,silica,SILICA,no
+fenty-gloss-bomb-grape-splash,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-grape-splash,11,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-grape-splash,12,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-grape-splash,13,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-grape-splash,14,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-grape-splash,15,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-grape-splash,16,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-grape-splash,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-grape-splash,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-grape-splash,19,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-grape-splash,20,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-grape-splash,21,mica,MICA,no
+fenty-gloss-bomb-grape-splash,22,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-grape-splash,23,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-grape-splash,24,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-grape-splash,25,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-grape-splash,26,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-grape-splash,27,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-grape-splash,28,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-grape-splash,29,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-grape-splash,30,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-grape-splash,31,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-grape-splash,32,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-grape-splash,33,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-grape-splash,34,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-grape-splash,35,limonene,LIMONENE,no
+fenty-gloss-bomb-grape-splash,36,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-grape-splash,37,ci-75470,CARMINE (CI 75470),no
+fenty-gloss-bomb-grape-splash,38,ci-77491,IRON OXIDES (CI 77491),no
+fenty-gloss-bomb-pink-dragonfly,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-pink-dragonfly,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-pink-dragonfly,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-pink-dragonfly,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-pink-dragonfly,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-pink-dragonfly,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-pink-dragonfly,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-pink-dragonfly,8,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-pink-dragonfly,9,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-pink-dragonfly,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-pink-dragonfly,11,mica,MICA,no
+fenty-gloss-bomb-pink-dragonfly,12,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-pink-dragonfly,13,silica,SILICA,no
+fenty-gloss-bomb-pink-dragonfly,14,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-pink-dragonfly,15,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-pink-dragonfly,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-pink-dragonfly,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-pink-dragonfly,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-pink-dragonfly,19,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-pink-dragonfly,20,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-pink-dragonfly,21,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-pink-dragonfly,22,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-pink-dragonfly,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-pink-dragonfly,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-pink-dragonfly,25,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-pink-dragonfly,26,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-pink-dragonfly,27,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-pink-dragonfly,28,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-pink-dragonfly,29,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-pink-dragonfly,30,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-pink-dragonfly,31,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-pink-dragonfly,32,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-pink-dragonfly,33,bht,BHT,no
+fenty-gloss-bomb-pink-dragonfly,34,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-pink-dragonfly,35,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-pink-dragonfly,36,limonene,LIMONENE,no
+fenty-gloss-bomb-pink-dragonfly,37,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-pink-dragonfly,38,ci-77491,IRON OXIDES (CI 77491),no
+fenty-gloss-bomb-pink-dragonfly,39,ci-15850,RED 7 LAKE (CI 15850),no
+fenty-gloss-bomb-caviar-crystalz,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-caviar-crystalz,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-caviar-crystalz,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-caviar-crystalz,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-caviar-crystalz,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-caviar-crystalz,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-caviar-crystalz,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-caviar-crystalz,8,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-caviar-crystalz,9,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-caviar-crystalz,10,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-caviar-crystalz,11,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-caviar-crystalz,12,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-caviar-crystalz,13,silica,SILICA,no
+fenty-gloss-bomb-caviar-crystalz,14,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-caviar-crystalz,15,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-caviar-crystalz,16,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-caviar-crystalz,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-caviar-crystalz,18,mica,MICA,no
+fenty-gloss-bomb-caviar-crystalz,19,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-caviar-crystalz,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-caviar-crystalz,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-caviar-crystalz,22,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-caviar-crystalz,23,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-caviar-crystalz,24,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-caviar-crystalz,25,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-caviar-crystalz,26,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-caviar-crystalz,27,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-caviar-crystalz,28,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-caviar-crystalz,29,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-caviar-crystalz,30,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-caviar-crystalz,31,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-caviar-crystalz,32,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-caviar-crystalz,33,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-caviar-crystalz,34,benzaldehyde,BENZALDEHYDE,no
+fenty-gloss-bomb-caviar-crystalz,35,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-caviar-crystalz,36,citrus-aurantium-peel-oil,CITRUS AURANTIUM PEEL OIL,no
+fenty-gloss-bomb-caviar-crystalz,37,limonene,LIMONENE,no
+fenty-gloss-bomb-caviar-crystalz,38,vanillin,VANILLIN,no
+fenty-gloss-bomb-caviar-crystalz,39,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-caviar-crystalz,40,ci-77510,FERRIC FERROCYANIDE (CI 77510),no
+fenty-gloss-bomb-caviar-crystalz,41,ci-77491,"IRON OXIDES (CI 77491, CI 77499)",no
+fenty-gloss-bomb-caviar-crystalz,42,ci-77499,"IRON OXIDES (CI 77491, CI 77499)",no
+fenty-gloss-bomb-diamond-milk,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-diamond-milk,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-diamond-milk,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-diamond-milk,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-diamond-milk,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-diamond-milk,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-diamond-milk,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-diamond-milk,8,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-diamond-milk,9,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-diamond-milk,10,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-diamond-milk,11,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-diamond-milk,12,silica,SILICA,no
+fenty-gloss-bomb-diamond-milk,13,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-diamond-milk,14,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-diamond-milk,15,mica,MICA,no
+fenty-gloss-bomb-diamond-milk,16,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-diamond-milk,17,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-diamond-milk,18,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-diamond-milk,19,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-diamond-milk,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-diamond-milk,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-diamond-milk,22,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-diamond-milk,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-diamond-milk,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-diamond-milk,25,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-diamond-milk,26,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-diamond-milk,27,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-diamond-milk,28,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-diamond-milk,29,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-diamond-milk,30,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-diamond-milk,31,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-diamond-milk,32,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-diamond-milk,33,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-diamond-milk,34,benzaldehyde,BENZALDEHYDE,no
+fenty-gloss-bomb-diamond-milk,35,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-diamond-milk,36,citrus-aurantium-peel-oil,CITRUS AURANTIUM PEEL OIL,no
+fenty-gloss-bomb-diamond-milk,37,limonene,LIMONENE,no
+fenty-gloss-bomb-diamond-milk,38,vanillin,VANILLIN,no
+fenty-gloss-bomb-diamond-milk,39,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-cherry-amor,1,polybutene,POLYBUTENE,no
+fenty-gloss-bomb-cherry-amor,2,octyldodecanol,OCTYLDODECANOL,no
+fenty-gloss-bomb-cherry-amor,3,bis-diglyceryl-polyacyladipate-2,BIS-DIGLYCERYL POLYACYLADIPATE-2,no
+fenty-gloss-bomb-cherry-amor,4,tricaprylin,TRICAPRYLIN,no
+fenty-gloss-bomb-cherry-amor,5,microcrystalline-wax,CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE,no
+fenty-gloss-bomb-cherry-amor,6,polyethylene,POLYETHYLENE,no
+fenty-gloss-bomb-cherry-amor,7,silica-dimethyl-silylate,SILICA DIMETHYL SILYLATE,no
+fenty-gloss-bomb-cherry-amor,8,butyrospermum-parkii-shea-butter,BUTYROSPERMUM PARKII (SHEA) BUTTER,no
+fenty-gloss-bomb-cherry-amor,9,sorbitan-oleate,SORBITAN OLEATE,no
+fenty-gloss-bomb-cherry-amor,10,vp-eicosene-copolymer,VP/EICOSENE COPOLYMER,no
+fenty-gloss-bomb-cherry-amor,11,vp-hexadecene-copolymer,VP/HEXADECENE COPOLYMER,no
+fenty-gloss-bomb-cherry-amor,12,mica,MICA,no
+fenty-gloss-bomb-cherry-amor,13,silica,SILICA,no
+fenty-gloss-bomb-cherry-amor,14,octyldodecyl-neopentanoate,OCTYLDODECYL NEOPENTANOATE,no
+fenty-gloss-bomb-cherry-amor,15,ethylhexyl-palmitate,ETHYLHEXYL PALMITATE,no
+fenty-gloss-bomb-cherry-amor,16,caprylyl-glycol,CAPRYLYL GLYCOL,no
+fenty-gloss-bomb-cherry-amor,17,butyrospermum-parkii-shea-butter-unsaponifiables,BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES,no
+fenty-gloss-bomb-cherry-amor,18,flavor,AROMA/FLAVOR,no
+fenty-gloss-bomb-cherry-amor,19,fragrance,PARFUM/FRAGRANCE,no
+fenty-gloss-bomb-cherry-amor,20,tribehenin,TRIBEHENIN,no
+fenty-gloss-bomb-cherry-amor,21,pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE,no
+fenty-gloss-bomb-cherry-amor,22,sorbitan-isostearate,SORBITAN ISOSTEARATE,no
+fenty-gloss-bomb-cherry-amor,23,tocopherol,TOCOPHEROL,no
+fenty-gloss-bomb-cherry-amor,24,tocopheryl-acetate,TOCOPHERYL ACETATE,no
+fenty-gloss-bomb-cherry-amor,25,synthetic-fluorphlogopite,SYNTHETIC FLUORPHLOGOPITE,no
+fenty-gloss-bomb-cherry-amor,26,tetrahexyldecyl-ascorbate,TETRAHEXYLDECYL ASCORBATE,no
+fenty-gloss-bomb-cherry-amor,27,lactic-acid,LACTIC ACID,no
+fenty-gloss-bomb-cherry-amor,28,calcium-sodium-borosilicate,CALCIUM SODIUM BOROSILICATE,no
+fenty-gloss-bomb-cherry-amor,29,calcium-aluminum-borosilicate,CALCIUM ALUMINUM BOROSILICATE,no
+fenty-gloss-bomb-cherry-amor,30,polyethylene-terephthalate,POLYETHYLENE TEREPHTHALATE,no
+fenty-gloss-bomb-cherry-amor,31,palmitoyl-tripeptide-1,PALMITOYL TRIPEPTIDE-1,no
+fenty-gloss-bomb-cherry-amor,32,acrylates-copolymer,ACRYLATES COPOLYMER,no
+fenty-gloss-bomb-cherry-amor,33,tin-oxide,TIN OXIDE,no
+fenty-gloss-bomb-cherry-amor,34,benzyl-benzoate,BENZYL BENZOATE,no
+fenty-gloss-bomb-cherry-amor,35,limonene,LIMONENE,no
+fenty-gloss-bomb-cherry-amor,36,titanium-dioxide,TITANIUM DIOXIDE (CI 77891),no
+fenty-gloss-bomb-cherry-amor,37,ci-77491,"IRON OXIDES (CI 77491, CI 77499)",no
+fenty-gloss-bomb-cherry-amor,38,ci-77499,"IRON OXIDES (CI 77491, CI 77499)",no
+fenty-gloss-bomb-cherry-amor,39,ci-17200,RED 33 LAKE (CI 17200),no
+fenty-gloss-bomb-cherry-amor,40,ci-15850,RED 7 LAKE (CI 15850),no
