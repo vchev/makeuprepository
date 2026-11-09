@@ -16,4 +16,18 @@ assert normalize("Euphorbia Cerifera (candelilla) Wax Candelilla Cera Cire De Ca
 assert normalize("PARFUM (FRAGRANCE)")[0][0] == "fragrance"
 dior = items_from_label("A • B (C, D) • [+/- CI 77891 (TITANIUM DIOXIDE) • CI 15850 (RED 7)]")
 assert dior == [("A", "no"), ("B (C, D)", "no"), ("CI 77891 (TITANIUM DIOXIDE)", "yes"), ("CI 15850 (RED 7)", "yes")], dior
+# Several CI numbers in one item, written with slashes or bare numbers.
+assert [i for i, _, _ in normalize("CI 77491/77492/77499 (Iron Oxides)")] == ["ci-77491", "ci-77492", "ci-77499"]
+assert [i for i, _, _ in normalize("Iron Oxides (CI 77491, 77492, 77499)")] == ["ci-77491", "ci-77492", "ci-77499"]
+# Latin duplicates after a slash, footnote stars, and "Polyglyceryl-3 Beeswax" is not beeswax.
+assert normalize("Helianthus Annuus (Sunflower) Seed Wax/Helianthus Annuus Seed Cera")[0][0] == "helianthus-annuus-sunflower-seed-wax"
+assert normalize("POLYGLYCERYL-3 BEESWAX")[0][0] == "polyglyceryl-3-beeswax"
+assert normalize("Hordeum Distichon (barley) Extract Extrait D'orge À Deux Rangs")[0][0] == "hordeum-distichon-barley-extract"
+for label in ["A, B. +/- (May Contain) Mica, Titanium Dioxide (CI 77891).",
+              "A, B [May Contain: Mica, Titanium Dioxide (CI 77891)]",
+              "A, B, [+/ -: Mica, Ci 77891]",
+              "A, B. May Contain/Peut Contenir: (+/-) Mica, CI 77891 (Titanium Dioxide).",
+              "A, B* [+/- MAY CONTAIN / PEUT CONTENIR, MICA, CI 77891/TITANIUM DIOXIDE]"]:
+    got = items_from_label(label)
+    assert [n for n, _ in got][:2] == ["A", "B"] and [m for _, m in got] == ["no", "no", "yes", "yes"], (label, got)
 print("all tests passed")

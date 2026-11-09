@@ -135,10 +135,10 @@ ci-77499,oral,No concerns found,Approved for this use by a regulator (US_FDA),cf
 ci-77499,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
 ci-77499,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-77499,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
-ci-77742,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77742,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77742,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2775,2026-11-09
+ci-77742,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2775,2026-11-09
 ci-77742,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77742,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77742,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2775,2026-11-09
 ci-16035,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2340,2026-11-09
 ci-16035,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2340,2026-11-09
 ci-16035,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -247,8 +247,8 @@ pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,oral,No concerns found,St
 pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,dermal,No concerns found,Studies or assessments found no harm,cir-656,2026-11-09
 pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-45410,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-45410,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-45410,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2327;cfr-74-2328,2026-11-09
+ci-45410,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2327;cfr-74-2328,2026-11-09
 ci-45410,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-45410,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-17200,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2333,2026-11-09
@@ -283,18 +283,18 @@ barium-sulfate,oral,No concerns found,Studies or assessments found no harm,cir-6
 barium-sulfate,dermal,No concerns found,Studies or assessments found no harm,cir-676,2026-11-09
 barium-sulfate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 barium-sulfate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-75470,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-75470,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-75470,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2087,2026-11-09
+ci-75470,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2087,2026-11-09
 ci-75470,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-75470,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-45380,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-45380,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-75470,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2087,2026-11-09
+ci-45380,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2321;cfr-74-2322,2026-11-09
+ci-45380,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2321;cfr-74-2322,2026-11-09
 ci-45380,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-45380,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77163,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77163,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77163,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2162,2026-11-09
+ci-77163,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2162,2026-11-09
 ci-77163,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77163,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77163,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2162,2026-11-09
 polybutene,oral,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
 polybutene,dermal,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
 polybutene,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
@@ -415,8 +415,8 @@ phytosteryl-octyldodecyl-lauroyl-glutamate,oral,No concerns found,Studies or ass
 phytosteryl-octyldodecyl-lauroyl-glutamate,dermal,No concerns found,Studies or assessments found no harm,cir-844,2026-11-09
 phytosteryl-octyldodecyl-lauroyl-glutamate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 phytosteryl-octyldodecyl-lauroyl-glutamate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-polyglyceryl-2-isostearate-dimer-dilinoleate-copolymer,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-polyglyceryl-2-isostearate-dimer-dilinoleate-copolymer,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-2-isostearate-dimer-dilinoleate-copolymer,oral,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-2-isostearate-dimer-dilinoleate-copolymer,dermal,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
 polyglyceryl-2-isostearate-dimer-dilinoleate-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 polyglyceryl-2-isostearate-dimer-dilinoleate-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 behenyl-behenate,oral,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
@@ -652,6 +652,882 @@ citrus-aurantium-peel-oil,dermal,No research found,No relevant studies or regula
 citrus-aurantium-peel-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 citrus-aurantium-peel-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
 ci-77510,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77510,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77510,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2299,2026-11-09
 ci-77510,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
-ci-77510,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77510,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2299,2026-11-09
+vegetable-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+vegetable-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+vegetable-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+vegetable-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ozokerite,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ozokerite,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ozokerite,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ozokerite,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-vegetable-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+hydrogenated-vegetable-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+hydrogenated-vegetable-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-vegetable-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+butyrospermum-parkii-shea-butter-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+butyrospermum-parkii-shea-butter-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+butyrospermum-parkii-shea-butter-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+butyrospermum-parkii-shea-butter-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+limnanthes-alba-meadowfoam-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+limnanthes-alba-meadowfoam-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+limnanthes-alba-meadowfoam-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+limnanthes-alba-meadowfoam-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77400,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2646;cfr-73-2647,2026-11-09
+ci-77400,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2646;cfr-73-2647,2026-11-09
+ci-77400,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77400,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2646;cfr-73-2647,2026-11-09
+ci-45370,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2255,2026-11-09
+ci-45370,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-74-2255,2026-11-09
+ci-45370,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-45370,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trioctyldodecyl-citrate,oral,No concerns found,Studies or assessments found no harm,cir-590,2026-11-09
+trioctyldodecyl-citrate,dermal,No concerns found,Studies or assessments found no harm,cir-590,2026-11-09
+trioctyldodecyl-citrate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trioctyldodecyl-citrate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+castor-isostearate-succinate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+castor-isostearate-succinate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+castor-isostearate-succinate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+castor-isostearate-succinate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-polydecene,oral,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+hydrogenated-polydecene,dermal,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+hydrogenated-polydecene,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-polydecene,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triticum-vulgare-wheat-germ-extract,oral,No concerns found,Studies or assessments found no harm,cir-795,2026-11-09
+triticum-vulgare-wheat-germ-extract,dermal,No concerns found,Studies or assessments found no harm,cir-795,2026-11-09
+triticum-vulgare-wheat-germ-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triticum-vulgare-wheat-germ-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+olea-europaea-olive-fruit-extract,oral,No concerns found,Studies or assessments found no harm,cir-856,2026-11-09
+olea-europaea-olive-fruit-extract,dermal,No concerns found,Studies or assessments found no harm,cir-856,2026-11-09
+olea-europaea-olive-fruit-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+olea-europaea-olive-fruit-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triticum-vulgare-wheat-bran-extract,oral,No concerns found,Studies or assessments found no harm,cir-795,2026-11-09
+triticum-vulgare-wheat-bran-extract,dermal,No concerns found,Studies or assessments found no harm,cir-795,2026-11-09
+triticum-vulgare-wheat-bran-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triticum-vulgare-wheat-bran-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+astrocaryum-murumuru-seed-butter,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+astrocaryum-murumuru-seed-butter,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+astrocaryum-murumuru-seed-butter,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+astrocaryum-murumuru-seed-butter,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+prunus-armeniaca-apricot-kernel-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+prunus-armeniaca-apricot-kernel-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+prunus-armeniaca-apricot-kernel-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+prunus-armeniaca-apricot-kernel-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cholesterol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cholesterol,dermal,No concerns found,Studies or assessments found no harm,cir-178,2026-11-09
+cholesterol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cholesterol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hordeum-distichon-barley-extract,oral,Unclear,"Harm reported only in limited, high-dose or inconclusive evidence",cir-824,2026-11-09
+hordeum-distichon-barley-extract,dermal,Unclear,"Harm reported only in limited, high-dose or inconclusive evidence",cir-824,2026-11-09
+hordeum-distichon-barley-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hordeum-distichon-barley-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceramide-ng,oral,No concerns found,Studies or assessments found no harm,cir-674,2026-11-09
+ceramide-ng,dermal,No concerns found,Studies or assessments found no harm,cir-674,2026-11-09
+ceramide-ng,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceramide-ng,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+palmitic-acid,oral,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+palmitic-acid,dermal,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+palmitic-acid,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+palmitic-acid,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lauryl-pca,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lauryl-pca,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lauryl-pca,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lauryl-pca,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lauryl-methacrylate-glycol-dimethacrylate-crosspolymer,oral,No concerns found,Studies or assessments found no harm,cir-763,2026-11-09
+lauryl-methacrylate-glycol-dimethacrylate-crosspolymer,dermal,No concerns found,Studies or assessments found no harm,cir-763,2026-11-09
+lauryl-methacrylate-glycol-dimethacrylate-crosspolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lauryl-methacrylate-glycol-dimethacrylate-crosspolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+linoleic-acid,oral,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+linoleic-acid,dermal,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+linoleic-acid,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+linoleic-acid,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glyceryl-stearate,oral,No concerns found,Studies or assessments found no harm,cir-706,2026-11-09
+glyceryl-stearate,dermal,No concerns found,Studies or assessments found no harm,cir-706,2026-11-09
+glyceryl-stearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glyceryl-stearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+oleic-acid,oral,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+oleic-acid,dermal,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+oleic-acid,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+oleic-acid,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+butylene-glycol,oral,No concerns found,Studies or assessments found no harm,cir-193,2026-11-09
+butylene-glycol,dermal,No concerns found,Studies or assessments found no harm,cir-193,2026-11-09
+butylene-glycol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+butylene-glycol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-hyaluronate,oral,No concerns found,Studies or assessments found no harm,cir-dd27a62b,2026-11-09
+sodium-hyaluronate,dermal,No concerns found,Studies or assessments found no harm,cir-dd27a62b,2026-11-09
+sodium-hyaluronate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-hyaluronate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+potassium-sulfate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+potassium-sulfate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+potassium-sulfate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+potassium-sulfate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aluminum-hydroxide,oral,No concerns found,Studies or assessments found no harm,cir-643,2026-11-09
+aluminum-hydroxide,dermal,No concerns found,Studies or assessments found no harm,cir-643,2026-11-09
+aluminum-hydroxide,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aluminum-hydroxide,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triisostearyl-citrate,oral,No concerns found,Studies or assessments found no harm,cir-590,2026-11-09
+triisostearyl-citrate,dermal,No concerns found,Studies or assessments found no harm,cir-590,2026-11-09
+triisostearyl-citrate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triisostearyl-citrate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+punica-granatum-pomegranate-sterols,oral,No concerns found,Studies or assessments found no harm,cir-651,2026-11-09
+punica-granatum-pomegranate-sterols,dermal,No concerns found,Studies or assessments found no harm,cir-651,2026-11-09
+punica-granatum-pomegranate-sterols,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+punica-granatum-pomegranate-sterols,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aloe-barbadensis-leaf-extract,oral,No concerns found,Studies or assessments found no harm,cir-274,2026-11-09
+aloe-barbadensis-leaf-extract,dermal,No concerns found,Studies or assessments found no harm,cir-274,2026-11-09
+aloe-barbadensis-leaf-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aloe-barbadensis-leaf-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+phytosterols,oral,No concerns found,Studies or assessments found no harm,cir-651,2026-11-09
+phytosterols,dermal,No concerns found,Studies or assessments found no harm,cir-651,2026-11-09
+phytosterols,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+phytosterols,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+linolenic-acid,oral,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+linolenic-acid,dermal,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+linolenic-acid,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+linolenic-acid,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-castor-oil,oral,No concerns found,Studies or assessments found no harm,cir-353,2026-11-09
+hydrogenated-castor-oil,dermal,No concerns found,Studies or assessments found no harm,cir-353,2026-11-09
+hydrogenated-castor-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-castor-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isododecane,oral,No concerns found,Studies or assessments found no harm,cir-579,2026-11-09
+isododecane,dermal,No concerns found,Studies or assessments found no harm,cir-579,2026-11-09
+isododecane,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isododecane,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-10-pentaisostearate,oral,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-10-pentaisostearate,dermal,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-10-pentaisostearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-10-pentaisostearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-poly-c6-14-olefin,oral,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+hydrogenated-poly-c6-14-olefin,dermal,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+hydrogenated-poly-c6-14-olefin,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-poly-c6-14-olefin,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cetearyl-behenate,oral,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+cetearyl-behenate,dermal,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+cetearyl-behenate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cetearyl-behenate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dimethicone,oral,No concerns found,Studies or assessments found no harm,cir-807,2026-11-09
+dimethicone,dermal,No concerns found,Studies or assessments found no harm,cir-807,2026-11-09
+dimethicone,inhalation,Unclear,"Harm reported only in limited, high-dose or inconclusive evidence",cir-807,2026-11-09
+dimethicone,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dimethicone-crosspolymer,oral,No concerns found,Studies or assessments found no harm,cir-619,2026-11-09
+dimethicone-crosspolymer,dermal,No concerns found,Studies or assessments found no harm,cir-619,2026-11-09
+dimethicone-crosspolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dimethicone-crosspolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isopropyl-titanium-triisostearate,oral,No concerns found,Studies or assessments found no harm,cir-762,2026-11-09
+isopropyl-titanium-triisostearate,dermal,No concerns found,Studies or assessments found no harm,cir-762,2026-11-09
+isopropyl-titanium-triisostearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isopropyl-titanium-triisostearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dicaprylyl-carbonate,oral,No concerns found,Studies or assessments found no harm,cir-723,2026-11-09
+dicaprylyl-carbonate,dermal,No concerns found,Studies or assessments found no harm,cir-723,2026-11-09
+dicaprylyl-carbonate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dicaprylyl-carbonate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c18-36-acid-triglyceride,oral,No concerns found,Studies or assessments found no harm,cir-742,2026-11-09
+c18-36-acid-triglyceride,dermal,No concerns found,Studies or assessments found no harm,cir-742,2026-11-09
+c18-36-acid-triglyceride,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c18-36-acid-triglyceride,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isohexadecane,oral,No concerns found,Studies or assessments found no harm,cir-579,2026-11-09
+isohexadecane,dermal,No concerns found,Studies or assessments found no harm,cir-579,2026-11-09
+isohexadecane,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isohexadecane,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+peg-30-dipolyhydroxystearate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+peg-30-dipolyhydroxystearate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+peg-30-dipolyhydroxystearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+peg-30-dipolyhydroxystearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stearalkonium-hectorite,oral,No concerns found,Studies or assessments found no harm,cir-608,2026-11-09
+stearalkonium-hectorite,dermal,No concerns found,Studies or assessments found no harm,cir-608,2026-11-09
+stearalkonium-hectorite,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stearalkonium-hectorite,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+soluble-collagen,oral,No concerns found,Studies or assessments found no harm,cir-744,2026-11-09
+soluble-collagen,dermal,No concerns found,Studies or assessments found no harm,cir-744,2026-11-09
+soluble-collagen,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+soluble-collagen,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+punica-granatum-pomegranate-flower-extract,oral,No concerns found,Studies or assessments found no harm,cir-780,2026-11-09
+punica-granatum-pomegranate-flower-extract,dermal,No concerns found,Studies or assessments found no harm,cir-780,2026-11-09
+punica-granatum-pomegranate-flower-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+punica-granatum-pomegranate-flower-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sclerocarya-birrea-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+sclerocarya-birrea-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+sclerocarya-birrea-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sclerocarya-birrea-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+leuconostoc-radish-root-ferment-filtrate,oral,No concerns found,Studies or assessments found no harm,cir-834,2026-11-09
+leuconostoc-radish-root-ferment-filtrate,dermal,No concerns found,Studies or assessments found no harm,cir-834,2026-11-09
+leuconostoc-radish-root-ferment-filtrate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+leuconostoc-radish-root-ferment-filtrate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+tripeptide-1,oral,No concerns found,Studies or assessments found no harm,cir-633,2026-11-09
+tripeptide-1,dermal,No concerns found,Studies or assessments found no harm,cir-633,2026-11-09
+tripeptide-1,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+tripeptide-1,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+xanthan-gum,oral,No concerns found,Studies or assessments found no harm,cir-611,2026-11-09
+xanthan-gum,dermal,No concerns found,Studies or assessments found no harm,cir-611,2026-11-09
+xanthan-gum,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+xanthan-gum,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+retinyl-palmitate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+retinyl-palmitate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+retinyl-palmitate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+retinyl-palmitate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,oral,No concerns found,Studies or assessments found no harm,cir-928,2026-11-09
+bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,dermal,No concerns found,Studies or assessments found no harm,cir-928,2026-11-09
+bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceresin,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceresin,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceresin,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceresin,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+1-2-hexanediol,oral,No concerns found,Studies or assessments found no harm,cir-576,2026-11-09
+1-2-hexanediol,dermal,No concerns found,Studies or assessments found no harm,cir-576,2026-11-09
+1-2-hexanediol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+1-2-hexanediol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+passiflora-edulis-passion-fruit-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+passiflora-edulis-passion-fruit-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+passiflora-edulis-passion-fruit-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+passiflora-edulis-passion-fruit-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+theobroma-grandiflorum-cupuacu-seed-butter,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+theobroma-grandiflorum-cupuacu-seed-butter,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+theobroma-grandiflorum-cupuacu-seed-butter,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+theobroma-grandiflorum-cupuacu-seed-butter,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+palmitoyl-hexapeptide-12,oral,No concerns found,Studies or assessments found no harm,cir-633,2026-11-09
+palmitoyl-hexapeptide-12,dermal,No concerns found,Studies or assessments found no harm,cir-633,2026-11-09
+palmitoyl-hexapeptide-12,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+palmitoyl-hexapeptide-12,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triolein,oral,No concerns found,Studies or assessments found no harm,cir-742,2026-11-09
+triolein,dermal,No concerns found,Studies or assessments found no harm,cir-742,2026-11-09
+triolein,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triolein,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glyceryl-dioleate,oral,No concerns found,Studies or assessments found no harm,cir-441,2026-11-09
+glyceryl-dioleate,dermal,No concerns found,Studies or assessments found no harm,cir-441,2026-11-09
+glyceryl-dioleate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glyceryl-dioleate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dicalcium-phosphate,oral,No concerns found,Studies or assessments found no harm,cir-710,2026-11-09
+dicalcium-phosphate,dermal,No concerns found,Studies or assessments found no harm,cir-710,2026-11-09
+dicalcium-phosphate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dicalcium-phosphate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-methylstyrene-indene-copolymer,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-methylstyrene-indene-copolymer,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-methylstyrene-indene-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-methylstyrene-indene-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stearalkonium-bentonite,oral,No concerns found,Studies or assessments found no harm,cir-698,2026-11-09
+stearalkonium-bentonite,dermal,No concerns found,Studies or assessments found no harm,cir-698,2026-11-09
+stearalkonium-bentonite,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stearalkonium-bentonite,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polypropylene,oral,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+polypropylene,dermal,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+polypropylene,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polypropylene,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+crambe-abyssinica-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+crambe-abyssinica-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+crambe-abyssinica-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+crambe-abyssinica-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bixa-orellana-seed-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bixa-orellana-seed-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bixa-orellana-seed-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bixa-orellana-seed-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+calcium-titanium-borosilicate,oral,No concerns found,Studies or assessments found no harm,cir-610,2026-11-09
+calcium-titanium-borosilicate,dermal,No concerns found,Studies or assessments found no harm,cir-610,2026-11-09
+calcium-titanium-borosilicate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+calcium-titanium-borosilicate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+neopentyl-glycol-dicaprylate-dicaprate,oral,No concerns found,Studies or assessments found no harm,cir-735,2026-11-09
+neopentyl-glycol-dicaprylate-dicaprate,dermal,No concerns found,Studies or assessments found no harm,cir-735,2026-11-09
+neopentyl-glycol-dicaprylate-dicaprate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+neopentyl-glycol-dicaprylate-dicaprate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+carica-papaya-papaya-fruit-extract,oral,No concerns found,Studies or assessments found no harm,cir-806,2026-11-09
+carica-papaya-papaya-fruit-extract,dermal,No concerns found,Studies or assessments found no harm,cir-806,2026-11-09
+carica-papaya-papaya-fruit-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+carica-papaya-papaya-fruit-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+diphenyl-dimethicone,oral,No concerns found,Studies or assessments found no harm,cir-847,2026-11-09
+diphenyl-dimethicone,dermal,No concerns found,Studies or assessments found no harm,cir-847,2026-11-09
+diphenyl-dimethicone,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+diphenyl-dimethicone,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyurethane-1,oral,No concerns found,Studies or assessments found no harm,cir-736,2026-11-09
+polyurethane-1,dermal,No concerns found,Studies or assessments found no harm,cir-736,2026-11-09
+polyurethane-1,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyurethane-1,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+disiloxane,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+disiloxane,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+disiloxane,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+disiloxane,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+di-c12-13-alkyl-tartrate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+di-c12-13-alkyl-tartrate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+di-c12-13-alkyl-tartrate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+di-c12-13-alkyl-tartrate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-hydroxyethoxypropyl-dimethicone-ipdi-copolymer-ethylcarbamate,oral,No concerns found,Studies or assessments found no harm,cir-664,2026-11-09
+bis-hydroxyethoxypropyl-dimethicone-ipdi-copolymer-ethylcarbamate,dermal,No concerns found,Studies or assessments found no harm,cir-664,2026-11-09
+bis-hydroxyethoxypropyl-dimethicone-ipdi-copolymer-ethylcarbamate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-hydroxyethoxypropyl-dimethicone-ipdi-copolymer-ethylcarbamate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+alcohol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+alcohol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+alcohol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+alcohol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-pentaisononanoate,oral,No concerns found,Studies or assessments found no harm,cir-558,2026-11-09
+dipentaerythrityl-pentaisononanoate,dermal,No concerns found,Studies or assessments found no harm,cir-558,2026-11-09
+dipentaerythrityl-pentaisononanoate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-pentaisononanoate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glucomannan,oral,No concerns found,Studies or assessments found no harm,cir-680,2026-11-09
+glucomannan,dermal,No concerns found,Studies or assessments found no harm,cir-680,2026-11-09
+glucomannan,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glucomannan,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trihydroxystearin,oral,No concerns found,Studies or assessments found no harm,cir-742,2026-11-09
+trihydroxystearin,dermal,No concerns found,Studies or assessments found no harm,cir-742,2026-11-09
+trihydroxystearin,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trihydroxystearin,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+caprylyl-methicone,oral,No concerns found,Studies or assessments found no harm,cir-807,2026-11-09
+caprylyl-methicone,dermal,No concerns found,Studies or assessments found no harm,cir-807,2026-11-09
+caprylyl-methicone,inhalation,Unclear,"Harm reported only in limited, high-dose or inconclusive evidence",cir-807,2026-11-09
+caprylyl-methicone,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceramide-np,oral,No concerns found,Studies or assessments found no harm,cir-674,2026-11-09
+ceramide-np,dermal,No concerns found,Studies or assessments found no harm,cir-674,2026-11-09
+ceramide-np,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceramide-np,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mangifera-indica-mango-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+mangifera-indica-mango-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+mangifera-indica-mango-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mangifera-indica-mango-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+oleic-linoleic-linolenic-polyglycerides,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+oleic-linoleic-linolenic-polyglycerides,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+oleic-linoleic-linolenic-polyglycerides,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+oleic-linoleic-linolenic-polyglycerides,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxystearic-linolenic-oleic-polyglycerides,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxystearic-linolenic-oleic-polyglycerides,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxystearic-linolenic-oleic-polyglycerides,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxystearic-linolenic-oleic-polyglycerides,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rubus-idaeus-raspberry-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+rubus-idaeus-raspberry-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+rubus-idaeus-raspberry-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rubus-idaeus-raspberry-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+tridecyl-trimellitate,oral,No concerns found,Studies or assessments found no harm,cir-690,2026-11-09
+tridecyl-trimellitate,dermal,No concerns found,Studies or assessments found no harm,cir-690,2026-11-09
+tridecyl-trimellitate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+tridecyl-trimellitate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rosa-canina-fruit-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+rosa-canina-fruit-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+rosa-canina-fruit-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rosa-canina-fruit-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rubus-idaeus-raspberry-leaf-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rubus-idaeus-raspberry-leaf-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rubus-idaeus-raspberry-leaf-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rubus-idaeus-raspberry-leaf-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyamide-8,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyamide-8,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyamide-8,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyamide-8,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hexyldecanol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hexyldecanol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hexyldecanol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hexyldecanol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bisabolol,oral,No concerns found,Studies or assessments found no harm,cir-758,2026-11-09
+bisabolol,dermal,No concerns found,Studies or assessments found no harm,cir-758,2026-11-09
+bisabolol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bisabolol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cetylhydroxyproline-palmitamide,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cetylhydroxyproline-palmitamide,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cetylhydroxyproline-palmitamide,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cetylhydroxyproline-palmitamide,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stevia-rebaudiana-leaf-stem-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stevia-rebaudiana-leaf-stem-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stevia-rebaudiana-leaf-stem-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stevia-rebaudiana-leaf-stem-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+gardenia-taitensis-flower-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+gardenia-taitensis-flower-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+gardenia-taitensis-flower-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+gardenia-taitensis-flower-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+brassica-campestris-rapeseed-sterols,oral,No concerns found,Studies or assessments found no harm,cir-651,2026-11-09
+brassica-campestris-rapeseed-sterols,dermal,No concerns found,Studies or assessments found no harm,cir-651,2026-11-09
+brassica-campestris-rapeseed-sterols,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+brassica-campestris-rapeseed-sterols,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-isoprene-copolymer,oral,No concerns found,Studies or assessments found no harm,cir-673,2026-11-09
+hydrogenated-styrene-isoprene-copolymer,dermal,No concerns found,Studies or assessments found no harm,cir-673,2026-11-09
+hydrogenated-styrene-isoprene-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-isoprene-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-tetrahydroxystearate-tetraisostearate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-tetrahydroxystearate-tetraisostearate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-tetrahydroxystearate-tetraisostearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-tetrahydroxystearate-tetraisostearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trigonella-foenum-graecum-seed-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trigonella-foenum-graecum-seed-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trigonella-foenum-graecum-seed-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trigonella-foenum-graecum-seed-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mentha-arvensis-leaf-oil,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mentha-arvensis-leaf-oil,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mentha-arvensis-leaf-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mentha-arvensis-leaf-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+silica-dimethyl-silylate-nano,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+silica-dimethyl-silylate-nano,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+silica-dimethyl-silylate-nano,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+silica-dimethyl-silylate-nano,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+oenothera-biennis-evening-primrose-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+oenothera-biennis-evening-primrose-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+oenothera-biennis-evening-primrose-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+oenothera-biennis-evening-primrose-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+diisostearoyl-polyglyceryl-3-dimer-dilinoleate,oral,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+diisostearoyl-polyglyceryl-3-dimer-dilinoleate,dermal,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+diisostearoyl-polyglyceryl-3-dimer-dilinoleate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+diisostearoyl-polyglyceryl-3-dimer-dilinoleate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+talc,oral,No concerns found,Studies or assessments found no harm,cir-467,2026-11-09
+talc,dermal,No concerns found,Studies or assessments found no harm,cir-467,2026-11-09
+talc,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+talc,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+synthetic-japan-wax,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+synthetic-japan-wax,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+synthetic-japan-wax,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+synthetic-japan-wax,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77947,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2991,2026-11-09
+ci-77947,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2991,2026-11-09
+ci-77947,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ci-77947,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2991,2026-11-09
+aluminum-calcium-sodium-silicate,oral,No concerns found,Studies or assessments found no harm,cir-808,2026-11-09
+aluminum-calcium-sodium-silicate,dermal,No concerns found,Studies or assessments found no harm,cir-808,2026-11-09
+aluminum-calcium-sodium-silicate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aluminum-calcium-sodium-silicate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+titanium-titanium-dioxide,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+titanium-titanium-dioxide,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+titanium-titanium-dioxide,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+titanium-titanium-dioxide,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylhexyl-hydroxystearate,oral,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+ethylhexyl-hydroxystearate,dermal,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+ethylhexyl-hydroxystearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylhexyl-hydroxystearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trimethylsiloxysilicate-dimethiconol-crosspolymer,oral,No concerns found,Studies or assessments found no harm,cir-571,2026-11-09
+trimethylsiloxysilicate-dimethiconol-crosspolymer,dermal,No concerns found,Studies or assessments found no harm,cir-571,2026-11-09
+trimethylsiloxysilicate-dimethiconol-crosspolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trimethylsiloxysilicate-dimethiconol-crosspolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ppg-51-smdi-copolymer,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ppg-51-smdi-copolymer,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ppg-51-smdi-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ppg-51-smdi-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polymethyl-methacrylate,oral,No concerns found,Studies or assessments found no harm,cir-763,2026-11-09
+polymethyl-methacrylate,dermal,No concerns found,Studies or assessments found no harm,cir-763,2026-11-09
+polymethyl-methacrylate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polymethyl-methacrylate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hdi-trimethylol-hexyllactone-crosspolymer,oral,No concerns found,Studies or assessments found no harm,cir-704,2026-11-09
+hdi-trimethylol-hexyllactone-crosspolymer,dermal,No concerns found,Studies or assessments found no harm,cir-704,2026-11-09
+hdi-trimethylol-hexyllactone-crosspolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hdi-trimethylol-hexyllactone-crosspolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+petrolatum,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+petrolatum,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+petrolatum,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+petrolatum,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polydecene,oral,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+polydecene,dermal,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+polydecene,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polydecene,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triethoxysilylethyl-polydimethylsiloxyethyl-dimethicone,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triethoxysilylethyl-polydimethylsiloxyethyl-dimethicone,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triethoxysilylethyl-polydimethylsiloxyethyl-dimethicone,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triethoxysilylethyl-polydimethylsiloxyethyl-dimethicone,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+acrylates-ethylhexyl-acrylate-dimethicone-methacrylate-copolymer,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+acrylates-ethylhexyl-acrylate-dimethicone-methacrylate-copolymer,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+acrylates-ethylhexyl-acrylate-dimethicone-methacrylate-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+acrylates-ethylhexyl-acrylate-dimethicone-methacrylate-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+saccharin,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+saccharin,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+saccharin,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+saccharin,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glycine-soja-soybean-seed-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glycine-soja-soybean-seed-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glycine-soja-soybean-seed-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glycine-soja-soybean-seed-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c12-15-alkyl-benzoate,oral,No concerns found,Studies or assessments found no harm,cir-578,2026-11-09
+c12-15-alkyl-benzoate,dermal,No concerns found,Studies or assessments found no harm,cir-578,2026-11-09
+c12-15-alkyl-benzoate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c12-15-alkyl-benzoate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+phytosteryl-isostearate,oral,No concerns found,Studies or assessments found no harm,cir-651,2026-11-09
+phytosteryl-isostearate,dermal,No concerns found,Studies or assessments found no harm,cir-651,2026-11-09
+phytosteryl-isostearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+phytosteryl-isostearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+peg-10-phytosterol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+peg-10-phytosterol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+peg-10-phytosterol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+peg-10-phytosterol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+argania-spinosa-kernel-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+argania-spinosa-kernel-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+argania-spinosa-kernel-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+argania-spinosa-kernel-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rosa-moschata-seed-oil,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rosa-moschata-seed-oil,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rosa-moschata-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+rosa-moschata-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isopropyl-myristate,oral,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+isopropyl-myristate,dermal,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+isopropyl-myristate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isopropyl-myristate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylhexyl-methoxycinnamate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylhexyl-methoxycinnamate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylhexyl-methoxycinnamate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylhexyl-methoxycinnamate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylhexyl-salicylate,oral,No concerns found,Studies or assessments found no harm,cir-766,2026-11-09
+ethylhexyl-salicylate,dermal,No concerns found,Studies or assessments found no harm,cir-766,2026-11-09
+ethylhexyl-salicylate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylhexyl-salicylate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isopropyl-palmitate,oral,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+isopropyl-palmitate,dermal,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+isopropyl-palmitate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isopropyl-palmitate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+centella-asiatica-extract,oral,No concerns found,Studies or assessments found no harm,cir-685,2026-11-09
+centella-asiatica-extract,dermal,No concerns found,Studies or assessments found no harm,cir-685,2026-11-09
+centella-asiatica-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+centella-asiatica-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citral,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citral,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citral,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citral,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hexyl-cinnamal,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hexyl-cinnamal,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hexyl-cinnamal,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hexyl-cinnamal,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+geraniol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+geraniol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+geraniol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+geraniol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+eugenol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+eugenol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+eugenol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+eugenol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aloe-barbadensis-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aloe-barbadensis-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aloe-barbadensis-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+aloe-barbadensis-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mel-honey-miel,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mel-honey-miel,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mel-honey-miel,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+mel-honey-miel,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+calcium-pantothenate,oral,No concerns found,Studies or assessments found no harm,cir-737,2026-11-09
+calcium-pantothenate,dermal,No concerns found,Studies or assessments found no harm,cir-737,2026-11-09
+calcium-pantothenate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+calcium-pantothenate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ascorbic-acid,oral,No concerns found,Studies or assessments found no harm,cir-278,2026-11-09
+ascorbic-acid,dermal,No concerns found,Studies or assessments found no harm,cir-278,2026-11-09
+ascorbic-acid,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ascorbic-acid,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-chondroitin-sulfate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-chondroitin-sulfate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-chondroitin-sulfate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-chondroitin-sulfate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+atelocollagen,oral,No concerns found,Studies or assessments found no harm,cir-744,2026-11-09
+atelocollagen,dermal,No concerns found,Studies or assessments found no harm,cir-744,2026-11-09
+atelocollagen,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+atelocollagen,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sorbic-acid,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sorbic-acid,dermal,No concerns found,Studies or assessments found no harm,cir-152,2026-11-09
+sorbic-acid,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sorbic-acid,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-saccharin,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-saccharin,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-saccharin,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sodium-saccharin,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polybutylene-terephthalate,oral,No concerns found,Studies or assessments found no harm,cir-629,2026-11-09
+polybutylene-terephthalate,dermal,No concerns found,Studies or assessments found no harm,cir-629,2026-11-09
+polybutylene-terephthalate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polybutylene-terephthalate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylene-va-copolymer,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylene-va-copolymer,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylene-va-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylene-va-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+magnesium-silicate,oral,No concerns found,Studies or assessments found no harm,cir-808,2026-11-09
+magnesium-silicate,dermal,No concerns found,Studies or assessments found no harm,cir-808,2026-11-09
+magnesium-silicate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+magnesium-silicate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trimethylsiloxyphenyl-dimethicone,oral,No concerns found,Studies or assessments found no harm,cir-847,2026-11-09
+trimethylsiloxyphenyl-dimethicone,dermal,No concerns found,Studies or assessments found no harm,cir-847,2026-11-09
+trimethylsiloxyphenyl-dimethicone,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trimethylsiloxyphenyl-dimethicone,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+acrylates-dimethicone-copolymer,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+acrylates-dimethicone-copolymer,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+acrylates-dimethicone-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+acrylates-dimethicone-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polypropylsilsesquioxane,oral,No concerns found,Studies or assessments found no harm,cir-743,2026-11-09
+polypropylsilsesquioxane,dermal,No concerns found,Studies or assessments found no harm,cir-743,2026-11-09
+polypropylsilsesquioxane,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polypropylsilsesquioxane,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stearyl-heptanoate,oral,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+stearyl-heptanoate,dermal,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+stearyl-heptanoate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stearyl-heptanoate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-methyl-styrene-indene-copolymer,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-methyl-styrene-indene-copolymer,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-methyl-styrene-indene-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-styrene-methyl-styrene-indene-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+silica-silylate,oral,No concerns found,Studies or assessments found no harm,cir-584,2026-11-09
+silica-silylate,dermal,No concerns found,Studies or assessments found no harm,cir-584,2026-11-09
+silica-silylate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+silica-silylate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citronellol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citronellol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citronellol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citronellol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+disodium-stearoyl-glutamate,oral,No concerns found,Studies or assessments found no harm,cir-645,2026-11-09
+disodium-stearoyl-glutamate,dermal,No concerns found,Studies or assessments found no harm,cir-645,2026-11-09
+disodium-stearoyl-glutamate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+disodium-stearoyl-glutamate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polymethylsilsesquioxane-trimethylsiloxysilicate,oral,No concerns found,Studies or assessments found no harm,cir-743,2026-11-09
+polymethylsilsesquioxane-trimethylsiloxysilicate,dermal,No concerns found,Studies or assessments found no harm,cir-743,2026-11-09
+polymethylsilsesquioxane-trimethylsiloxysilicate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polymethylsilsesquioxane-trimethylsiloxysilicate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c30-45-alkyldimethylsilyl-polypropylsilsesquioxane,oral,No concerns found,Studies or assessments found no harm,cir-743,2026-11-09
+c30-45-alkyldimethylsilyl-polypropylsilsesquioxane,dermal,No concerns found,Studies or assessments found no harm,cir-743,2026-11-09
+c30-45-alkyldimethylsilyl-polypropylsilsesquioxane,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c30-45-alkyldimethylsilyl-polypropylsilsesquioxane,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trimethyl-pentaphenyl-trisiloxane,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trimethyl-pentaphenyl-trisiloxane,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trimethyl-pentaphenyl-trisiloxane,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+trimethyl-pentaphenyl-trisiloxane,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-stearyl-dimethicone,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-stearyl-dimethicone,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-stearyl-dimethicone,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+bis-stearyl-dimethicone,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dimethiconol,oral,No concerns found,Studies or assessments found no harm,cir-571,2026-11-09
+dimethiconol,dermal,No concerns found,Studies or assessments found no harm,cir-571,2026-11-09
+dimethiconol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dimethiconol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-hexahydroxystearate-hexastearate-hexarosinate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-hexahydroxystearate-hexastearate-hexarosinate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-hexahydroxystearate-hexastearate-hexarosinate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipentaerythrityl-hexahydroxystearate-hexastearate-hexarosinate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cetyl-ethylhexanoate,oral,No concerns found,Studies or assessments found no harm,cir-637,2026-11-09
+cetyl-ethylhexanoate,dermal,No concerns found,Studies or assessments found no harm,cir-637,2026-11-09
+cetyl-ethylhexanoate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cetyl-ethylhexanoate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c20-40-alcohols,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c20-40-alcohols,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c20-40-alcohols,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c20-40-alcohols,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dimer-dilinoleyl-dimer-dilinoleate,oral,No concerns found,Studies or assessments found no harm,cir-928,2026-11-09
+dimer-dilinoleyl-dimer-dilinoleate,dermal,No concerns found,Studies or assessments found no harm,cir-928,2026-11-09
+dimer-dilinoleyl-dimer-dilinoleate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dimer-dilinoleyl-dimer-dilinoleate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glyceryl-behenate-eicosadioate,oral,No concerns found,Studies or assessments found no harm,cir-706,2026-11-09
+glyceryl-behenate-eicosadioate,dermal,No concerns found,Studies or assessments found no harm,cir-706,2026-11-09
+glyceryl-behenate-eicosadioate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glyceryl-behenate-eicosadioate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triethyl-citrate,oral,No concerns found,Studies or assessments found no harm,cir-590,2026-11-09
+triethyl-citrate,dermal,No concerns found,Studies or assessments found no harm,cir-590,2026-11-09
+triethyl-citrate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+triethyl-citrate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+orbignya-oleifera-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+orbignya-oleifera-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+orbignya-oleifera-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+orbignya-oleifera-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stevioside,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stevioside,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stevioside,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+stevioside,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+o-cymen-5-ol,oral,No concerns found,Studies or assessments found no harm,cir-277,2026-11-09
+o-cymen-5-ol,dermal,No concerns found,Studies or assessments found no harm,cir-277,2026-11-09
+o-cymen-5-ol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+o-cymen-5-ol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-cottonseed-oil,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-cottonseed-oil,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-cottonseed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-cottonseed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c9-12-alkane,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c9-12-alkane,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c9-12-alkane,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c9-12-alkane,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sucrose-tetrastearate-triacetate,oral,No concerns found,Studies or assessments found no harm,cir-721,2026-11-09
+sucrose-tetrastearate-triacetate,dermal,No concerns found,Studies or assessments found no harm,cir-721,2026-11-09
+sucrose-tetrastearate-triacetate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sucrose-tetrastearate-triacetate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-4-diisostearate-polyhydroxystearate-sebacate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-4-diisostearate-polyhydroxystearate-sebacate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-4-diisostearate-polyhydroxystearate-sebacate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-4-diisostearate-polyhydroxystearate-sebacate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+diisopropyl-sebacate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+diisopropyl-sebacate,dermal,No concerns found,Studies or assessments found no harm,cir-528,2026-11-09
+diisopropyl-sebacate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+diisopropyl-sebacate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sr-hydrozoan-polypeptide-1,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sr-hydrozoan-polypeptide-1,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sr-hydrozoan-polypeptide-1,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sr-hydrozoan-polypeptide-1,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sebacic-acid,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sebacic-acid,dermal,No concerns found,Studies or assessments found no harm,cir-528,2026-11-09
+sebacic-acid,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+sebacic-acid,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+potassium-sorbate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+potassium-sorbate,dermal,No concerns found,Studies or assessments found no harm,cir-152,2026-11-09
+potassium-sorbate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+potassium-sorbate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isoamyl-laurate,oral,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+isoamyl-laurate,dermal,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+isoamyl-laurate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isoamyl-laurate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-jojoba-oil,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-jojoba-oil,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-jojoba-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydrogenated-jojoba-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+colophonium,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+colophonium,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+colophonium,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+colophonium,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+nylon-611-dimethicone-copolymer,oral,No concerns found,Studies or assessments found no harm,cir-613,2026-11-09
+nylon-611-dimethicone-copolymer,dermal,No concerns found,Studies or assessments found no harm,cir-613,2026-11-09
+nylon-611-dimethicone-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+nylon-611-dimethicone-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lauroyl-lysine,oral,No concerns found,Studies or assessments found no harm,cir-645,2026-11-09
+lauroyl-lysine,dermal,No concerns found,Studies or assessments found no harm,cir-645,2026-11-09
+lauroyl-lysine,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lauroyl-lysine,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+paraffin,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+paraffin,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+paraffin,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+paraffin,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isononyl-isononanoate,oral,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+isononyl-isononanoate,dermal,No concerns found,Studies or assessments found no harm,cir-623,2026-11-09
+isononyl-isononanoate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+isononyl-isononanoate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+gardenia-florida-fruit-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+gardenia-florida-fruit-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+gardenia-florida-fruit-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+gardenia-florida-fruit-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+nelumbo-nucifera-flower-extract,oral,No concerns found,Studies or assessments found no harm,cir-917,2026-11-09
+nelumbo-nucifera-flower-extract,dermal,No concerns found,Studies or assessments found no harm,cir-917,2026-11-09
+nelumbo-nucifera-flower-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+nelumbo-nucifera-flower-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+nymphaea-odorata-root-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+nymphaea-odorata-root-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+nymphaea-odorata-root-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+nymphaea-odorata-root-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+methyl-trimethicone,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+methyl-trimethicone,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+methyl-trimethicone,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+methyl-trimethicone,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+geranyl-acetate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+geranyl-acetate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+geranyl-acetate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+geranyl-acetate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citrus-aurantium-amara-bitter-orange-peel-oil,oral,No concerns found,Studies or assessments found no harm,cir-666,2026-11-09
+citrus-aurantium-amara-bitter-orange-peel-oil,dermal,No concerns found,Studies or assessments found no harm,cir-666,2026-11-09
+citrus-aurantium-amara-bitter-orange-peel-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+citrus-aurantium-amara-bitter-orange-peel-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+benzyl-salicylate,oral,No concerns found,Studies or assessments found no harm,cir-778,2026-11-09
+benzyl-salicylate,dermal,No concerns found,Studies or assessments found no harm,cir-778,2026-11-09
+benzyl-salicylate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+benzyl-salicylate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c13-15-alkane,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c13-15-alkane,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c13-15-alkane,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+c13-15-alkane,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylene-propylene-copolymer,oral,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+ethylene-propylene-copolymer,dermal,No concerns found,Studies or assessments found no harm,cir-687,2026-11-09
+ethylene-propylene-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ethylene-propylene-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glyceryl-caprylate,oral,No concerns found,Studies or assessments found no harm,cir-706,2026-11-09
+glyceryl-caprylate,dermal,No concerns found,Studies or assessments found no harm,cir-706,2026-11-09
+glyceryl-caprylate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+glyceryl-caprylate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-2-diisostearate,oral,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-2-diisostearate,dermal,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-2-diisostearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-2-diisostearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+iron-oxides-unspecified,oral,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
+iron-oxides-unspecified,dermal,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
+iron-oxides-unspecified,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+iron-oxides-unspecified,eye,No concerns found,Approved for this use by a regulator (US_FDA),cfr-73-2250,2026-11-09
+dipropylene-glycol,oral,No concerns found,Studies or assessments found no harm,cir-193,2026-11-09
+dipropylene-glycol,dermal,No concerns found,Studies or assessments found no harm,cir-193,2026-11-09
+dipropylene-glycol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipropylene-glycol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polysorbate-60,oral,No concerns found,Studies or assessments found no harm,cir-696,2026-11-09
+polysorbate-60,dermal,No concerns found,Studies or assessments found no harm,cir-696,2026-11-09
+polysorbate-60,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polysorbate-60,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+pentylene-glycol,oral,No concerns found,Studies or assessments found no harm,cir-576,2026-11-09
+pentylene-glycol,dermal,No concerns found,Studies or assessments found no harm,cir-576,2026-11-09
+pentylene-glycol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+pentylene-glycol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,dermal,No concerns found,Studies or assessments found no harm,cir-714,2026-11-09
+hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+menthoxypropanediol,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+menthoxypropanediol,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+menthoxypropanediol,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+menthoxypropanediol,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceteareth-20,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceteareth-20,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceteareth-20,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ceteareth-20,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ammonium-polyacrylate,oral,No concerns found,Studies or assessments found no harm,cir-763,2026-11-09
+ammonium-polyacrylate,dermal,No concerns found,Studies or assessments found no harm,cir-763,2026-11-09
+ammonium-polyacrylate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+ammonium-polyacrylate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hibiscus-sabdariffa-flower-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hibiscus-sabdariffa-flower-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hibiscus-sabdariffa-flower-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hibiscus-sabdariffa-flower-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+brassica-campestris-rapeseed-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+brassica-campestris-rapeseed-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+brassica-campestris-rapeseed-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+brassica-campestris-rapeseed-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+prunus-amygdalus-dulcis-sweet-almond-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+prunus-amygdalus-dulcis-sweet-almond-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+prunus-amygdalus-dulcis-sweet-almond-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+prunus-amygdalus-dulcis-sweet-almond-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+opuntia-ficus-indica-flower-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+opuntia-ficus-indica-flower-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+opuntia-ficus-indica-flower-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+opuntia-ficus-indica-flower-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+camelina-sativa-seed-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+camelina-sativa-seed-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+camelina-sativa-seed-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+camelina-sativa-seed-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+linalyl-acetate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+linalyl-acetate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+linalyl-acetate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+linalyl-acetate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+paeonia-officinalis-flower-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+paeonia-officinalis-flower-extract,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+paeonia-officinalis-flower-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+paeonia-officinalis-flower-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+methyl-hydrogenated-rosinate,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+methyl-hydrogenated-rosinate,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+methyl-hydrogenated-rosinate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+methyl-hydrogenated-rosinate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-10-decaisostearate,oral,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-10-decaisostearate,dermal,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-10-decaisostearate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-10-decaisostearate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-3-beeswax,oral,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-3-beeswax,dermal,No concerns found,Studies or assessments found no harm,cir-717,2026-11-09
+polyglyceryl-3-beeswax,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+polyglyceryl-3-beeswax,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipalmitoyl-hydroxyproline,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipalmitoyl-hydroxyproline,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipalmitoyl-hydroxyproline,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dipalmitoyl-hydroxyproline,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+capsicum-frutescens-fruit-extract,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+capsicum-frutescens-fruit-extract,dermal,No concerns found,Studies or assessments found no harm,cir-319,2026-11-09
+capsicum-frutescens-fruit-extract,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+capsicum-frutescens-fruit-extract,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+anethole,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+anethole,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+anethole,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+anethole,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+canola-oil,oral,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+canola-oil,dermal,No concerns found,Studies or assessments found no harm,cir-577,2026-11-09
+canola-oil,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+canola-oil,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dextrin-myristate,oral,No concerns found,Studies or assessments found no harm,cir-680,2026-11-09
+dextrin-myristate,dermal,No concerns found,Studies or assessments found no harm,cir-680,2026-11-09
+dextrin-myristate,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+dextrin-myristate,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxystearic-acid,oral,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+hydroxystearic-acid,dermal,No concerns found,Studies or assessments found no harm,cir-777,2026-11-09
+hydroxystearic-acid,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxystearic-acid,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lanolin,oral,No concerns found,Studies or assessments found no harm,cir-889,2026-11-09
+lanolin,dermal,No concerns found,Studies or assessments found no harm,cir-889,2026-11-09
+lanolin,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+lanolin,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxycitronellal,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxycitronellal,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxycitronellal,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+hydroxycitronellal,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cinnamal,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cinnamal,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cinnamal,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+cinnamal,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+pinene,oral,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+pinene,dermal,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+pinene,inhalation,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09
+pinene,eye,No research found,No relevant studies or regulatory opinions found for this route,,2026-11-09

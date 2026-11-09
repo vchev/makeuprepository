@@ -160,6 +160,7 @@ def page(title, root, body, description=""):
   <nav aria-label="Main">
     <a href="{root}">Lipsticks</a>
     <a href="{root}ingredients/">Ingredients</a>
+    <a href="{root}top-lists/">Top lists</a>
     <a href="{root}how-we-rate/">How we rate</a>
     <a href="{root}about/">About and disclaimer</a>
   </nav>
@@ -603,6 +604,11 @@ main{display:flex;flex-direction:column;gap:40px;padding-top:16px;padding-bottom
 .search{width:100%;max-width:640px;display:flex;flex-direction:column;gap:8px;text-align:left}
 .search label{font-size:14px;font-weight:600}
 .search input{font:inherit;font-size:18px;padding:14px 22px;border:1px solid #CDBFB6;border-radius:999px;background:#fff;color:var(--ink);width:100%}
+.rank-list{list-style:none;padding:0;margin:0;display:grid;gap:14px}
+.rank-row{display:flex;gap:14px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px}
+.rank{font-family:Fraunces,serif;font-size:28px;font-weight:700;min-width:2ch;line-height:1}
+.rank-body{display:flex;flex-direction:column;gap:6px;flex:1;min-width:0;text-decoration:none;color:inherit}
+.count{font-size:.7em;font-weight:400}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr));gap:20px}
 .card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:20px;overflow:hidden;text-decoration:none;color:inherit}
 .card:hover{border-color:var(--accent);color:inherit}
@@ -737,6 +743,68 @@ JS = r"""
 })();
 """
 
+# Printed names that mean added scent or flavor. A fact about the label, not a rating.
+SCENT_IDS = {"fragrance", "flavor"}
+TOP_N = 10
+
+
+def rank_row(site, pid, root, rank=None):
+    p = site.products[pid]
+    brand = site.brands[p["brand_id"]]["name"]
+    c = site.counts(pid, site.product_ingredients(pid))
+    pct = round(100 * c["clear"] / (c["n"] or 1))
+    num = f'<span class="rank">{rank}</span>' if rank else ""
+    return f'''<li class="rank-row">{num}<a href="{root}lipsticks/{pid}/" class="rank-body">
+  <span class="eyebrow">{e(brand)} · {e(CATEGORY.get(p["category"], p["category"]))}</span>
+  <span class="card-title">{e(p["name"])}</span>
+  <span class="muted">{c["clear"]} of {c["n"]} ingredients ({pct}%) have full research with no concerns found</span>
+  {bar(c)}
+  {legend(c)}
+</a></li>'''
+
+
+def top_lists(site):
+    root = "../"
+    pids = [pid for pid in site.products if site.lists[pid]]
+    info = {}
+    for pid in pids:
+        ids = site.product_ingredients(pid)
+        c = site.counts(pid, ids)
+        info[pid] = (c, ids)
+    # Ranked by research coverage: the share of the formula with full research and no concerns
+    # found. Ties: fewer ingredients worth a closer look, then more ingredients researched.
+    ranked = sorted(pids, key=lambda pid: (-info[pid][0]["clear"] / (info[pid][0]["n"] or 1),
+                                           info[pid][0]["look"], -info[pid][0]["clear"], site.products[pid]["name"]))
+    best = "".join(rank_row(site, pid, root, i + 1) for i, pid in enumerate(ranked[:TOP_N]))
+
+    def fact_list(title, intro, chosen, empty):
+        rows = "".join(rank_row(site, pid, root) for pid in sorted(chosen, key=lambda x: full_name(site, x).lower()))
+        inner = f'<ul class="rank-list">{rows}</ul>' if chosen else f'<p class="muted">{empty}</p>'
+        return f'''<section class="stack">
+  <h2>{title} <span class="muted count">({len(chosen)})</span></h2>
+  <p>{intro}</p>
+  {inner}
+</section>'''
+
+    no_flag = [pid for pid in pids if info[pid][0]["look"] == 0]
+    no_scent = [pid for pid in pids if not SCENT_IDS & set(info[pid][1])]
+    all_clear = [pid for pid in pids if info[pid][0]["clear"] == info[pid][0]["n"]]
+    body = f'''<article class="stack">
+<h1>Top lists</h1>
+<p class="lede">These lists are built automatically from the ingredient ratings and the printed labels. They show how well each formula's ingredients have been researched and what is on the label. They are not safety rankings, and no product is called safe or unsafe.</p>
+<p class="muted">No brand pays to appear on or be left off a list. Lists cover every shade label we captured for a product. Ingredient lists can change: always check the label on your product.</p>
+<section class="stack">
+  <h2>Best-researched formulas</h2>
+  <p>Ranked by the share of each product's ingredients that have a full safety report or regulator approval with no concerns found, for both skin contact and swallowing. A lower place usually means some ingredients have not been researched yet, which is a gap in the evidence, not a sign of harm. Ties go to the product with fewer ingredients worth a closer look.</p>
+  <ol class="rank-list">{best}</ol>
+</section>
+{fact_list("No ingredient worth a closer look", "None of the ingredients on these products' labels is currently rated Evidence of harm, Known allergen or Unclear. Some ingredients may not be researched yet.", no_flag, "Every product currently has at least one ingredient worth a closer look.")}
+{fact_list("No added fragrance or flavor on the label", "None of these products' labels lists fragrance (parfum) or flavor (aroma). Individual scent chemicals such as limonene or vanillin can still appear, and are shown on each product page.", no_scent, "Every product lists fragrance or flavor.")}
+{fact_list("Every ingredient researched, no concerns found", "Every ingredient on these products' labels has a full safety report or regulator approval with no concerns found.", all_clear, "No product reaches this yet. As more research is added, products will appear here.")}
+<p class="muted"><a href="{root}how-we-rate/">How we rate</a> · <a href="{root}about/">About and disclaimer</a></p>
+</article>'''
+    return page(f"Top lists · {SITE}", root, body, "Lipsticks ranked by how well their ingredients are researched, plus label-based lists.")
+
 
 def write(path, text):
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -767,7 +835,8 @@ def build(data_dir, out_dir):
             pages += 1
     write(out_dir / "how-we-rate" / "index.html", how_page())
     write(out_dir / "about" / "index.html", about_page())
-    return pages + 3
+    write(out_dir / "top-lists" / "index.html", top_lists(site))
+    return pages + 4
 
 
 def main():
