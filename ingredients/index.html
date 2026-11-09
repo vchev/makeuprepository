@@ -1,0 +1,19 @@
+---
+title: Ingredients
+description: Ingredient-by-ingredient summaries of hazard, real-world exposure and regulation.
+---
+<h1>Ingredients</h1>
+<p class="lede">Each page separates what an ingredient <em>can</em> do under some condition (hazard) from what it is likely to do at the dose and route you get from makeup (risk).</p>
+<ul class="cards">
+  {% assign items = site.ingredients | sort: "title" %}
+  {% for i in items %}
+  <li class="card">
+    <a href="{{ i.url | relative_url }}">
+      <span class="card-title">{{ i.title }}</span>
+      <span class="pill pill-{{ i.risk_level | default: 'low' }}">{{ i.risk_label }}</span>
+      <span class="card-text">{{ i.summary }}</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+<p class="muted">More ingredients are on the way: parabens, formaldehyde releasers, lake dyes, talc, PFAS, heavy metals and silicones.</p>
