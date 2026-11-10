@@ -1,4 +1,4 @@
-list_id,position,ingredient_id,name_as_printed,may_contain
-example-lipstick-nude,1,castor-oil,Ricinus Communis Seed Oil,no
-example-lipstick-nude,2,linalool,Linalool,no
-example-lipstick-nude,3,titanium-dioxide,Titanium Dioxide (CI 77891),yes
+list_id,position,ingredient_id,name_as_printed,may_contain,active
+example-lipstick-nude,1,castor-oil,Ricinus Communis Seed Oil,no,no
+example-lipstick-nude,2,linalool,Linalool,no,no
+example-lipstick-nude,3,titanium-dioxide,Titanium Dioxide (CI 77891),yes,no

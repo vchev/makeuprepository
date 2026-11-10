@@ -9,7 +9,7 @@ One CSV file per table. The design is described in the project's design doc; thi
 | `brands.csv` | A brand |
 | `products.csv` | A product line (category decides which exposure routes apply) |
 | `ingredient_lists.csv` | One captured label, exactly as printed, with date and URL |
-| `list_items.csv` | One ingredient on one label, with its position |
+| `list_items.csv` | One ingredient on one label, with its position, and whether it is a Drug Facts active ingredient |
 | `ingredients.csv` | A distinct substance (INCI name, CAS, CI number) |
 | `sources.csv` | A document: study, review, regulatory opinion, regulation, IARC monograph |
 | `findings.csv` | One conclusion from one source about one ingredient, by endpoint and route |
@@ -49,7 +49,7 @@ python3 tests/test_rate.py   # check the rules against a small fixture
 
 ## Ingredient labels
 
-Labels are copied verbatim from each brand's official product page (never from Sephora), with the URL and capture date in `ingredient_lists.csv`. When a brand prints different lists per shade, each list is its own row. `scripts/import_labels.py` splits every label into `list_items.csv` and adds any new ingredients; colorants are keyed by their CI number.
+Labels are copied verbatim from each brand's official product page (never from Sephora), with the URL and capture date in `ingredient_lists.csv`. SPF lip products (categories `lip_balm_spf` and `lip_gloss_spf`) are US over-the-counter drugs: their labels are stored as `Active Ingredients: ... Inactive Ingredients: ...`, and the importer marks the actives (`active = yes`), keeping the printed strength in `name_as_printed`. When a brand prints different lists per shade, each list is its own row. `scripts/import_labels.py` splits every label into `list_items.csv` and adds any new ingredients; colorants are keyed by their CI number.
 
 ```sh
 cd scripts && python3 import_labels.py && cd .. && python3 scripts/rate.py
